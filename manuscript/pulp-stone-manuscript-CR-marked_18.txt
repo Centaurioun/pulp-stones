@@ -1,0 +1,19 @@
+ All individuals involved in the study were informed of its scope and details to ensure that they understood the ethical considerations involved.
+
+The sampled data for the study were obtained from the Istanbul Aydın University Department of Oral and Maxillofacial Radiology Archives. The sample was chosen based on full-scale jaw images from at least one image of every type of tooth that had completed its root development, had a closed apex, and had not undergone endodontic treatment. The aim of this was to ensure that the sample was representative of the population being studied and that the results obtained were valid and reliable.
+
+In conclusion, this study was conducted in accordance with established protocols and ethical guidelines to ensure that patient confidentiality and data safety were maintained. The sample was chosen based on specific criteria to ensure that the results obtained were valid and reliable.
+
+In this study, a rigorous selection process was employed to ensure that only high-quality radiographs were included in the sample. Teeth with significant levels of deconstruction or destruction, internal and external root reabsorption, tooth crown restorations, and extensive metallic restorations were excluded from the sampling. This was done to minimize any potential confounding factors that could affect the accuracy and reliability of the radiographic images.
+
+Furthermore, poor quality and/or indiscernible radiographs were also excluded from the study. This was to ensure that only clear and well-defined images were included in the analysis. By doing so, the researchers were able to focus on the specific features and structures of interest, without any interference from artifacts or other imaging artifacts that could obscure the data.
+
+To obtain the radiographic images, the researchers used the Morita 3D Accuitomo 170 Dental CBCT device made in Japan. This state-of-the-art device has a voxel size of 80 m and 14-bit grayscale capability with nine fields of view. The images were obtained using the standard scanning protocol, which involved operating the CBCT unit at 90 kV and 5 milliamperes for 30.8 seconds using standard exposure parameters. A field of view of 140 x 100 mm was used, which allowed for a detailed visualization of the teeth and surrounding structures.
+
+The resulting scans were saved in Digital Imaging and Communications in Medicine (DICOM) format, which is a widely used standard for medical imaging. This facilitated the processing and assessment of the images using specialized software.
+
+To ensure that the radiographs were analyzed accurately and consistently, all specimens were assessed in a dark room on a high-resolution Dell U3014 Ultrasharp 30-inch computer running the i-Dixel 2.0 (Morita) software. This comprehensive 3D imaging program allowed for a detailed inspection of the teeth and surrounding structures, and enabled the researchers to determine whether they met the inclusion criteria.
+
+Overall, this study employed a rigorous selection process and state-of-the-art imaging technology to obtain high-quality radiographs that were suitable for analysis. By doing so, the researchers were able to obtain accurate and reliable data, which could be used to further our understanding of the structure and function of teeth.
+
+The present study involved the evaluation of axial, sagittal, and coronal cross sections of dental segments from the cementoenamel junction to the apex.

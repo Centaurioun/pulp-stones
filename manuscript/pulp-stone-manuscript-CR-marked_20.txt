@@ -1,0 +1,17 @@
+ By ensuring that the test is consistent and stable, researchers can have greater confidence in the results and conclusions they draw from the data. There are several types of reliability tests that may be used depending on the nature of the test, and each has its unique benefits and limitations. Ultimately, the goal of the reliability test is to enhance the accuracy and dependability of the test results, which benefits both researchers and test-takers alike.
+
+RESULTS
+
+This study was conducted with a total of 5866 tooth specimens belonging to 297 individuals. The sample population consisted of 158 (53.2%) male and 139 (46.8%) female individuals, with an age range of 18 to 71 years. The mean age of the participants was found to be 39.67±13.88 years. Out of the total number of individuals, 154 (51.9%) fell in the age group of 18 to 40 years, while 143 (48.1%) were 41 years of age or older. The kappa values for all observations that were part of the study were found to be excellent.
+
+The teeth analyzed in this study were divided into two groups, maxilla and mandible. It was observed that 46.6% of the teeth belonged to the maxilla, while 57.4% belonged to the mandible. The study further revealed that 18.7% of the teeth were mandibular incisors, 16.1% were mandibular incisors, 15.3% were mandibular premolars, 11.8% were maxillary premolars, 10.8% were maxillary molars, 9.8% were mandibular molars, 9.6% were mandibular molars, and 7.8% were maxillary molars. In total, 34.8% of the teeth were incisors, 27.2% were premolars, 20.6% were molars, and 17.4% were canines.
+
+The prevalence of pulp stones was also studied in this research. It was found that 13.7% of all the teeth studied (n=806) contained pulp stones. Interestingly, there was no significant difference in the prevalence of pulp stones between male and female individuals. The prevalence of pulp stones in male and female individuals was found to be 13.9% and 13.6%, respectively. However, the study did reveal that the prevalence of pulp stones was higher in individuals aged 41 years and older, with a prevalence of 15%.
+
+In conclusion, this study provides valuable insights into the prevalence of pulp stones in different age groups and genders, as well as their distribution in different teeth. These findings can be useful for dental professionals in making informed decisions while diagnosing and treating dental conditions.
+
+The study conducted on dental health showed that restorative treatment was prevalent in individuals aged between 18 and 40 years, with a rate of 12.4%. This rate was found to be statistically significant, with a p-value of 0.001, indicating that the prevalence of restorative treatment was higher in this age group. Interestingly, the prevalence of restorative treatment was higher in females (11%) as compared to males (8%), and this difference was also statistically significant with a p-value of 0.001.
+
+When comparing the prevalence of restorative treatment between different age groups, it was found that the prevalence was 8.8% in individuals aged between 18 and 40 years, and 10.2% in individuals aged 41 years and older. However, this difference was not statistically significant, with a p-value of >0.05.
+
+The study also analyzed the prevalence of pulp stones in different types of teeth. The analysis revealed that there was a statistically significant difference in the prevalence of pulp stones among different types of teeth, with a p-value of 0.001.

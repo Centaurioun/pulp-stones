@@ -1,9 +1,12 @@
 **American Journal of Medical Genetics 108:275-280 (2002)** **Van der Woude Syndrome With Sensorineural** **Hearing Loss, Large Craniofacial Sinuses, Dental** **Pulp Stones, and Minor Limb Anomalies:** Report of a Four-Generation
-Thai Family **Piranit N. Kantaputra,\* ^1^\* Yupa Sumitsawan,^2^ Brian C.
-Schutte,^3^ and Chintana Tochareontanaphol^4^ \*** *^1^ Department of Pediatric Dentistry, Faculty of Dentistry, Chiang Mai
-University, Chiang Mai, Thailand ^2^Department of Otolaryngology,
-Faculty of Medicine, Chiang Mai University, Chiang Mai, Thailand ^3^Department of Pediatrics, University of Iowa, Iowa City, Iowa* *^4^Chromosome Center, Bangkok, Thailand* **A four-generation Thai family affected with Van der Woude syndrome is reported. The disorder appeared to be originally inherited from a person who was half Thai and half Pakistani. The lip lesions found in this family were varied and did not appear to be related to other phenotypes. There were some clinical manifestations possibly speci­fic for the condition in this family. They included sensorineural hearing loss, promi­nent frontal bone, large frontal/sphenoidal/ maxillary sinuses with increased mastoid air cells, long tooth roots, dental pulp stones, ankyloglossia, brachydactyly of hands, brachyphalangy, and hyperphalangy of toes, and single flexion crease of the fifth fingers. Fluorescence in situ hybridization analy­sis revealed no visible deletion at a lq32- 41 region. © 2002 Wiley-Liss, Inc.**
-**KEY WORDS: dental anomaly; Van der Woude syndrome; brachy- mesophalangy; lip pit; pulp stone; large craniofacial si­nuses; sensorineural hear­ing loss** **INTRODUCTION**
+Thai Family **Piranit N. Kantaputra,\* \* Yupa Sumitsawan, Brian C.
+Schutte, and Chintana Tochareontanaphol \*** * Department of Pediatric Dentistry, Faculty of Dentistry, Chiang Mai
+University, Chiang Mai, Thailand Department of Otolaryngology,
+Faculty of Medicine, Chiang Mai University, Chiang Mai, Thailand Department of Pediatrics, University of Iowa, Iowa City, Iowa* *Chromosome Center, Bangkok, Thailand* **A four-generation Thai family affected with Van der Woude syndrome is reported. The disorder appeared to be originally inherited from a person who was half Thai and half Pakistani. The lip lesions found in this family were varied and did not appear to be related to other phenotypes. There were some clinical manifestations possibly speci­fic for the condition in this family. They included sensorineural hearing loss, promi­nent frontal bone, large frontal/sphenoidal/ maxillary sinuses with increased mastoid air cells, long tooth roots, dental pulp stones, ankyloglossia, brachydactyly of hands, brachyphalangy, and hyperphalangy of toes, and single flexion crease of the fifth fingers. Fluorescence in situ hybridization analy­sis revealed no visible deletion at a lq32- 41 region. © 2002 Wiley-Liss, Inc.**
+**KEY WORDS: dental anomaly; Van der Woude syndrome; brachy- mesophalangy; lip pit; pulp stone; large craniofacial si­nuses; sensorineural hear­ing loss** **
+## **Introduction**
+
+**
 Van der Woude syndrome (VWS; MIM 119300) is a multiple anomalies syndrome characterized by congen- Grant sponsor: Thailand Research Fund (TRF).
 \* Correspondence to: Piranit N. Kantaputra, DDS, MS, Depart­ment of
 Pediatric Dentistry, School of Dentistry, Chiang Mai University, Chiang
@@ -23,13 +26,16 @@ Patient 6 (II-6) was a 57-year-old woman. She had large frontal, sphenoidal, and
  F, female; M, male; y, yes; n, no; NA, not available.
 Fig. 2. Lip lesions in the patients. Bilateral lip pits in patient 1 **(a),** patient 2 **(b),** patient 3 **(d),** and patient 4 **(e);** lower lip depression in patient 6 (f); and ankyloglossia in patient 2 **(c).** primary second molar; long tooth roots (Fig. 4e); dental pulp stones in all permanent molars; single flexion crease of the left fifth finger; short middle phalanges of both fifth fingers; and cutaneous syndactyly of toes 2 and 3.
 Patient 7 (1-2) was half Thai and half Pakistani, and reported to have single lip pit and unilateral cleft lip and palate and be the first individual with lip pits in the family. Her parents and brother were said to be normal.
-125 250 500 1000 2000 4000 8000 **X** *AX* ***ff.*** t \ ^A^2
+125 250 500 1000 2000 4000 8000 **X** *AX* ***ff.*** t \ 2
 Fig. 3. Audiogram of patient 3, showing sensorineural hearing loss.
 **Flourescence In Situ Hybridization (FISH)**
 Two bacterial artificial chromosome (BAC) clones, 501İ21 and 564al7, were used in this study. Clone 501İ21 was located in the VWS critical region and clone 564a7 was outside the region \[Schutte et al., 2000\].
 Chromosome preparation, probe labeling, and hybri­dization were done as described previously \[Franke, 1972; Tochareontanaphol et al., 1994;
 Schutte et al., 2000\]. Hybridization images were recorded with a Zeiss microscope connected with Metasystem computer soft­ware. As a result, both probe signals appeared at lq32 of chromosomes 1 from patient 5, indicating that there is no visible deletion at lq32 region in the patient.
-**DISCUSSION**
+**
+## **Discussion**
+
+**
 We reported a large Thai family with VWS. In this family, the lip lesions were varied, ranging from bilateral lip pits to a small depression mark near the midline of lower lip seen in patient 6, as reported previously \[Janku et al., 1980; Ranta and Rintala, 1981;
 Fig. 4. Large frontal and sphenoidal sinuses and increased mastoid air cells in patient 3 (a), brachydactyly of fingers and thumbs in patient 3 (b), large frontal sinus in patients 4 (c) and 5 (d), and hypodontia of the mandibular second premolars in patient 6 (e).
 Fig. 4. *(Continued)*

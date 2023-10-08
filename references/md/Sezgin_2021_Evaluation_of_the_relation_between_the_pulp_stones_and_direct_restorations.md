@@ -3,19 +3,33 @@
 Evaluation of the relation between the pulp stones and direct restorations using cone beam computed tomography in a Turkish subpopulation
 Güzide Pelin Sezgin ©,+ Sema Sönmez Kaplan @,'+ Tuna Kaplan © +
 Department of Endodontics, Faculty of Dentistry, Biruni University, İstanbul, Turkey
-ABSTRACT **Objectives:** This study aimed to assess the presence of pulp stones through an examination of cone beam computed tomography images and correlate their prevalence with age, sex, dental arch and side, tooth type, and restoration type and depth. **Materials and Methods:** Cone beam computed tomography images obtained from 673 patients and archival data on 11,494 teeth were evaluated. The associations of pulp stones with age, sex, dental arch and side, tooth type, and restoration type and depth were noted. All the measurements were subjected to a %^2^ test and one sample %^2^ test *(p \<* 0.05). **Results:** In the study group, 163 (24.2%) patients and 379 (3.3%) teeth had at least one pulp stone.
+
+## **Abstract**
+
+ **Objectives:** This study aimed to assess the presence of pulp stones through an examination of cone beam computed tomography images and correlate their prevalence with age, sex, dental arch and side, tooth type, and restoration type and depth. **
+## **Materials and Methods**
+
+:** Cone beam computed tomography images obtained from 673 patients and archival data on 11,494 teeth were evaluated. The associations of pulp stones with age, sex, dental arch and side, tooth type, and restoration type and depth were noted. All the measurements were subjected to a % test and one sample % test *(p \<* 0.05). **Results:** In the study group, 163 (24.2%) patients and 379 (3.3%) teeth had at least one pulp stone.
 The pulp stone frequency in those aged 30-39 years was significantly greater than in those aged 18-29 and \ 60 years, and the frequency was higher in females than in males *(p \<* 0.05). The highest prevalence of pulp stones was found in maxillary dental arches and molar teeth *(p \<* 0.05). Pulp stones were significantly more common in medium-depth restorations (p\<0.05).
-**Conclusions:** Maxillary molar teeth, medium-depth restorations, individuals aged 30-39 years and females had a greater percentage of pulp stones.
+**
+**
+## **Conclusions**
+
+s**
+:** Maxillary molar teeth, medium-depth restorations, individuals aged 30-39 years and females had a greater percentage of pulp stones.
 **Keywords:** Amalgam; Cone-beam computed tomography; Composite; Dental pulp stone; Dental restoration
-INTRODUCTION
+
+## **Introduction**
+
+
 Calcifications in dental pulp tissue may be seen as diffuse calcifications or pulp stones \[1\]. Pulp stones are discrete calcified bodies with an organic matrix found in both the coronal and radicular parts of the dental pulp cavity. They are also found in pulp tissue or attached or embedded in dentin \[2\]. The radioopacity and density of the pulp stones resemble dentine. The stones include 2 essential chemical elements: calcium and phosphorus \[3\]. Additional elements that may be found in pulp stones are fluorine, magnesium, potassium, sodium, zinc, iron and copper \[3,4\]. In terms of their etiology, formation of pulp stones are unclear. However, some proposed factors associated with the formation of pulp stones include pulp degeneration, periodontal disease, aging, genetics, elevated oxidative stress and alkaline phosphatase in addition to deep caries and restorations, which can cause irritation and
 Relation between the pulp stones and restorations inflammation, trauma and atherosclerosis \[5-7\]. Cardiovascular diseases and kidney diseases, as well as gallstones and salivary gland stones, are potential risk factors for the formation of pulp stones \[8\]. However, pulp stones can be found in all age groups, irrespective of health status \[9,10\].
 Pulp stones may be associated with impacted teeth. They are most commonly associated with first molars, followed by maxillary and mandibular second molars \[2,9\]. Pulp stones are least commonly associated with incisors and canines \[2\]. Pulp stones may make it difficult to identify root canals due to the obstruction of the root canal orifices and increase the risk of instrument fractures during endodontic therapy \[11\].
 There is no agreement in the literature on the prevalence of pulp stones, with studies reporting a prevalence ranging from 8% to 90% \[11,12\]. Histology-based research has noted a greater prevalence of pulp stones than radiographic research because calcified masses smaller than 200 pm cannot be detected on radiographs \[2,13,14\]. The popularity of cone­beam computed tomography (CBCT) imaging in dental practice has increased, as it can generate accurate 3-dimensional images of the anatomic structures appropriate for diagnosis and treatment planning before root canal therapy \[15\]. According to previous research, CBCT offers a sensitive diagnostic system to detect pulp stones as compared to 2-dimensional radiographic techniques \[16\].
  Previous studies noted a wide discrepancy in the frequency of pulp stones in various populations. According to these studies, the variations in frequency among different populations might be owing to ethnic and geographical variations \[17,18\]. Some previous studies used CBCT to detect pulp stones in a Turkish population \[8,17\].
  However, no studies have compared the prevalence of pulp stones in Turkish subpopulations according to age, sex and types/depths of coronal restorations in teeth. Hence, the aim of this study was to evaluate the presence of pulp stones using CBCT images and to correlate their prevalence with age, sex, dental arch and side, tooth type, and restoration type and depth. The null hypothesis of the present study was that there would be no significant difference in pulp stone formation between different types and depths of restorations.
- **Materials and Methods**
-
+ **
+## **Materials and Methods**
 This study was performed in accordance with the guidelines of the World Medical Association Declaration of Helsinki and was reviewed and approved by the Institutional Review Board of Biruni University (2020/43-11).
 
 Patient selection
@@ -24,9 +38,9 @@ CBCT images were obtained from 673 adult patients (363 \[53.9%\] females; 310 \[
 
 The case inclusion criteria were CBCT images from patients with a minimum age of 18 years in whom the roots of all permanent teeth were fully developed and there was at least one fully
 Relation between the pulp stones and restorations erupted permanent tooth in each CBCT image. As another inclusion criteria, radiopaque masses only in the coronal pulp chamber were examined. The exclusion criteria were teeth with root canal therapy, root resorption, indirect restorations, unerupted teeth and artifacts on CBCT images.
-Data acquisition and validation All the CBCT images were obtained with the patient in a standing position, using a Sirona Galileos Comfort Plus device (Dentsply Sirona, York, PA, USA), which was operated at 98 kVp and 6 mA, with a 36-s rotation time, voxel size of250 pm and 150 x 150 mm field of view in accordance with the manufacturer\'s recommendations. The CBCT images were assessed using Sidexis software (Dentsply Sirona) in all 3 planes (axial, coronal, and sagittal) on a 28- inch Samsung LU28H750UQMXUF monitor (Samsung Electronics, Seoul, Korea) with a pixel resolution of3,840 x 2,160. For optimum visualization, the brightness and contrast of the CBCT images were adjusted using the image-processing tool of the software.
+Data acquisition and validation All the CBCT images were obtained with the patient in a standing position, using a Sirona Galileos Comfort Plus device (Dentsply Sirona, York, PA, USA), which was operated at 98 kVp and 6 mA, with a 36-s rotation time, voxel size of250 pm and 150 x 150 mm field of view in accordance with the manufacturers recommendations. The CBCT images were assessed using Sidexis software (Dentsply Sirona) in all 3 planes (axial, coronal, and sagittal) on a 28- inch Samsung LU28H750UQMXUF monitor (Samsung Electronics, Seoul, Korea) with a pixel resolution of3,840 x 2,160. For optimum visualization, the brightness and contrast of the CBCT images were adjusted using the image-processing tool of the software.
 
-Two endodontists, who had at least 5 years of experience, evaluated the CBCT images. Before the evaluation, each endodontist assessed a series of randomly chosen 50 images that were not associated with the present study for calibration between the examiners. Cohen\'s kappa coefficient was used to measure the agreement between the 2 examiners.
+Two endodontists, who had at least 5 years of experience, evaluated the CBCT images. Before the evaluation, each endodontist assessed a series of randomly chosen 50 images that were not associated with the present study for calibration between the examiners. Cohens kappa coefficient was used to measure the agreement between the 2 examiners.
  The values for intra­examiner and inter-examiner consensus were excellent (0.93 and 0.91, respectively). After calibration, the observers assessed the CBCT images, and any disagreement in the evaluation was resolved through a discussion until reaching an agreement.
 Image examination of pulp stones and direct restorations The presence of pulp stones was investigated according to age, sex, dental type and location and the presence and type (composite or amalgam) of restorations. A pulp stone was considered a clear radiopaque mass (round or oval shape) in the coronal pulp chamber **(Figures 1** and **2).** The depths of the restorations (shallow: up to one-third of the dentin affected; medium: one-third to two-thirds of the dentin affected; deep: two-thirds to all of the dentin affected without exposure of pulp) were also recorded according to the method described by da Silva *et al.* \[9\] **(Figures 2** and **3).** All the restorations were assessed in the sagittal plane, and the deepest point of the restorations was recorded.
 
@@ -34,12 +48,13 @@ Image examination of pulp stones and direct restorations The presence of pulp st
 Relation between the pulp stones and restorations **Figure 2.** Sagittal cone-beam computed tomography section of maxillary molars with pulp stones and a mandibular first molar with a pulp stone and medium restoration.
 
 **Figure 3.** Coronal cone-beam computed tomography section of a mandibular first molar with a pulp stone and medium restoration.
-Statistical analysis Statistical analysis was performed using IBM SPSS Statistics 22 (IBM SPSS, Istanbul, Turkey). A *x^2^* test was used to evaluate the number and prevalence of pulp stones according to age and sex. One sample %^2^ test was used to evaluate the relationship between study parameters. Cohen\'s kappa coefficient was used to measure the inter-examiner agreement. The statistical significance level was set at *p* \< 0.05.
- **Results**
+Statistical analysis Statistical analysis was performed using IBM SPSS Statistics 22 (IBM SPSS, Istanbul, Turkey). A *x* test was used to evaluate the number and prevalence of pulp stones according to age and sex. One sample % test was used to evaluate the relationship between study parameters. Cohens kappa coefficient was used to measure the inter-examiner agreement. The statistical significance level was set at *p* \< 0.05.
+ ## **Results**
+
 
 The parameters assessed in association with the presence or absence of pulp stones are reported in **Table 1.** One hundred and 63 patients (24.2%) had at least 1 pulp stone. Of the 11,494 teeth assessed, there were 379 (3.3%) teeth with pulp stones. In total, pulp stones were statistically higher in females than in males (28.9% vs. 18.7%, *p -* 0.002). In addition, the percentage of pulp stones in those aged 30-39 years (31.1%) was significantly higher than that in the 18-29 years (18.5%) and \ 60 years (17.3%) age groups (# = 0.004; *p~2~ -* 0.049) **(Table 1).**
 
-X^2^ test, *\*p \<* 0.05.
+X test, *\*p \<* 0.05.
  The difference in the percentage of pulp stones in the mandibular and maxillary arches was statistically significant (30.4% vs 69.4%, *p \<* 0.05). There was no statistical significance regarding the dental arch sides *(p \>* 0.05). In terms of tooth type, pulp stones were significantly more common in molars (92.1%) than premolars (6.1%), canines (1.3%) and anterior teeth (0.5%) (p \< 0.05). In addition, pulp stones were more common in premolars than canines and anterior teeth *(p \<* 0.05) **(Table 2).**
 Nearly one-quarter of teeth (24.8%) with pulp stones had restorations.
  **Table 3.** Distribution of teeth with pulp stones and restorations regarding restoration type and depth (n = 94)
@@ -50,9 +65,12 @@ Restoration depth Shallow
 Medium
 Deep
 Total
-One sample x^2^ test, *\*p \<* 0.05.
+One sample x test, *\*p \<* 0.05.
 48 (51.1) 46 (48.9) 25 (26.6) 44 (46.8) 25 (26.6) 94 (100.0) 0.837 0.021\* ![](media/image1.jpeg){width="0.9131944444444444in" height="0.3263888888888889in"}
-DISCUSSION
+
+## **Discussion**
+
+
 Pulp stones may lead to adverse outcomes in endodontic therapy, as they can block the root canal paths. In addition to blocking the passage of files through root canals, they can cause deformation of file tips \[19\]. Furthermore, pulp stones may hamper disinfection/irrigation procedures \[20\]. Consequently, pulp stones can give rise to clinical difficulties in endodontic therapy \[2\].
 Many previous studies have used panoramic radiography and histological analysis for the detection of pulp stones \[1,21,22\]. As noted earlier, calcified masses with diameters smaller than 200 pm may not be detected on panoramic radiographs. Thus, the percentage of pulp stones detected using histological analysis is higher than that using panoramic radiography, which is helpful only as an *ex-uiuo* technique \[22\]. In addition, pulp stones may not be detected on periapical radiographs because of the superimposition of alveolar bone. CBCT overcomes the problem of overlapping structures and permits high-resolution images in axial, coronal and sagittal planes. As such, it is the most useful and accurate imaging technique available to detect the presence of pulp stones \[15\]. Thus, the present study used CBCT images to detect the presence of pulp stones and analyze the possible association between pulp stones and the following parameters: age, sex, dental arch and side, tooth type, and restoration type and depth. None of the patients in this study were exposed to additional radiation, as the data were obtained from archival CBCT image records.
 We detected pulp stones in 3.3% (379/11,494) of all teeth assessed and 24.2% (163/673) of all patients assessed. In other CBCT studies,
@@ -64,7 +82,9 @@ In this study, the percentage of pulp stones in the maxilla was significantly hi
 In the present study, 24.8% of teeth with pulp stones had restorations.
 In other studies, da Silva *et al.* \[9\] and Tassoker *et al.* \[23\] reported that 13% and 73.5% of teeth with pulp stones had restorations, respectively. Differences in the study populations and oral care habits may explain the discord in the findings. In the present study, the percentages of pulp stones associated with composite and amalgam restorations were nearly the same. Besides, the severity and duration of chronic irritation caused by these restorations might be critical and affect the findings of the studies. Longitudinal researches are needed to resolve this problem \[10\] da Silva *etal.* \[9\] and Tassoker *etal.* \[23\] reported that as the depth of a restoration increased, the possibility of pulp stones increased. One possible explanation for this finding may be the theory that chronic irritation of pulp tissue leads itself to produce pulp stones as a defense mechanism. However, it was reported that pulp stones were more commonly found in teeth with medium-depth restorations in this study. The retrospective nature of this study may explain this finding. Based on this study's findings, the null hypothesis was rejected.
 The absence of data on the age of the restorations and comparatively limited sample size can be considered as limitations of the present study. Due to the uncertainty about the restoration duration and intensity of chronic irritation in teeth with restorations, we did not assess in terms of restoration presence or absence. This may also be considered a limitation of the study. In this study, the medical conditions of the patients were ignored. Considering that some systemic diseases may cause pulp stone formation, this may be noted as another limitation of this study.
-CONCLUSIONS
+
+**Conclusion**
+S
 Within the limitations of this study, a pulp stone prevalence was detected of 24.2% in 673 patients and a prevalence of 3.3% in teeth. The presence of medium-depth restorations increased the risk of pulp stone formation. It can also be concluded that female sex and maxillary molar teeth were associated with a higher percentage of pulp stones. The percentage of pulp stones in the 30-39 years age group was the highest among the other Restorative Dentistry & Endodontics age groups. Dentists should be aware that pulp stones can be encountered frequently in the clinical scenario and various predisposing factors can trigger pulp stone formation.
 REFERENCES
 Bevelander G, Johnson PL. Histogenesis and histochemistry of pulpal calcification. J Dent Res 1956;35:714-722.

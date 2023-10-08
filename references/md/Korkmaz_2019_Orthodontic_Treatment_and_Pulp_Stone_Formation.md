@@ -4,25 +4,37 @@ Orthodontic Treatment and Pulp Stone Formation: Is There a Relationship?
 IBolu Abant İzzet Baysal University, Faculty of Dentistry, Department of
 Orthodontics 2Bolu Abant İzzet Baysal University, Faculty of Dentistry, Department of
 Endodontics 3 Ministry of Health, Kirklareli Oral and Dental Health Center **Correspondence Author:** Yasemin Nur Korkmaz **E-mail:** dtyaseminnurkorkmaz@gmail.com Received: 13.04.2018 Accepted: 13.06.2018
-**ABSTRACT**
+**
+## **Abstract**
+
+**
 **Objective:** The aim of this retrospective study was to evaluate the effect of orthodontic treatment on pulp stone formation.
 
 **Methods:** The sample population comprised 504 patients (182 males, 312 females) with a mean age of 17.7 ± 2.9 years that underwent orthodontic treatment. The pre-treatment and post-treatment panoramic radiographs of the patients were evaluated to detect pulp stones before and after orthodontic treatment. The data were analyzed using Me Nemar, Chi-square and Fisher Exact tests.
 
 **Results:** The statistical analysis showed that pulp stone numbers increased significantly after treatment (p\<0.05) and there was no statistically significant difference between the sexes in terms of pulp stone enhancement. The increment of pulp stone numbers after treatment was found to be significantly higher in molars than other teeth (p\<0.05). In canine teeth, the increase in pulp stones was statistically higher in females than in males (p\<0.05).
 
-**Conclusion:** The results of this study showed that pulp stone numbers increased at different percentages after orthodontic treatment in all tooth groups. It may be concluded that orthodontic treatment can affect calcification metabolism of the pulp and orthodontic forces may increase pulp stone formation.
+**
+## **Conclusions**
+
+:** The results of this study showed that pulp stone numbers increased at different percentages after orthodontic treatment in all tooth groups. It may be concluded that orthodontic treatment can affect calcification metabolism of the pulp and orthodontic forces may increase pulp stone formation.
 
 **Keywords:** Orthodontic treatment, pulp stone, pulpal reaction
-INTRODUCTION
-Pulp stones are calcified bodies located in the pulps of healthy, diseased or unerupted teeth (1). Even if it\'s impacted or unerupted, they can be detected in one or all of a single patient\'s teeth (2).
+
+## **Introduction**
+
+
+Pulp stones are calcified bodies located in the pulps of healthy, diseased or unerupted teeth (1). Even if its impacted or unerupted, they can be detected in one or all of a single patients teeth (2).
 Pulp stones can either be free or adhered to dentine and one tooth can contain Ito 12 or more pulp stones (3). They could either be seen as minor particles or major bodies that almost obturate the pulp chamber (1). True pulp stones are formed from dentine and lined by osteoblasts, while false pulp stones are comprised of mineralized degenerated pulp cells (2). Radiographic image of the pulp stone appears as round shaped opacities in the pulp chamber.
 Pulp stones are usually visible on radiographs. The frequency of pulp stones seen in human teeth is not clear (4). Varying from %8 to %90, the prevalence of pulp stones shows a wide range depending on the study design and examination method (5). While some of the studies showed no difference between males and females (6, 7), others demonstrated more pulp stones in women than in men (8, 9). The frequency of pulp stones was shown to increase with age (6). They could be detected in all tooth types but mostly in molars (10).
 Etiology of pulp stones are not well understood, however, caries, deep restorations, periodontal diseases, chronic inflammation, operative dentistry procedures, ageing, genetics, idiopatic factors and orthodontic treatment were linked with pulp stone formation previously (1, 2, 11).Pulp stone detection is shown to be a facilitating factor in the early identification of systemic calcifications in a recent study (12). Lovdahl and Gutmann (13) stated that pulp stones are the result of an irritated pulp, which attempts to repair itself.
 Pulp stones usually exist in the crown of the tooth rather than the root (14). They usually do not result in pulp diseases or symptoms; however, they may interfere the access to root canals and complicate endodontic treatment. Pulpal calcifications were shown to result in root canal treatment failure and tooth loss (15).
 Orthodontic treatment has an impact on dental pulp, alveolar bone and supporting structures. Knowing the effects of orthodontic treatment on the pulp is of crucial importance, because forces formed through orthodontic tooth movement may cause pulpal blood flow changes that induce pulpal complications. Nixon et al. (16) indicated that orthodontic treatment did not have significant permanent effects on dental pulp, while Hamersky et al. (17) stated that the pulp could lose its vitality in consequence of the injury from\ orthodontic forces. Effects of orthodontic extrusive (18) and intrusive (19) orthodontic forces on pulpal tissue have been investigated in previous studies. Orthodontic treatment has been linked to various pulpal reactions like hyperemia, pulpal obliteration due to secondary dentin formation, internal root resorption, hemorrhage and pulpal necrosis (20-22).
 The aim of this retrospective study was to evaluate the effect of fixed orthodontic treatment on pulp stones prevalence using pre- and post-orthodontic treatment panoramic radiographs of a Turkish patient group. This will ensure further information to the dental practitioner about the consequences of orthodontic treatment regarding pulp stone formation.
-2.METHODS ***2.1. Materials and Methods***
+2.METHODS ***2.1.
+## **Materials and Methods**
+
+***
 The sample population of this retrospective study comprised 504 patients (182 males, 312 females) that underwent orthodontic treatment with fixed appliances at Bolu Abant İzzet Baysal University, Faculty of Dentistry,
 Department of Orthodontics between the years of 2012-2018. Ethical approval was obtained from the Bolu Abant İzzet Baysal University
 Clinical Researches Ethics Committee (Date: 22.03.2018, No: 2018/52).
@@ -36,7 +48,10 @@ Randomly selected 100 subjects were assessed by re-evaluating panoramic radiogra
 **2.2 *StatisticalAnalysis***
 The data were analyzed using Statistical Package for Social Sciences software package (SPSS for Windows, version 22.0, SPSS Inc., Chicago,
 IL, USA). Frequency distribution of teeth with pulp stones was calculated. Changes in patient numbers that have pulp stones before and after orthodontic treatment were analyzed using Me Nemartest. Increases in pulp stones according to gender were analyzed with Pearson Chi-square test and Fisher Exact test was used to analyze increases in pulp stones according to gender and tooth type. Differences were considered as significant when P \< 0.05.
-3.RESULTS
+3.
+## **Results**
+
+
 Panoramic radiographs taken before orthodontic treatment indicated that 36 of the patients had pulp stones before orthodontic treatment, while 160 of the patients had pulp stones on radiographs after orthodontic treatment. The statistical analysis showed that pulp stone numbers increased significantly after treatment (p\<0.05) (Table 1).
 There was an increase in pulp stone numbers in 108 (33.5%) female and 52 (32.5%) male patients after treatment, but there was no statistically significant difference between the sexes in terms of pulp stone enhancement (p\ 0.05) (Table 2).
 Table 2. Increases in pulp stones according to gender.
@@ -44,12 +59,15 @@ Table 2. Increases in pulp stones according to gender.
 The increment of pulp stone numbers after treatment was found to be statistically significantly higher in molars (330 (65.5%)) and premolars (56 ( 1.1%)), than in incisors (18 (3.6%)) and canines (8 (1.6%)) (p \<0.05) (Table 3).
 Pulp stone enhancement was detected in the incisor teeth of 14 (4.3%) female and 4 (2,2%) male patients, canine teeth of 8 (2.5) female and 0 (0%) male patients, premolar teeth of 30 (9.3%) female and 26 (14.3%) male patients and molar teeth of 204 (63.4%) female and 126 (69.2%) male patients, but there were no statistically significant differences in terms of pulp increase in incisors, premolars and molars according to sex (p\ 0.05). In canine teeth, the increase in pulp stones was statistically higher in females than in males (p\<0.05) (Table 3).
 Table 3. Increases in pulp stones according to gender and tooth type.
- 4.DISCUSSION
+ 4.
+## **Discussion**
+
+
 It has been reported that orthodontic force is a controlled trauma and induces molecular changes in cells of periodontal ligament, alveolar bone and pulp-dentin complex (23­26). Although it has been investigated in many studies on human and animal models, the tissue interaction between orthodontic forces and dental pulp remains unclear (27).
 Histological studies have shown that major changes in the pulp after orthodontic treatment including impaired respiration, vacuolization, circulatory disturbances, hemorrhage, fibro-hyalinosis and even necrosis (23,27,28). Contrary to these findings, some studies reported that changes in the pulp are not long-term and serious after orthodontic force (29,30).
 Lazzaretti et al. (27) reported that orthodontic forces cause vascular changes in the pulp and increase the number of pulp calcifications. In accordance with their results, other studies stated that orthodontic forces increase the secretion of various cytokines such as calcitonin gene-related peptide and alkaline phosphatase, which are effective in mineralization metabolism of pulp (27,31).
 Therefore, in this study, the effect of orthodontic treatment on pulp stone formation was investigated by comparing pre - and post-treatment panoramic radiographs. Pulp stones are usually seen by coincidence on dental radiographs and may complicate endodontic treatment (32).
-Histologic and radiographic assessment can be used to determine the pulp stones (26,33). The pulp stone must have reached a certain size (\ 200^A^m) and mineralization in order to be detected on the radiographic assessment (26,34). Another disadvantage of the radiographic examination in detecting pulp stones is that the radiograph can be interpreted differently among the observers (35).
+Histologic and radiographic assessment can be used to determine the pulp stones (26,33). The pulp stone must have reached a certain size (\ 200m) and mineralization in order to be detected on the radiographic assessment (26,34). Another disadvantage of the radiographic examination in detecting pulp stones is that the radiograph can be interpreted differently among the observers (35).
 Although histologic evaluation is more reliable than radiographic assessment, it has the disadvantage of being an invasive method. Having the advantage of providing precise anatomical details in three dimensions, cone beam computed tomography (CBCT) was used to assess pulp stones in a few recent studies (36,37). However, it cannot be obtained as a routine record in all orthodontic patients due to increased radiation dose. For this reason, the investigation of the pulp stones was conducted on routinely taken panoramic radiographs before and after orthodontic treatment in the present study.
 Pulp stone formation was found to be associated with various systemic diseases and syndromes such as type I diabetes, arteriosclerosis, osteitis deformans, cardiovascular diseases, kidney diseases, dentinal displasia, Marfan sydrome, Van der Woude syndrome, Saethre-Cholzen syndrome, Elfin facies syndrome and familial expansile osteolysis (38-41). Therefore, patients with these diseases were not included in this study.
 Pulp stone formation has been reported to increase as the subject gets older in various studies investigating the pulp stone incidence (26,42).
@@ -60,7 +78,9 @@ While some studies showed differences in the incidence of pulp stone among gende
 There was no statistically significant difference in the incidence of pulp stones before orthodontic treatment among genders in this study.
 Incidence of pulp stone in canines was significantly higher in females after orthodontic treatment, while no significant difference was observed in other teeth.
 It has been shown that the incidence of pulp stones differs according to tooth groups pulp stones have been reported to be most commonly seen in molar teeth in various studies (34, 47, 48). In the present study, the increment in pulp stone formation after orthodontic treatment was also detected in molar (65%) teeth. This may be explained by their prolonged exposure to occlusal loads due to being the longest remaining teeth in the mouth.
-5.CONCLUSION
+5.
+**Conclusion**
+
 Our results showed that pulp stone formation increased at different percentages after orthodontic treatment in all tooth groups. The maximum increment was detected in molar teeth. As a result, it may be concluded that orthodontic treatment can affect calcification metabolism of the pulp and orthodontic forces may increase pulp stone formation.
 Therefore, the clinician should be aware of the pulp stone increment in patients with orthodontic treatment history and perform a detailed radiographic examination before endodontic treatment.
 REFERENCES 1. Baghdady VS, Ghose U, Nahoom HY. Prevalence of pulp stones in a teenage Iraqi group. J Endod 1988; 14:309-311.

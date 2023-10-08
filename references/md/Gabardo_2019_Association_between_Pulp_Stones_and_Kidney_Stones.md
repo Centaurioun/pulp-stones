@@ -1,21 +1,35 @@
 REVIEW ARTICLE
 Association between Pulp Stones and Kidney Stones: A Systematic Review and Meta-analysis
-ABSTRACT **Introduction:** A systematic review and meta-analysis were performed to evaluate the as­sociation between pulp stones and kidney stones.
+
+## **Abstract**
+
+ **
+## **Introduction**
+
+:** A systematic review and meta-analysis were performed to evaluate the as­sociation between pulp stones and kidney stones.
 **Methods:** A search for observational studies was performed in PubMed,
-Scopus, Web of Science, Biblioteca Virtual em Saude, and the gray literature. The Newcastle-Ottawa Scale for Risk of Bias criteria were used to evaluate the internal quality of the included studies. A fixed-effects meta-analysis was per­formed to evaluate the association between the conditions. **Results:** A total of 213 studies were identified after the removal of duplicates. Of these, 9 studies were selected after screening the titles and abstracts. Finally, after full-text reading for qualitative analysis, 7 studies were selected, and of these, 2 were used in the meta-analysis. A significant associ­ation was found between pulp stones and kidney stones (1.97 \[95% confidence interval, 1.21-3.18\]; *P \<* .05). **Conclusions:** This study revealed an association between pulp stones and kidney stones. Further well-designed studies should be conducted in order to confirm whether pulp stones are predictive indicators of undiagnosed kidney stones. *(J
+Scopus, Web of Science, Biblioteca Virtual em Saude, and the gray literature. The Newcastle-Ottawa Scale for Risk of Bias criteria were used to evaluate the internal quality of the included studies. A fixed-effects meta-analysis was per­formed to evaluate the association between the conditions. **Results:** A total of 213 studies were identified after the removal of duplicates. Of these, 9 studies were selected after screening the titles and abstracts. Finally, after full-text reading for qualitative analysis, 7 studies were selected, and of these, 2 were used in the meta-analysis. A significant associ­ation was found between pulp stones and kidney stones (1.97 \[95% confidence interval, 1.21-3.18\]; *P \<* .05). **
+**
+## **Conclusions**
+
+s**
+:** This study revealed an association between pulp stones and kidney stones. Further well-designed studies should be conducted in order to confirm whether pulp stones are predictive indicators of undiagnosed kidney stones. *(J
 Endod 2019;m:1-7.)*
 KEY WORDS
 Dental pulp calcification; kidney calculi; kidney stones; meta-analysis; pulp stones; system­atic review
-Pulp stones are regressive alterations in the pulp tissue, and they occur with higher frequency in the pulp chamber. The prevalence of pulp stones can reach up to 50% of surveyed samples^1^. The most affected teeth are molars^1^\'^2^, and females are more affected than males^3^\'^5^. Although the prevalence is higher in elderly patients, pulp stones can also be observed in young patients^5^. Commonly, pulp stones are considered incidental findings during imaging examinations^2^ because they are not related to painful symptoms. They occur in healthy teeth and even in unerupted teeth^6^.
-Pulp stones can be classified according to their location as follows: "free," which are completely surrounded by pulp tissue; "embedded," which are surrounded by dentin; and "adherent," which are continuous with the dentin. Pulp stones may complicate endodontic treatments, and their removal is often required to improve access to the root canals^7^.
-The etiology of this condition has not yet been elucidated^8^. Pulp stones can be derived from the natural process of aging or in response to injuries, such as traumatic occlusion^9^, orthodontic movement^10^, and irritant factors that promote chronic inflammation^11^. Genetic causes^12^ and the identification of nanoparticles and nanobacteria have also been mentioned as etiologic factors^13^\'^14^. Interestingly, these factors have also been associated with kidney stones.
-Although some authors have proposed a relationship between pulp stones and kidney stones^15-21^, there is no consistent evidence to show that these conditions are associated. Therefore, this systematic review and meta-analysis aim to answer the following focus question: "Is there an association between pulp stones and kidney stones?"
+Pulp stones are regressive alterations in the pulp tissue, and they occur with higher frequency in the pulp chamber. The prevalence of pulp stones can reach up to 50% of surveyed samples. The most affected teeth are molars, and females are more affected than males. Although the prevalence is higher in elderly patients, pulp stones can also be observed in young patients. Commonly, pulp stones are considered incidental findings during imaging examinations because they are not related to painful symptoms. They occur in healthy teeth and even in unerupted teeth.
+Pulp stones can be classified according to their location as follows: "free," which are completely surrounded by pulp tissue; "embedded," which are surrounded by dentin; and "adherent," which are continuous with the dentin. Pulp stones may complicate endodontic treatments, and their removal is often required to improve access to the root canals.
+The etiology of this condition has not yet been elucidated. Pulp stones can be derived from the natural process of aging or in response to injuries, such as traumatic occlusion, orthodontic movement, and irritant factors that promote chronic inflammation. Genetic causes and the identification of nanoparticles and nanobacteria have also been mentioned as etiologic factors. Interestingly, these factors have also been associated with kidney stones.
+Although some authors have proposed a relationship between pulp stones and kidney stones, there is no consistent evidence to show that these conditions are associated. Therefore, this systematic review and meta-analysis aim to answer the following focus question: "Is there an association between pulp stones and kidney stones?"
 JOE. Volume ■, Number ■ 2019
 Pulp Stones and Kidney Stones **1** **FIGURE 1** - A flow diagram of the study methods.
-MATERIALS AND METHODS
+
+## **Materials and Methods**
+
+
 The methods described here follow the Meta­analysis of Observational
 Studies in
-Epidemiology checklist for meta-analysis of observational studies^22^.
+Epidemiology checklist for meta-analysis of observational studies.
 Protocol Registration
 This study was undertaken from August to November 2018 at the
 Universidade Positivo, Curitiba, Parana, Brazil. Its registration number in the International Prospective Register of Systematic Reviews database is
@@ -43,46 +57,54 @@ Theses Full Text, and the Periodicos Capes databases. In addition, abstracts fro
 Study Selection and Data Collection Process
 The selection process occurred in 2 phases to minimize bias. In phase 1, possible eligible articles were selected by 2 reviewers (R.M.L. and
 J.S.R.) based on the title and abstract. Any study that did not meet the inclusion criteria was discarded. In phase 2, full-text articles were obtained and classified according to the inclusion criteria by the same reviewers (R.M.L. and J.S.R.). In cases of disagreements regarding inclusion/exclusion criteria, a third reviewer (L.M.W.) was consulted to finalize the decision.
-Pilot-tested, customized extraction forms were used to register the details about the studies, such as study design, participants, diagnostic methods, and results. Each study received an identification number (study ID), which was created by combining the first author\'s name and the publication year. Information was cross-checked and confirmed for accuracy.
+Pilot-tested, customized extraction forms were used to register the details about the studies, such as study design, participants, diagnostic methods, and results. Each study received an identification number (study ID), which was created by combining the first authors name and the publication year. Information was cross-checked and confirmed for accuracy.
 **Risk of Bias in Individual Studies** The risk of bias among the included studies was evaluated by 2 independent reviewers (J.S.R. and
 L.M.W.) using the Newcastle- Ottawa Scale for Risk of Bias ([www.ohri.ca/](http://www.ohri.ca/) programs/clinical_epidemiology/oxford.
-asp)^23^\'^24^.
+asp).
 Discrepancies among the 3 examiners were solved through a consensus. The evaluation criteria yielded a maximum score of 9 points. These score points were divided among the following domains: patient selection (case definition, representativeness of the cases, selection of controls, and definition of controls) for a maximum of 4 points, comparability of groups (comparability of the cases and controls) for a maximum of 2 points, and exposure (ascertainment of exposure, method of ascertainment for cases and controls, and nonresponse rate) for a maximum of 3 points.
-The studies were later categorized as a "high risk of bias" (0-3 points), "moderate risk of bias" (4-6 points), and "low risk of bias" (\>7 points)^23^.
+The studies were later categorized as a "high risk of bias" (0-3 points), "moderate risk of bias" (4-6 points), and "low risk of bias" (\>7 points).
 Summary Measures and Synthesis of the Results
 Data from eligible studies were classified dichotomously as being present or absent. Only studies classified as low risk of bias were included in the meta-analysis.
 A fixed-effects model was selected, and a meta-analysis was performed to estimate the pooled odds ratio for the association between pulp stones in permanent teeth and kidney stones. All analyses were conducted using
 RevMan 5.3 (Review Manager v. 5.3; The Cochrane Collaboration,
 Copenhagen, Denmark).
-RESULTS
+
+## **Results**
+
+
 Study Selection
 After the database screening and the removal of duplicates, 213 studies were identified (Fig. 1). After screening the titles, 14 studies were left. This was further reduced to 9 studies after the abstracts were examined, and then the full texts were assessed to check eligibility.
-Among them, 2 were excluded because they were brief reports^25^ and did not examine the association between pulp stones and kidney stones^26^ (Appendix 2).
+Among them, 2 were excluded because they were brief reports and did not examine the association between pulp stones and kidney stones (Appendix 2).
 **Pulp stones Non pulp stones Odds Ratio** ------------------ ------------ ----------- ------------ ----------- ------------ --------------- **Study or **Events** **Total** **Events** **Total** **Weight** **M-H, Fixed, Subgroup** 95% Cl** Moudi et al. (20) 36 54 34 74 40.3% 2.35 \[1.14, 4.87\] Movahhedian et al. 38 66 39 88 59.7% 1.71 \[0.90, (19) 3.25\] **Total (95% Cl)** 120 162 **100.0%** **1.97 \[1.21, 3.18\]** Total events 74 73 ------------------ ------------ ----------- ------------ ----------- ------------ ---------------
-Heterogeneity: Chi^2^ = 0.42, df = 1 (P = 0.52); I^2^ = 0% Test for overall effect: Z = 2.75 (P = 0.006) **FIGURE 2 -** Forest plots of the association between pulp stones and kidney stones.
- JOE. Volume ■, Number ■ 2019 **Characteristics of Included Articles** All studies included in this review were in English. The characteristics of the 7 selected studies are listed in Tables 1 and 2. Six of the studies included in this systematic review were cross-sectional^15^\'^18^'^20^'^21^, and 1^19^ was a case­control study.
+Heterogeneity: Chi = 0.42, df = 1 (P = 0.52); I = 0% Test for overall effect: Z = 2.75 (P = 0.006) **FIGURE 2 -** Forest plots of the association between pulp stones and kidney stones.
+ JOE. Volume ■, Number ■ 2019 **Characteristics of Included Articles** All studies included in this review were in English. The characteristics of the 7 selected studies are listed in Tables 1 and 2. Six of the studies included in this systematic review were cross-sectional'', and 1 was a case­control study.
 The countries of origin of the studies are as follows: 2 from
-India^17^'^18^, 2 from Iran^19^'^20^,1 from the Republic of
-Macedonia^15^, 1 from Turkey^16^, and 1 from Saudi Arabia^21^.
-The percentage of male subjects in the studies ranged from 45%-70%, and only 1 study^15^ did not report this information. The age of the participants varied between 15 and 74 years, with the mean being 37.4 years. The number of participants ranged from 100-240.
-The type of teeth included in the primary studies varied. Three studies^18^'^19^'^21^ included anterior and posterior teeth, 1^15^ included maxillary and mandibular teeth, 2^16^'^20^ included posterior teeth, and 1^17^ did not report these data.
-The diagnostic method for kidney stones also varied among the studies and included ultrasonography^15^'^17^'^19^'^20^ and a history of renal colic with confirmed hematuria and voiding of the calculus, radiographic evidence of stones, or previous surgical and endoscopic removal of stones^16^. Two studies did not report such data^18^'^21^.
-The diagnostic method for pulp stones used different radiographic techniques and included panoramic and retromolar radiographs for teeth considered to have pulp stones^15^, bitewing radiographs^16^'^20^, panoramic radiographs^17^'^19^, and periapical radiographs^18^'^21^.
-The professionals who performed the radiographic diagnoses varied widely among the studies, including 1^16^ that was performed by 2 experienced dentists, 3^18^-^19^-^21^ that were performed by 2 oral radiologists, 1^20^ that was performed by 2 oral radiologists and an endodontist, and 2^15^'^17^ that did not report this information.
+India', 2 from Iran',1 from the Republic of
+Macedonia, 1 from Turkey, and 1 from Saudi Arabia.
+The percentage of male subjects in the studies ranged from 45%-70%, and only 1 study did not report this information. The age of the participants varied between 15 and 74 years, with the mean being 37.4 years. The number of participants ranged from 100-240.
+The type of teeth included in the primary studies varied. Three studies'' included anterior and posterior teeth, 1 included maxillary and mandibular teeth, 2' included posterior teeth, and 1 did not report these data.
+The diagnostic method for kidney stones also varied among the studies and included ultrasonography''' and a history of renal colic with confirmed hematuria and voiding of the calculus, radiographic evidence of stones, or previous surgical and endoscopic removal of stones. Two studies did not report such data'.
+The diagnostic method for pulp stones used different radiographic techniques and included panoramic and retromolar radiographs for teeth considered to have pulp stones, bitewing radiographs', panoramic radiographs', and periapical radiographs'.
+The professionals who performed the radiographic diagnoses varied widely among the studies, including 1 that was performed by 2 experienced dentists, 3-- that were performed by 2 oral radiologists, 1 that was performed by 2 oral radiologists and an endodontist, and 2' that did not report this information.
 The results reported in the included studies in this systematic review were as follows: a group with kidney stones and pulp stones, a group with kidney stones and nonpulp stones, a group without kidney stones and with pulp stones, and a group without kidney stones and without pulp stones (Table 2).
-**Assessment of the Risk of Bias** The assessment of the risk of bias of the included studies is presented in Table 3. Three studies^17^'^18^'^21^ presented a high risk of bias because they did not evaluate the criteria for comparability, and their data analyses were weak in the areas of patient selection and exposure measurements. Two studies^15^'^27^ presented a moderate risk of bias because they did not evaluate the criteria for comparability, and they did not meet certain criteria for the data in the areas of patient selection and exposure measurements. Only 2 studies^19'20^ presented a low risk of bias according to the quality assessment Newcastle-Ottawa Scale.
+**Assessment of the Risk of Bias** The assessment of the risk of bias of the included studies is presented in Table 3. Three studies'' presented a high risk of bias because they did not evaluate the criteria for comparability, and their data analyses were weak in the areas of patient selection and exposure measurements. Two studies' presented a moderate risk of bias because they did not evaluate the criteria for comparability, and they did not meet certain criteria for the data in the areas of patient selection and exposure measurements. Only 2 studies presented a low risk of bias according to the quality assessment Newcastle-Ottawa Scale.
 Meta-analysis
-A meta-analysis was performed on the studies classified as a low risk of bias^19'20^. This analysis was based on 2 studies^19'20^ and presented an odds ratio = 1.97 (95% confidence interval, 1.21-3.18; *P \<* .05).
-The results of this analysis showed an association between pulp stones and kidney stones (Fig. 2). Heterogeneity of the data was not observed (%^2^ test, *P =* .52; /^2^ = 0).
-DISCUSSION
-Oral and systemic interrelationships are not a new subject in the dental research field. Some researchers have been focusing on evaluating the associations between several different conditions and oral outcomes^28^'^29^. In this context, endodontic medicine, which addresses the associations between endodontic conditions and systemic diseases, has gained prominence. Although it is still controversial^30^, it has been reported that pulp stones can serve as an important diagnostic marker for systemic diseases^5^.
-In the past decade, some studies^15^'^16^'^18-21^ have raised the question of whether there is a relationship between pulp stones and kidney stones and examined the association between these 2 conditions.
-Although a few studies have shown that pulp stones and kidney stones are associated^15^'^20^ others have failed to demonstrate the same results^16^'^18^'^19^'^21^. Therefore, the present study aimed to perform a systematic review and meta-analysis with primary studies in order to investigate this association.
-Notably, meta-analysis is a quantitative epidemiologic study design. The statistical approach to this method combines the results from multiple studies, instead of undertaking an individual study, in an effort to increase statistical power. This method also serves to resolve reports of uncertainty and disagreement between primary studies and draw a conclusion based on the assessed studies^31^. In the current meta-analysis, an association between pulp stones and kidney stones was observed in which patients with pulp stones were almost twice as likely to present with kidney stones.
-An important aspect to be highlighted here is that although 7 studies were initially screened, only 2 were included in the meta­analysis^19^'^20^ because of the fact that the other studies were considered to have low methodological quality. These facts emphasize the point that future studies should be performed with a focus on the study design in order to decrease the risk of bias.
-Another observation in the present systematic review was that all studies were performed in Asian populations^15^'^21^. This is an important issue that should be carefully discussed because of the possible genetic background that regulates both pathologic calcifications. It is well established that race and genes are implicit in the likelihood of disease risk^32^, and these results could differ in other populations and ethnic groups. Therefore, more studies that aim to evaluate the association between pulp stones and kidney stones in different populations are also necessary.
+A meta-analysis was performed on the studies classified as a low risk of bias. This analysis was based on 2 studies and presented an odds ratio = 1.97 (95% confidence interval, 1.21-3.18; *P \<* .05).
+The results of this analysis showed an association between pulp stones and kidney stones (Fig. 2). Heterogeneity of the data was not observed (% test, *P =* .52; / = 0).
+
+## **Discussion**
+
+
+Oral and systemic interrelationships are not a new subject in the dental research field. Some researchers have been focusing on evaluating the associations between several different conditions and oral outcomes'. In this context, endodontic medicine, which addresses the associations between endodontic conditions and systemic diseases, has gained prominence. Although it is still controversial, it has been reported that pulp stones can serve as an important diagnostic marker for systemic diseases.
+In the past decade, some studies'' have raised the question of whether there is a relationship between pulp stones and kidney stones and examined the association between these 2 conditions.
+Although a few studies have shown that pulp stones and kidney stones are associated' others have failed to demonstrate the same results'''. Therefore, the present study aimed to perform a systematic review and meta-analysis with primary studies in order to investigate this association.
+Notably, meta-analysis is a quantitative epidemiologic study design. The statistical approach to this method combines the results from multiple studies, instead of undertaking an individual study, in an effort to increase statistical power. This method also serves to resolve reports of uncertainty and disagreement between primary studies and draw a conclusion based on the assessed studies. In the current meta-analysis, an association between pulp stones and kidney stones was observed in which patients with pulp stones were almost twice as likely to present with kidney stones.
+An important aspect to be highlighted here is that although 7 studies were initially screened, only 2 were included in the meta­analysis' because of the fact that the other studies were considered to have low methodological quality. These facts emphasize the point that future studies should be performed with a focus on the study design in order to decrease the risk of bias.
+Another observation in the present systematic review was that all studies were performed in Asian populations'. This is an important issue that should be carefully discussed because of the possible genetic background that regulates both pathologic calcifications. It is well established that race and genes are implicit in the likelihood of disease risk, and these results could differ in other populations and ethnic groups. Therefore, more studies that aim to evaluate the association between pulp stones and kidney stones in different populations are also necessary.
 Pathologic calcification is an important subject to be explored in different health research areas. The present study supports the fact that pathologic calcifications share similar etiologic aspects. However, the impact or causality of this relationship cannot be shown here because of the fact that the temporal factor and dose association are not present in the original included studies. Therefore, the connection between them should be further shown through experimental animal studies and observational epidemiologic studies. A recent review in the endodontic medicine field examined the bidirectional relationship between endodontic infections and systemic diseases (33). However, it is possible that the endodontic medicine field is broader, including all endodontic conditions and not only infections.
-CONCLUSIONS
+
+**Conclusion**
+S
 Briefly, this study showed an association between pulp stones and kidney stones. Further well-designed studies including cohort studies should be conducted in order to confirm whether pulp stones can predict undiagnosed kidney stones.
 REFERENCES 1. Syrynska M, Durka-Zajac M, Janiszewska-Olszowska J. Prevalence and location of denticles on panoramic radiographs. Ann Acad Med Stetin 2010;56:55-7.
 2. Rodakowska E, Ochnio A, Struniawska A. Not to be forgotten: denticles. Case reports and review of the literature. Ann Acad Med Stetin 2011 ;57:77-81.
@@ -108,7 +130,7 @@ REFERENCES 1. Syrynska M, Durka-Zajac M, Janiszewska-Olszowska J. Prevalence and
 21. Patil SR. Prevalence of and relationship between pulp and renal stones: A radiographic study. J Oral Biol Craniofac Res 2015;5:189-92.
 22. Stroup DF, Berlin J A, Morton SC, et al. Meta-analysis of observational studies in epidemiology: a proposal for reporting.
  Meta-analysis Of Observational Studies in Epidemiology (MOOSE) group. JAMA 2000;283:2008-12.
-23. Lo CK, Mertz D, Loeb M. Newcastle-Ottawa Scale: comparing reviewers' to authors\' assessments. BMC Med Res Methodol 2014; 14:45.
+23. Lo CK, Mertz D, Loeb M. Newcastle-Ottawa Scale: comparing reviewers' to authors assessments. BMC Med Res Methodol 2014; 14:45.
 24. Stang A. Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses.
  Eur J Epidemiol 2010;25:603-5.
 25. Bains AB, Bains SK. Pulp stones' association with renal stones: "a minute one can help detect a large one". Ann Trop Med Public Health 2015;8:19-20.

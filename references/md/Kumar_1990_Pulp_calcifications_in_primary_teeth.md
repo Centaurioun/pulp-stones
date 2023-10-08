@@ -15,18 +15,27 @@ James et at. (11) found pulp stones in 56% of young permanent teeth.
 Stafne and- Szabo (9) found them in 46% of 200 teeth studied; Tamse et al. (12) reported 20.7% in a total sample of 300 patients and more in females than in males. A similar sex variation was found by Stafne and
 Szabo (9) , whereas other investigators have reported no sex differ­ence (1, 3, 13). Hill (3) reported a 66% incidence of pulp stones in a 10- to 20-yr-old age group. Virgin et at. (14) studied the prevalence of pulp stones in 6228 maxillary and mandibular premolars and molars.
  Nineteen percent were found to contain pulp stones in the 12-to 13-yr-old age group.
-MATERIALS AND METHODS
+
+## **Materials and Methods**
+
+
 A total of 120 primary maxillary and mandibular teeth was collected for the study from the Department of Pedodontics with Preventive Dentistry,
-Faculty of Dental Sciences, King George\'s Medical College, Lucknow.
+Faculty of Dental Sciences, King Georges Medical College, Lucknow.
 Medical examination of the participants was noncontributory. Teeth were extracted because of carious exposure, of extreme physiological mobil­ity, or for orthodontic purposes. No attempt was made to determine whether the tooth was carious or not. After extrac­tion, the teeth were washed thoroughly in running tap water to remove blood and other debris.
 The types of teeth used in this study were primary maxillary and mandibular central incisors, lateral incisors, cuspids, first molars, and second molars (Table 1).
 All of the teeth were radiographed on double coated fast films of 11/4\* 15/ginch. The films were exposed at 55 kVp, 7 mA. Exposure time used was 1 s and the developing was carried out manually for approximately 2 min.
 The films were then fixed for about 5 min at 68\"F. The films were then thoroughly washed in running tap water and air dried.
 All radiographs were reviewed by three investigators inde­pendently on three different occasions with consistent results. The radiographs were examined for the presence of pulp stones in the pulp chambers and pulp canals with the help of an X-ray viewer under magnifying lens. Pulp stones were recorded only when a definite radiopaque mass could be seen in the pulp chamber. The data were evaluated by chi-square analysis for statistical significance.
-RESULTS
+
+## **Results**
+
+
 Radiographic observations of primary maxillary and man­dibular teeth are compiled in Table 2 and Figs. I and 2. Of 120 teeth studied, only 7 showed the presence of radiopaque bodies regarded as pulp stones within the pulp chambers One pulp stone was present in a central incisor and six pulp stones were present in second molars.
 The second primary molar exhibited a significantly higher number of pulp stones than the other teeth. The results were evaluated by chi-square test and found to be highly significant (p \< O.OO1).
-DISCUSSION
+
+## **Discussion**
+
+
 Radiographs of the primary teeth have often demonstrated the presence of radiopaque masses in the pulp cavities that
  have the appearance of calcific bodies. However, these obser­vations, although similar in appearance to those in permanent teeth, are not encountered as often (15).
 This study provides radiographic data about the occurrence of pulp calcifications in primary dentition. A radiographic study was done because the detection ofpulp stones in clinical situations can be done only by dental radiographs (16).
@@ -39,7 +48,9 @@ Moss-Salentijnet al. (İ0) reported that the radiographically observed incidence
 Although the etiology of pulp calcifications is not known for certain, the process of formation seems to go on through­out the life-span of the tooth in the presence of an appropriate stimulus. Hence, the longer the life of the tooth, the greater the chance ofpulp calcifications to occur. The short life-span of the primary teeth in the mouth, the longest surviving only until about the 12th yr of life, must be the factor that is responsible for low prevalence of pulp calcifications.
 These findings lend support to the belief that pulp calcifications increase with age (15).
 Yaacob ct al. (15) stated that in the presence of a large pulp stone, the pulp cavity may be so obliterated that it would be possible for the nerves to be entrapped between it and the dentinal wall. Although there have been suggestions that pain is the sequel in such a case, the validity of the concept has not been proven beyond doubt. A pulpolomy may not be easily performed in a tooth with a large stone, especially when it is attached to the dentinal wall.
- **References** 1. Shafer WG, Hine MK, Levy BM. A textbook of oral pathology. 3rd ed.
+ **
+## **References**
+** 1. Shafer WG, Hine MK, Levy BM. A textbook of oral pathology. 3rd ed.
  Philadelphia: WB Saunders, 1974:292, 2. Kronfield R. Histopathokxjy of the teeth and their surrounding structures. 1sted. Philadelphia: Lea & Febiger, 1933:57.
 3. Hill TJ, Patrmlogy of the dental pulp. J Am Dent Assoc 1934;21:820-44.
 4. Bhaskar SN. Synopsis of oral pathology. 6th ed. St. Louis: CV Mosby, 1981:154-6.

@@ -2,9 +2,9 @@ The Scientific World Journal
 Volume 2012, Article ID 804278, 7 pages doi:10.1100/2012/804278
 TheycientificWorldJOURNAL
 Clinical Study
-Assessment of the Prevalence of Pulp Stones in a Sample of Turkish Central Anatolian Population Hakan Çolak,^1^ Ahmet Arif Çelebi,^2^ M. Mustafa Hamidi,^1^ Yusuf Bayraktar,^1^ Tuğba Çolak,^2^ and Recep Uzgur^3^
-*\'Department of Restorative Dentistry, Kırıkkale University Faculty of Dentistry, 71100 Kırıkkale, Turkey*
-*^2^ Department of Orthodontics Dentistry, Kırıkkale University Faculty of Dentistry, 71100 Kırıkkale, Turkey ^3^Department of Prosthodontics, Kırıkkale University Faculty of Dentistry, 71100 Kırıkkale, Turkey*
+Assessment of the Prevalence of Pulp Stones in a Sample of Turkish Central Anatolian Population Hakan Çolak, Ahmet Arif Çelebi, M. Mustafa Hamidi, Yusuf Bayraktar, Tuğba Çolak, and Recep Uzgur
+*Department of Restorative Dentistry, Kırıkkale University Faculty of Dentistry, 71100 Kırıkkale, Turkey*
+* Department of Orthodontics Dentistry, Kırıkkale University Faculty of Dentistry, 71100 Kırıkkale, Turkey Department of Prosthodontics, Kırıkkale University Faculty of Dentistry, 71100 Kırıkkale, Turkey*
 Correspondence should be addressed to Hakan Çolak, hakancolak4@hotmail.com
 Received 9 January 2012; Accepted 27 February 2012
 Academic Editors: M. Irie, A. Itthagarun, and T. Mitsiadis
@@ -13,16 +13,25 @@ Copyright © 2012 Hakan Çolak et al. This is an open access article distributed
 *Objective.* The aim of this study was to determine the prevalence of pulp stones (PS) in a Turkish dental patient population with respect to sexes and dental localization in relation between sex and this anomaly. *Materials Methods.* A retrospective study was performed using bitewing radiographs of 814 patients ranging in age from 15 to 65. All data (age, sex, and location) was obtained from the files.
  These patients were analyzed for pulp stones. Descriptive characteristics of sexes, jaws, and dental localization were recorded.
  The Pearson chi-squared test was used. *Results.* Of the patients, 462 (56.8%) were female and 352 (43.2%) were male. Sixty (12%) had one or more teeth that contained pulp stones. Pulp stones were identified in 518 (63.6%) of the subjects and in 2391 (27.8%) of the teeth examined.
- Pulp stone occurrence was significantly more common in the females than in males. With the increasing of age, the prevalence of pulp stones increased. Molars had statistically more pulp stones than premolars. Pulp stones were significantly more common in the maxilla compared with mandible. *Conclusion.* Prevalence of pulp stones in Turkish population was 27.8% but further larger-scale studies are required to assess its prevalence in the general population to compare it with other ethnic groups.
-1. Introduction
-Pulp stones (PSs) are calcified bodies in the dental pulps of the teeth in the primary and permanent dentition. They can be seen in the pulps of healthy, diseased, and even unerupt­ed teeth \[1\]. Pulp stones may be located in the coronal or radicular pulp, where they may be free, attached, or embedd­ed in the dentine. They may range in size from a macroscopic to microscopic mass, less than 200 ^A^m, beyond radiographic resolution \[2\]. Pulp stones were histologically classified by Kronfeld and Boyle \[3\] into "true" or "false" forms, the form­er containing irregular dentine and the latter being degener­ative pulp calcifications.
+ Pulp stone occurrence was significantly more common in the females than in males. With the increasing of age, the prevalence of pulp stones increased. Molars had statistically more pulp stones than premolars. Pulp stones were significantly more common in the maxilla compared with mandible. *
+## **Conclusions**
+
+.* Prevalence of pulp stones in Turkish population was 27.8% but further larger-scale studies are required to assess its prevalence in the general population to compare it with other ethnic groups.
+1.
+## **Introduction**
+
+
+Pulp stones (PSs) are calcified bodies in the dental pulps of the teeth in the primary and permanent dentition. They can be seen in the pulps of healthy, diseased, and even unerupt­ed teeth \[1\]. Pulp stones may be located in the coronal or radicular pulp, where they may be free, attached, or embedd­ed in the dentine. They may range in size from a macroscopic to microscopic mass, less than 200 m, beyond radiographic resolution \[2\]. Pulp stones were histologically classified by Kronfeld and Boyle \[3\] into "true" or "false" forms, the form­er containing irregular dentine and the latter being degener­ative pulp calcifications.
 Other studies have noted problems with the above classification and new histological classifica­tions have been proposed \[4-6\].
 Some factors that have been implicated in pulp stone formation include age \[7, 8\], impaired pulpal blood supply \[9\], genetic predisposition \[10\], or long-standing irritants\ such as caries, deep fillings, or abrasion \[5, 9\]. Pulp oblitera­tion is most often caused by trauma \[11\], but it has also been described after orthodontic treatment \[12, 13\] or trans­plantation \[14,15\]. In a generalized form, it is possibly a part of the aging process and is usually seen in older individuals \[16\]. However, generalized pulp obliteration has also been observed in certain systemic or genetic diseases \[10, 17\].
 The frequency of occurrence of pulp stones has been re­ported to increase with age \[8, 18\]. Some studies did not find any difference in occurrence between genders \[9,18-20\], whereas other studies have found females to have more pulp stones than males \[19, 21, 22\].
 The prevalence of PS varies from 8-90%, depending on the study type, design, and radiographic technique employed \[2\]. Histological method of evaluation is reported to yield higher values than radiographic method \[20\].
 The purposes of this study were to describe the preva­lence of pulp stones in a sample of Turkish dental patients [Table]{.smallcaps} 1: Distribution pulp stone (PS) by age.
  using bite-wing radiographs and to explore possible associ­ations between pulp stones and sex, tooth type, dental arch, side, and dental status; to compare the results with published data.
-2. Materials and Methods
+2.
+## **Materials and Methods**
+
+
 The study design was based on that previously published studies with small modification \[18, 20, 22, 23\]. We designed a descriptive study composed of bite-wing radiography of 3152 patients who presented to our
 Restorative Dentistry, Oral Diagnosis, and Radiology Services of
 Dentistry Faculty, Kırıkkale University, in the city of Kırıkkale, located in the central part of Turkey between May 2009 and November 2011. All data (age and sex) was obtained from the files.
@@ -35,7 +44,10 @@ Bitewing radiographs of 814 patients, 352 males, 462 females, with age range of 
 The bitewing radiographs of 518 patients, 206 male and 312 females, had pulp chamber calcifications. The distribution of patients having pulp stones according age groups is shown in Table 1.
 Pulp stones were observed in 2391 (27.8%) of the 12928 teeth examined, 1483 in those of females and 893 in those of males. One hundred forty four patients (17.7%) had only one tooth with a pulp chamber calcification, while in 374 patients (72.2%) more than one tooth was affected. In addition, in the bitewing radiograph of one male patient, 16 teeth were detected with pulp chamber calcification. Pulp stones were detected in 1498 of the 7597 teeth (19.72%) examined in females and in 893 of the 5331 teeth (16.75%) examined in males with significant difference between the genders (P \< 0.001, Table 2).
 The distribution of pulp stones among different teeth in the upper and lower arches is shown Table 3. Pulp stones were significantly more common in the maxilla compared with mandible. Pulp stones were found in only 229 (3.74%) of the 6124 premolars and in 2162 (31.78%) of the 6804 molars examined, with differences in occurrence being statistically significant (P \< 0.001). The frequency of pulp stones was higher in the first molars than in the second molars in each dental arch and when data for both arches were combined (P \< 0.001, Table 4). However, in maxilla second premolars more occurred than first premolars whereas a in mandible first premolars accounted more than in second premolars. There were no statistically significant differences between the right and the left side in each tooth type and arch.
-4. Discussion
+4.
+## **Discussion**
+
+
 Pulp stones are calcifications that are found in the pulp chamber or pulp canals of teeth. Structurally, pulp stones can be classified as true or false, the former being made of dentine and lined by odontoblasts, whereas false pulp stones are formed from degenerating cells of the pulp that gets mineralized \[24\].
 Review of the literature reveals a wide discrepancy in the prevalence of pulp stones in different populations. This difference results from the variation in sample and sample size in previous studies. Furthermore, the presentations of prevalence were also different in the literature.
 Some in­vestigations presented the prevalence based on person and teeth numbers \[22, 23\], and the others reported only the pre­valence based on teeth number \[18, 25\]. The results of the present study on a group of
@@ -64,7 +76,9 @@ Although many studies have been carried out to explore the prevalence of pulp st
 The currently held clinical view is that pulp stones have no significance other than possibly causing difficulties during endodontic therapy, such as hindering canal location and negotiation \[35\]. In forensic dentistry, radiographic matching of pulp stone configurations, along with other features recorded in dental records, may provide valuable information in the identification of deceased persons \[20\].
 Finally, due to the relatively small size sample, the pre­valence figures for pulp stones in the present study should be considered with caution as they may not be a represen­tative for the overall Turkish population.
 None-the-less the findings form a basis for further studies.
-References 1. K. Langeland, H. Rodrigues, and W. Dowden, "Periodontal disease, bacteria, and pulpal histopathology," *Oral Surgery Oral Medicine and Oral Pathology,* vol. 37, no. 2, pp. 257-270, 1974.
+
+## **References**
+ 1. K. Langeland, H. Rodrigues, and W. Dowden, "Periodontal disease, bacteria, and pulpal histopathology," *Oral Surgery Oral Medicine and Oral Pathology,* vol. 37, no. 2, pp. 257-270, 1974.
 2. L. Moss-Salentijn and M. Hendricks-Klyvert, "Calcified struc­tures in human dental pulps," *Journal of Endodontics,* vol. 14, no. 4, pp.
  184-189, 1988.
 3. R. Kronfeld and P. E. Boyle, *Histopathology of The Teeth and Their Surrounding Structures,* Henry Kimpton, London, UK, 4th edition, 1955.

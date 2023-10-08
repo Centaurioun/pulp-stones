@@ -1,21 +1,38 @@
-*Journal section: Oral Medicine and Pathology doi:10.4317/jced.51518* *Publication Types: Research [^htt^p.7^/d^x](http://dx). dm.
-^or^g/m.^4317^/j^ce^d. ^51518^*
+*Journal section: Oral Medicine and Pathology doi:10.4317/jced.51518* *Publication Types: Research [p.7x](http://dx). dm.
+g/m./jd. *
 
-Abstract
+
+## **Abstract**
+
+
 Aim: Pulp stones are discrete calcified bodies found in the dental pulp.
 Sialolithasis is the most common salivary gland disease. The aim of the present study was to determine the relationship between the pulp stones and salivary gland stones.
-Material and Methods: 196 patients were randomly selected from the out patient department for the study. The periapical radiographs for all patients were evaluated for the presence or absence of the narrowing of dental pulp chambers and pulp canals. The intra oral occlusal radiographs were also evaluated to determine the presence or absence of salivary stones. The results were compared and analyzed using the
+
+## **Materials and Methods**
+
+s: 196 patients were randomly selected from the out patient department for the study. The periapical radiographs for all patients were evaluated for the presence or absence of the narrowing of dental pulp chambers and pulp canals. The intra oral occlusal radiographs were also evaluated to determine the presence or absence of salivary stones. The results were compared and analyzed using the
 Chi-square test (/?\<0.001).
 Results: Salivary gland calcifications were detected in 5 patients. 191 patients had pulp narrowing and 118 patients had pulp stones. There was no statistical correlation between pulp narrowing and salivary stones (/?\>0.001) and also between pulp stones and salivary gland stones (p\>0.001).
-Conclusions: However, the incidental findings of salivary gland stones on intra oral occlusal radiographs can pro­vide useful information in the early diagnosis of the condition, but in the present study no significant relationship was found between the presence of pulp stones and salivary gland stones.
+
+**
+## **Conclusions**
+
+s**
+: However, the incidental findings of salivary gland stones on intra oral occlusal radiographs can pro­vide useful information in the early diagnosis of the condition, but in the present study no significant relationship was found between the presence of pulp stones and salivary gland stones.
 ***Key words:** Pulp stone, salivary gland stone, periapical radiograph, occlusal radiograph.*
-Introduction
+
+## **Introduction**
+
+
 The calcified structures in the dental pulps of healthy, di­seased, and even unerupted teeth are known as pulp sto­nes. They may be present in the teeth of deciduous and permanent dentition (1). These calcifications may be lo­cated in the coronal or radicular part of the pulp. Pulp sto­nes have been described as the symptoms of the changes in the pulp tissue rather than their cause. The exact me­chanism and the etiology is not known, however, various factors such as pulp degeneration, age, genetic factors, certain syndromes such as the van der Woude syndrome, epithelium rests in the pulp tissue, impaired blood supply of the pulp, periodontal disease, orthodontic treatment, operative procedures and long-standing irritants such as caries, deep fillings, or abrasion have been implicated in their formation (2,3). It has also been noted that pulpal stone formation may result when an irritated pulp, at­tempts to repair itself The carious teeth of children and young adults have shown a 5 times higher incidence of pulp calcifications when compared with the non carious teeth (2). The frequency of pulp stones has been reported to increase with advancing age. A decrease in the size of the pulp chamber due to the deposition of the secondary dentin and due to the deposition of calcified masses in the root has been reported by Bemick and Nedelman (4). A few studies have reported no difference in occurrence of pulp stones between genders, while some have reported a higher prevalence of pulp stones in females (5,6). Pulp stones vary in number from 1 to 12 or more in a single tooth and the size vary from small microscopic particles to large masses occluding the pulpal space (6).
 Sialolithiasis is the most common disorder of the ma­jor salivary glands.
 According to one of the proposed theories for its etiopathogenesis, it results from a deposi­tion of calcium salts around a core made of desquamated epithelial cells, bacteria, mucus or foreign bodies. The submandibular salivary gland is the most common site for stone formation, given that around 60-90% of the stones are reported to be located in this gland. Approxi­mately 10-20% of stones are found in the parotid gland and 1-5% in the sublingual gland (7,8). Around one- fourth of the cases, multiple stones have been reported (9). The size may vary from 0.1 to 30 mm. However, Drage *et al.* (10) have reported a mean size of up to 3.4 mm (range from 1.5 to 9 mm) for the parotid and sub­mandibular stones, and a mean number of 1.67 stones (range from 1 to 5) per patient.
 The pulp calcifications usually occur throughout the denti­tion in patients with systemic or genetic diseases like dentin dysplasia and dentinogenesis imperfecta (11). The condi­tions that are secondary to the calcium metabolism like hypocalcaemia, gout and renal lithiasis have been noted as the pre-disposing factors. A strong correlation between the chronicity of the renal disease and the pulp narrowing has been observed in the premolar and molar teeth of such patients (12). A number of studies have suggested that pulp stones results as a manifestation of systemic illnesses lea­ding to pathological biomineralization in many parts of the body (13,14). Few others have suggested that the complex biomechanical and physiologic changes occurring in these systemic diseases do not affect the dentin and pulp, stating that no such correlation exists (15).
 No previous studies have been done to establish a co­rrelation between the presence of pulp stones and sali­vary stones. Thus, the present study was carried out to determine the relationship between the pulp stones and salivary gland stones.
-Material and Methods
+
+## **Materials and Methods**
+
+s
 The present study included a total of 196 randomly selec­ted patients visiting the outpatient department of Jodhpur Dental College General
 Hospital to study the prevalen­ce of salivary stones and pulp stones.
 Ethical clearance was obtained from the Institutional Ethical Committee.
@@ -31,7 +48,10 @@ The pulp stones are often incidental findings on radio­graphs and many radiolog
 Histological method of evaluation has been reported to yield higher values of prevalence than radiographic method. The prevalence based on radiographic examinations, has been reported to be around 20 to 25% (18). However, Hamasha and Darwazeh (18) identified a prevalence of 51.4% in Jor- **Table 1.** Distribution of patients with and without pulp narrowing.
  **Table 2.** Distribution of patients with and without pulp stones.
 
-Discussion
+
+## **Discussion**
+
+
 Pulp stones are discrete calcifications found in the pulp chamber or pulp canals of deciduous and permanent tee­th. Based on the location, pulp stones may occur freely within the pulp tissue or embedded and adherent to the dentin. The embedded stones formed in the pulp may be­come enclosed within the canal walls due to the deposi­tion of physiological dentin. They are usually located at the apical portion of the root. Odontoblasts and a calci­fied tissue resembling the dentine may be present on the peripheral aspect of these stones (16). The adherent pulp stones are never fully enclosed by the dentine and are less attached to the dentine. Both the types of pulp stones can cause significant obstruction of the canals and may interfere with the root canal treatment (11). The pulp sto­nes are divided histologically into "true" or "false"(17). The true pulp stones are composed of dentin, are more irregular in shape and lined by odontoblasts. The false pulp stones are formed from the mineralization of de­generating cells of the pulp (2,16). A third type of pulp stones, 'diffuse' or 'amorphous' type is also seen in close association with the blood vessels (2).
 The prevalence of pulp stones has shown wide discre­pancy in various populations varying from 8-90%, de- danian adults in a radiographic study and Ranjitkar S *et al.* (5) reported a prevalence of 46.1% in
 Australian adults'. The prevalence of pulp stones in the present stu­dy was reported to be 60.2%, which was higher than the above mentioned studies. 115 of the patients with pulp narrowing (126 patients) presented with pulp stones in the present study. The difference in the prevalence may be due to the variation in sample and sample size in va­rious studies, along with the difference in the presenta­tions of prevalence.
@@ -40,7 +60,9 @@ Keeping this in mind, and also the fact that extraoral radiographs were not inte
 No previous studies have been done till date to study the correlation between the presence of pulp stones and salivary stones. Hence, the present study was designed to find if any such relation exists. A total of 130 patients showed pulp narrowing, of which 4 patients had sali­vary gland stones. However, only 3 of the patients with salivary stones had pulp stones and 115 of the normal patients had pulp stones. The presence of pulp calci­fications along with the stones in the salivary glands however showed no statistically significant relationship (p\>0.001). The intraoral radiographs such as bitewing and periapical radiographs are the only means of exa­mining pulp stones non-invasively in such studies.
 The­se radiographs when compared for their efficacy in the diagnosis of pulp stones showed no significant differen­ce, and hence periapical radiographs were used in the present study to determine pulp stones.
 The present study however, did not report any significant association between pulp stones and salivary gland sto­nes but it seems to be of significant clinical importance. The intraoral radiographs are easy screening methods that frequently reveal the presence of calcified structures in the pulp, but these may not be conducive to provi­de any information about salivary gland stones. Further large scale, multi-institutional studies are encouraged to establish any positive correlation between pulp stones and salivary gland stones. It is thus suggested that care­ful evaluation of routine dental radiographs could serve as a significant prognostic tool for early identification of salivary gland calculi.
-References 1. Langeland K, Rodrigues H, Dowden W. Periodontal disease, bac­teria, and pulpal histopathology. Oral Surg Oral Med Oral Pathol.
+
+## **References**
+ 1. Langeland K, Rodrigues H, Dowden W. Periodontal disease, bac­teria, and pulpal histopathology. Oral Surg Oral Med Oral Pathol.
  1974;37:257-70.
 2. Goga R, Chandler NP, Oginni AO. Pulp stones: a review. Int Endod J.
  2008;41:457-68.

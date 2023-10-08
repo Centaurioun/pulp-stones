@@ -9,7 +9,10 @@ Six denticles were selected for graphic, three­dimensional reconstruction, whic
 For over a century, reports have appeared in the dental literature on the subject of calcified bodies in the dental pulp. Although the earlier descriptions were rather anecdotal (1-3), several later studies have provided more extensive data on the incidence, loca­tion, and histological nature of pulpal calcifications in large samples of human teeth (4-9).
 The findings of those studies suggest that several etiological factors may be involved in the development of calcified bodies in the pulp, specifically, changes in the pulp tissue as a result of aging, changes due to chronic irritations of pulp tissue, and inductive inter­actions between the cells of the epithelial root sheath and the cells of the dental papilla (10-15). However, the latter mechanism has not been universally ac­cepted (14) and no adequate developmental descrip­tions are given in the literature.
 The present study provides radiographic and his­tological data about the incidence, location, and mor­phology of calcified bodies in the pulps of newly erupted human premolars, which suggest that epithe- lially induced calcified bodies (here defined as *denti­cles)* indeed do exist. It also provides the first three­dimensional, graphic reconstructions of such denti­cles, illustrating their characteristic morphology at some stages of their development.
-MATERIALS AND METHODS
+
+## **Materials and Methods**
+
+
 A total of 175 (85 maxillary and 90 mandibular) newly erupted, noncarious human premolars were obtained for this study. The premolars had been ex­tracted for orthodontic reasons. The ages of the pa­tients ranged from 11 to 15 yr.
 Radiographs were prepared of all of the teeth in both mesiodistal and buccolingual projections, using a dental X-ray machine with a 16-inch cone. The Kodak DF 57 (double packet) films were exposed at 50 kVp, 15 mA, and 75 imp and processed in an automatic processor at 68\~ for 3.5 min.
 All radiographs were reviewed by both investigators independently on two separate occasions. A calcified body was considered to be present in the dental pulp if it had been observed four times or three of four times.
@@ -19,7 +22,10 @@ Tracings were prepared of all denticle-containing sections, at standard magnific
 Videoplan microcomputer, using the internal and ex-
 Epithelially Induced Denticles 555 ternal dentin outlines of the tooth as registration land­marks.
 Graphic three-dimensional reconstructions were prepared of a total of six selected denticles with the aid of a program designed to create three-dimensional impressions from serial sections. This program also permitted rotations of the graphically reconstructed denticles so that they could be studied from all sides.
-RESULTS
+
+## **Results**
+
+
 The principal *radiographic* findings of this study are summarized in
 Tables 1 and 2. The incidence of radiographically distinct calcified bodies in the pulps was closely similar for maxillary and mandibular pre­molars: 25.8 and 25.5%, respectively (37.6 and 35.5% if pulps with possible calcifications were in­cluded). The majority of these calcified bodies was found in the radicular pulps and preferentially in the apical halves of these pulps (Fig. 1).
 If the stage of root development was taken into account, the percentages of teeth with calcified bodies in the coronal pulp were slightly higher after root completion than before. In contrast, significantly fewer calcified bodes were found in the radicular pulps after root completion than before.
@@ -36,8 +42,8 @@ In this relatively small sample of histologically stud­ied pulps of teeth with 
 t The numbers without parentheses represent positive findings. The numbers enclosed in the parentheses represent both positive and possible findings. In some cases calcifi­cations were seen in both coronal and radicular pulps of the same teeth. Such teeth are therefore listed in both categories.
  \* A, maxillary premolars; B, mandibular premolars.
 t The numbers without parentheses represent positive findings. The numbers enclosed in the parentheses represent the totals of both positive and \"possible\" findings. In some cases calcifications were seen in both coronal and redicular pulps of the same teeth. Such teeth are therefore listed in both categories.
-small foci of diffuse calcification. In the radicular pulps it was possible to find either pulp stones and denticles within the same pulp, or pulp stones alone, or denti-cles alone. A comparison between the number of calcified structures found radiographically and the number found histologically in the same tooth suggested that, with the particular film and exposure factors that were **Discussion**
-
+small foci of diffuse calcification. In the radicular pulps it was possible to find either pulp stones and denticles within the same pulp, or pulp stones alone, or denti-cles alone. A comparison between the number of calcified structures found radiographically and the number found histologically in the same tooth suggested that, with the particular film and exposure factors that were **
+## **Discussion**
 Various studies have reported on the incidence of calcifications in human dental pulps. The values vary from a low of 8% (7, 8) to a high of 90% (4, 8). Generally, it appears that the incidence is higher in older teeth (4, 8) and in carious and/or operated teeth (5, 7-9).
 The published values on the incidence of pulpal calcifications in young, noncarious teeth, all based on histological studies, are 8 (7, 8), 19.5 (6), 52 (5), and 66% (4). These different values are most likely due to the differences in the composition of the samples that were studied. The present sample consisted of pos- showed that calcified bodies with a diameter smaller than 200 /\~m could not be seen in the radiographs. With this constraint, our incidence figures agree more closely with the higher (4, 5) than with the lower (6-8) values reported in the literature. This may reflect the fact that these \"orthodontic\" premolars constitute a somewhat unique sample, for reasons discussed be­low.
 The small increase in coronal pulp calcifications in the slightly older teeth of this sample may be explained as a simple result of aging, whereby possible earlier existing calcifications attained a large enough diame­ter to be detected radiographically. The decrease in the incidence of radicular pulp calcifications in the slightly older teeth appeared to be due largely to the incorporation of many of the existing pulp stones and denticles in the root dentin, transforming them from free into embedded structures. In addition, it is also possible that the increased thickness of the root dentin in older teeth caused an attenuation of the
@@ -60,7 +66,9 @@ The response of the surrounding pulp tissue to an inductive stimulus appears to 
 Calci­fied bodies (denticles and pulp stones), which are initially composed of tubular dentin, tend to become surrounded by atubular dentin with age.
 The formation of tubular dentin in either type of calcified body in younger pulps appears to reflect the ability of the cells in the immature pulp tissue to undergo differentiation into odontoblasts for a limited period of time, provided the proper inductive stimulus is received, whether this stimulus originates from ep­ithelial cells or not.
 Therefore, the use of the termi­nology true and false denticles no longer appears to have any validity.
-References 1. Salter SJA. Dental pathology and surgery. New York: William Wood & Co, 1875.
+
+## **References**
+ 1. Salter SJA. Dental pathology and surgery. New York: William Wood & Co, 1875.
 2. B6decker CF. Anatomy and pathology of the teeth. Philadelphia: SS White Dental Manufacturing Co, 1894.
 3. Preiswerk G. Atlas and textbook of dentistry, including diseases of the mouth. Warren GW, ed. Philadelphia: WB Saunders Co, 1906.
 4. Hill TJ, Pathology of the dental pulp, J Am Dent Assoc 1934;21:820- 44.

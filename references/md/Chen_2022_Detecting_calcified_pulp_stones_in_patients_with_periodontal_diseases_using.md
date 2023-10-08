@@ -1,26 +1,15 @@
 Original Article
-Detecting calcified pulp stones in patients with periodontal diseases using digital panoramic and periapical radiographies
-Gin Chen ^a\ b\ c^\*, Liang-Gie Huang ^a^, Pei-Cheng Yeh ^a^ *^a^ Division of Endodontics and Periodontics, Department of
-Stomatology, Taichung Veterans General Hospital, Taichung, Taiwan* *^b^ College of Oral Medicine, Chun Shan Medical University, Taichung,
-Taiwan ^c^ School of Dentistry, National Yang-Ming University, Taipei,
-Taiwan*
-Received 5 December 2021; Final revision received 10 December 2021
- \* Corresponding author. Division of Endodontics and Periodontics,
-Department of Stomatology, Taichung Veterans General Hospital. 1650,
-Taiwan Boulevard Section 4, Taichung city, 40705, Taiwan. Fax: +886 4 23741329.
-*E-mail address:* kam@vghtc.gov.tw (G. Chen).
-<https://doi.Org/10.1016/j.jds.2021.12.010 1991 -7902/© 2022 Association for Dental Sciences of the Republic of
-China. Publishing services by Elsevier B. V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.0rg/licenses/by-nc-nd/4.O/).
- and subjects of old ages (\>40 years). Digital panoramic and periapical radiography showed sig­nificant differences in the detection of pulp stone calcifications (P \< 0.05), and detected bet­ter with digital periapical radiography examination.
 
-*Conclusion:* We found 58.0% (n = 645) of our patients with pulp stones using digital panoramic radiography, and 74.8% using digital periapical radiography. Regarding individual teeth, only 8.5% of pulp stones were observed in digital panoramic radiography and 10.6% in digital peri­apical radiography. Pulp stones were more often seen in maxillary molar teeth and old patients of ages \>40 years old using periapical radiography examination especially in those patients with periodontally condition. As a two-dimensional imaging system, digital periapical radiog­raphy is recommended for a definitive and routine assessment in patients suspected of hard tissue abnormality and pulp calcification formation.
+# Detecting calcified pulp stones in patients with periodontal diseases using digital panoramic and periapical
+radiographies
+Gin Chen \*, Liang-Gie Huang , Pei-Cheng Yeh * Division of
 
-© 2022 Association for Dental Sciences of the Republic of China.
- Publishing services by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (<http://creativecommons>.
- org/licenses/by-nc-nd/4.0/).
-Introduction
-Pulpal calcified structures are fairly common. Such calcifi­cation of dental pulp tissue, often known as denticle, pulp stone, or dystrophic calcification, has been studied for over a decade. Pulp stones may occur in any one or multiple teeth, deciduous or permanent, healthy or disease, and even in unerupted or impacted teeth.^1^\'^2^ Pulp stone calci­fications vary in number from one or more in a single tooth or in multiple teeth. Their size varies from minute particles to large calcified mass, occluding a part or the entire pulp cavity. Pulp stones are more often seen in coronal pulp although they are also found in radicular areas.^3-5^ These calcifications and/or stones are usually asymptomatic, except when impinging on the nerve or blood vessel.^6^ (see Figs. 1 and 2)
-Despite a number of microscopic and histochemical studies, the exact causes of pulp calcification remains largely unclear.^7^,^8^ A host of factors like age, dental trauma, periodontal disease, orthodontic treatment and systemic disease are implicated.^7^,^9-16^ The prevalence of pulp stones ranges from 8% to 90%.^5^,^6^,^17-19^ The detection of pulpal calcifications in human dental pulp, based on radiographic examinations, has been reported to be 2.1%---63.6% across different populations.^17^,^20^ The occurrence of pulp calcifi­cations are generally believed to be under-estimated. That is mainly because small calcified masses (\<200 urn) are not easily detected with radiographic imaging.^2^ The current digital imaging systems, including periapical, panoramic and cone-beam computed tomography radiography can provide more realistic and accurate images.^17,20-22^ Hence, visualizing the orientation and dimensions of pulpal struc­tures can be better in replicating and measuring the pulp stone calcifications. However, no such related investigation has been reported regarding two commonly used clinical radiographic techniques on diagnosing pulp tissue disease and occurrence of pulp stone calcifications.
+## **Introduction**
+
+
+Pulpal calcified structures are fairly common. Such calcifi­cation of dental pulp tissue, often known as denticle,
+pulp stone, or dystrophic calcification, has been studied for over a decade. Pulp stones may occur in any one or multiple teeth, deciduous or permanent, healthy or disease, and even in unerupted or impacted teeth. Pulp stone calci­fications vary in number from one or more in a single tooth or in multiple teeth. Their size varies from minute particles to large calcified mass, occluding a part or the entire pulp cavity. Pulp stones are more often seen in coronal pulp although they are also found in radicular areas. These calcifications and/or stones are usually asymptomatic, except when impinging on the nerve or blood vessel. (see Figs. 1 and 2)
+Despite a number of microscopic and histochemical studies, the exact causes of pulp calcification remains largely unclear., A host of factors like age, dental trauma, periodontal disease, orthodontic treatment and systemic disease are implicated., The prevalence of pulp stones ranges from 8% to 90%.,, The detection of pulpal calcifications in human dental pulp, based on radiographic examinations, has been reported to be 2.1%---63.6% across different populations., The occurrence of pulp calcifi­cations are generally believed to be under-estimated. That is mainly because small calcified masses (\<200 urn) are not easily detected with radiographic imaging. The current digital imaging systems, including periapical, panoramic and cone-beam computed tomography radiography can provide more realistic and accurate images. Hence, visualizing the orientation and dimensions of pulpal struc­tures can be better in replicating and measuring the pulp stone calcifications. However, no such related investigation has been reported regarding two commonly used clinical radiographic techniques on diagnosing pulp tissue disease and occurrence of pulp stone calcifications.
 The purpose of this study was: (a) to compare two commonly used digital radiographic techniques, i.e., panoramic and periapical radiograhy, in detecting pulp stone calcifications at dental pulps of patients with peri­odontal diseases; (b) to determine the association between
 Figure 1 Digital Panoramic radiography is a commonly used clinical tool to quantify the pulpal radiopacities or calcifications (red circle).
 Journal of Dental Sciences 17 (2022) 965-972
@@ -46,8 +35,11 @@ Regarding the location and root number of teeth, pulp stones in one, two and thr
 DPA), followed by the maxillary second molar (24.9% in DPR vs 19.6% in
 DPA), and mandibular first molar (15.6% in DPR vs 17.2% in DPA) (P \< 0.05). The mandibular incisors were the least affected teeth (0.3% in
 DPR vs 2.4% in DPA) (Table 2). Overall, 8.3% (1031/12407) of teeth had pulp stones as examined by DPR examination, whereas 10.6% of the teeth (1326/12407) had a pulp stone easily detected in DPA im­ages. We suggested that digital periapical radiography examinations are a great opportunity to observe and identify pulpal calcification prior aggressive dental pro­cedures to be scheduled (Table 1).
-Discussion
-Pulpal calcifications occur widely in dental pulps of healthy or diseased humans, and even in un-erupted or impacted Table 1 Distribution of examined teeth with pulp stone calcification by patient\'s characteristics.
+
+## **Discussion**
+
+
+Pulpal calcifications occur widely in dental pulps of healthy or diseased humans, and even in un-erupted or impacted Table 1 Distribution of examined teeth with pulp stone calcification by patients characteristics.
 
 Full Mouth
 Pulp stone identified
@@ -60,24 +52,24 @@ Panoramic Periapical *p* value Panoramic Periapical *p* value Panoramic
 Periapical *p* value Panoramic Periapical *p* value Panoramic Periapical *p* value
 McNemar test. *\*p \<* 0.05 significantly difference, *"p \<* 0.01 more significantly difference.
 Journal of Dental Sciences 17 (2022) 965---972 Table 3 Previous reports on the prevalence of pulp stone calcifications in different populations.
- teeth. Calcified masses in the pulps have been studied for many years.^2^\'^5^\'^13^ The consensus is the occurrence of such calcification mostly is due to dystrophy or degeneration of dental pulp tissues. Therefore, dystrophic calcification is a physiological and/or pathological manifestation.^1^ The occurrence of pulp stones is known to be related to func­tional disturbance due to aging, tooth trauma, periodontal disease, pathologic changes in enamel or dentin structures, and systemic diseases such coronary artery disease, dia­betes mellitus and renal dysfunction.^7-13^\'^15^\'^19^\'^23-25^
-The prevalence of pulpal calcification varies from 8% to 90%.^5^\'^6^\'^1719^\'^26^ The variations may be due to differences in measuring tools and study populations. It is also believed that calcifications with diameter \<200 urn are not readily identifiable on radiographic images.^5^\'^13^\'^17^ Based on radio­graphic examinations in the past 20 years\' the occurrence of pulp stones are reported to be 2.1%---63.6% in different populations and geographical locations: e.g.\'
+ teeth. Calcified masses in the pulps have been studied for many years. The consensus is the occurrence of such calcification mostly is due to dystrophy or degeneration of dental pulp tissues. Therefore, dystrophic calcification is a physiological and/or pathological manifestation. The occurrence of pulp stones is known to be related to func­tional disturbance due to aging, tooth trauma, periodontal disease, pathologic changes in enamel or dentin structures, and systemic diseases such coronary artery disease, dia­betes mellitus and renal dysfunction.
+The prevalence of pulpal calcification varies from 8% to 90%. The variations may be due to differences in measuring tools and study populations. It is also believed that calcifications with diameter \<200 urn are not readily identifiable on radiographic images. Based on radio­graphic examinations in the past 20 years the occurrence of pulp stones are reported to be 2.1%---63.6% in different populations and geographical locations: e.g.
 Hamasha et al. on Jordanian; Gulsahi et al. and Turkal et al. on
 Turkish; Al-Ghurabi & Najm on Iraqi; Kannan et al. on Malaysian; Kumar et al. and Sandhu et al. on Indian; Jayam et al. on Nepalese;
 Hassanabadi et al. and Kuzekanani et al. on Iranian; Kalaji et al. on
-Yemini; Sadoon et al. on Saudi Arabia and Alawjaki on Libyan (Table 3).^26-38^ Digital panoramic radiography and periapical radiography are currently the most widely used clinical tools in intraoral examinations.
+Yemini; Sadoon et al. on Saudi Arabia and Alawjaki on Libyan (Table 3). Digital panoramic radiography and periapical radiography are currently the most widely used clinical tools in intraoral examinations.
 They are typically used to calibrate the bony defect and abnormal radioluceny and radiopacity shadow in the oral cavity. Newly developed
-CBCT provides a reliable visualization of the orientation and dimensions of oral structures.^20-22^\'^39^ But digital panoramic and periapical radiography can provide realistic images allowing different angulations\' and the ease in replicating measurements. Results of our present study comply with previous reports\' utilizing DPR and DPA images to identify and characterize pulp cavity opacities.
-The prevalence of pulp stone calcifications we found in this present study is 58% of personal subjects (270/465) in DPR images and 74.8% (348/465) in DPA images. Such findings are similar to those reported earlier by Colak et al. (2012)\' Sisman et al. (2012)\' Kumar et al.
-(2015)\' and SriVarsh (2019).^19^\'^31^\'^40^\'^41^ Regarding individual teeth\' we found the occurrence of pulpal radiopacities being 8.3% (1031/12047) in DPR images\' and 10.6% (1326/12407) in DPA images. This finding is also similar with those re­ports by Ranjitkar et al. (2002)\'
-AlNazhan & Sl-Shamrani (2011)\' Jayam et al. (2017)\' Kuzekanani et al.
-(2018).^33\'35\'42\'43^ The findings supported a significant dif­ference between two assessed radiographic techniques (Table 1) (P \< 0.01).
-Robertson et al.\' in 1997 and Holan in 1998 analyzed the incidence of calcific metamorphosis using radiographic techniques and they found a significant correlation be­tween calcification and dental trauma.^10^\'^11^ Other re­searchers reported the incidence of calcified bodies in the dental pulp increased with age.^1\'19\'27^ Our results are in line with their findings. In our study population including four age groups (from 17 to \>60 years of age) and results indi­cated the occurrence of pulp stone calcifications in the dental pulps of periodontal disease increased with old age
+CBCT provides a reliable visualization of the orientation and dimensions of oral structures. But digital panoramic and periapical radiography can provide realistic images allowing different angulations and the ease in replicating measurements. Results of our present study comply with previous reports utilizing DPR and DPA images to identify and characterize pulp cavity opacities.
+The prevalence of pulp stone calcifications we found in this present study is 58% of personal subjects (270/465) in DPR images and 74.8% (348/465) in DPA images. Such findings are similar to those reported earlier by Colak et al. (2012) Sisman et al. (2012) Kumar et al.
+(2015) and SriVarsh (2019). Regarding individual teeth we found the occurrence of pulpal radiopacities being 8.3% (1031/12047) in DPR images and 10.6% (1326/12407) in DPA images. This finding is also similar with those re­ports by Ranjitkar et al. (2002)
+AlNazhan & Sl-Shamrani (2011) Jayam et al. (2017) Kuzekanani et al.
+(2018). The findings supported a significant dif­ference between two assessed radiographic techniques (Table 1) (P \< 0.01).
+Robertson et al. in 1997 and Holan in 1998 analyzed the incidence of calcific metamorphosis using radiographic techniques and they found a significant correlation be­tween calcification and dental trauma. Other re­searchers reported the incidence of calcified bodies in the dental pulp increased with age. Our results are in line with their findings. In our study population including four age groups (from 17 to \>60 years of age) and results indi­cated the occurrence of pulp stone calcifications in the dental pulps of periodontal disease increased with old age
 Journal of Dental Sciences 17 (2022) 965-972 groups, particularly those aged \>40 years (Table 1). Over 90.6% (935/1031) in DPR images, and 89.7% (1192/1326) in DPA images had pulp stone calcifications identified in those older age groups (p \< 0.001).
 Studies of Hillmann & Geurtsen (1997), Fetami et al. (2012) and Chen &
-Huang (2016) reported higher rate pulpal calcifications in elderly patients with periodontal disease.^7^\'^12^\'^13^ These authors also suggested that the frequency, duration and intensity of chronic irritations being causative factors for such calcifi­cations. Consistent with that, we found a high incidence of pulp stone calcifications in periodontally involved teeth up to 58.0%---78.8% respectively (p \< 0.006).
+Huang (2016) reported higher rate pulpal calcifications in elderly patients with periodontal disease. These authors also suggested that the frequency, duration and intensity of chronic irritations being causative factors for such calcifi­cations. Consistent with that, we found a high incidence of pulp stone calcifications in periodontally involved teeth up to 58.0%---78.8% respectively (p \< 0.006).
 In this study, we found no correlation between gender and pulp cavity calcification (p \ 0.05). Our finding is in line with the work of
-Sayegh & Reed (1968) and Stroner & Van Cura (1984).^1^\'^4^ Furthermore, the tendency we found for a higher chance of pulp calcifications in molar teeth also agrees with the most recent studies.^19^\'^32^\'^33^\'^35^\'^40-42^ We confirmed the higher prevalence of calcifications in molar teeth (65.1% in DPA and 44.1% in
+Sayegh & Reed (1968) and Stroner & Van Cura (1984). Furthermore, the tendency we found for a higher chance of pulp calcifications in molar teeth also agrees with the most recent studies. We confirmed the higher prevalence of calcifications in molar teeth (65.1% in DPA and 44.1% in
 DPA) compared with bicuspid (23.3% in DPA and 33.1% in DPA) and incisors (11.4% in DPR and 22.4% in DPA) (Table 1). The underlying casuse may be related to their large pulp chamber and space in the dentition, and hence greater chance to be injured and damaged during daily mastication, leading to formation of calcified stones.
 In conclusion, our results are in support of pulpal cal­cifications commonly occurring in human dental pulp tis­sue. Other findings are the prevalence of pulp stone calcifications in a group of periodontal patients in Taiwan
 Chinese population was 58.0% with digital panoramic ex­amination, and 74.8% with digital periapical radiographic examination. Both prevalence rates were higher than other populations such as Libyan (Alawjali 2019),
@@ -88,7 +80,9 @@ The authors gave no conflicts of interest relevant to this article.
 Acknowledgements
 The authors would like to thank the Biostatistics Task Force of Taichung
 Veterans General Hospital, Taichung, Taiwan for their data analysis.
-References 1. Sayegh FS, Reed AJ. Calcification in the dental pulp. *Oral Surg Oral Med Oral Pathol* 1968;25:873-82.
+
+## **References**
+ 1. Sayegh FS, Reed AJ. Calcification in the dental pulp. *Oral Surg Oral Med Oral Pathol* 1968;25:873-82.
 2. Moss-Salentijn L, Hendricks-Klyvert M. Calcified structures in human dental pulps. *J Endod* 1988;14:184-9.
 3. Sundell JR, Stanley HR, White CL. The relationship of coronal pulp stone formation to experimental operative procedures. *Oral Surg Oral Med Oral Pathol* 1968;25:579-89.
 4. Stroner WF, Van Cura JE. Pulpal dystrophic calcification. *J Endod* 1984;10:202-4.

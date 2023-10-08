@@ -3,11 +3,17 @@ Light-microscopical investigation of the distribution of extracellular matrix mo
 Department of Conservative Dentistry and Periodontology, Dental School,
 Medical University Hannover, Carl-Neuberg-Str. 1, D-30625 Hannover,
 Germany
-Received: 21 August 1996 / Accepted: 13 January 1997 **Abstract.** The distribution of extracellular matrix mole­cules, especially collagen types I, III, V, and VI, in the extracellular matrix of the connective tissue of human dental pulp of various ages was studied by polarization and indirect immunofluorescence microscopy by using a conventional fluorescence microscope and a confocal la­ser scanning microscope. Polarization and immunofluo­rescence microscopy of paraffin sections showed thick fibers of collagen type I, which represented the main component of the connective tissue matrix of the dental pulp. By indirect immunofluorescence, thin fibers and small bundles of collagen type III were determined to be one of the main fibrillar elements present in the dental pulp matrix. Collagen type IV was detected by a clear intense staining of the basement membrane of blood ves­sels at all ages examined. Collagens type V and VI formed a dense meshwork of thin microfibrils through­out the stroma of the connective tissue of the dental pulp. These fibers were localized around blood vessels and appeared to be enriched in the subodontoblastic lay­er.
+Received: 21 August 1996 / Accepted: 13 January 1997 **
+## **Abstract**
+
+.** The distribution of extracellular matrix mole­cules, especially collagen types I, III, V, and VI, in the extracellular matrix of the connective tissue of human dental pulp of various ages was studied by polarization and indirect immunofluorescence microscopy by using a conventional fluorescence microscope and a confocal la­ser scanning microscope. Polarization and immunofluo­rescence microscopy of paraffin sections showed thick fibers of collagen type I, which represented the main component of the connective tissue matrix of the dental pulp. By indirect immunofluorescence, thin fibers and small bundles of collagen type III were determined to be one of the main fibrillar elements present in the dental pulp matrix. Collagen type IV was detected by a clear intense staining of the basement membrane of blood ves­sels at all ages examined. Collagens type V and VI formed a dense meshwork of thin microfibrils through­out the stroma of the connective tissue of the dental pulp. These fibers were localized around blood vessels and appeared to be enriched in the subodontoblastic lay­er.
 Investigations by means of confocal laser scanning microscopy revealed fibers of collagen type VI spiralling between fully differentiated odontoblasts toward the pre­dentin layer. With advancing age, the connective tissue matrix appeared to be condensed and aggregates of thick fiber bundles could be observed. Furthermore, the partic­ipation of various collagen types in the composition of pulp stones was shown.
 These calcifications and diffuse calcifications increased in frequency with advancing age in a statistically significant manner.
 **Key words:** Teeth - Dental pulp - Immunohistology - Extracellular matrix - Collagen - Aging - Human
-This study was supported by the Deutsche Gesellschaft fur Zahn-, Mund- und Kieferheilkunde *Correspondence to:* G. Hillmann (Tel.: +49-511-532-4815; Fax: +49-511-532-4811) **Introduction**
+This study was supported by the Deutsche Gesellschaft fur Zahn-, Mund- und Kieferheilkunde *Correspondence to:* G. Hillmann (Tel.: +49-511-532-4815; Fax: +49-511-532-4811) **
+## **Introduction**
+
+**
 The connective tissue of the dental pulp is composed of several types of macromolecules and is specifically in­volved in the production and maintenance of dentin. In oral soft tissues, the extracellular matrix comprises four major classes of molecules, namely the collagens, proteo­glycans, glycosaminoglycans, and elastin. The extracellu­lar matrix is considered to act as an important determina­tor of cellular gene expression and differentiation.
 Pulp fibers have been classified histologically as re­ticular fibers, including von Korff-fibers, collagen fibers, and elastic fibers. The classification of the pulp fibers re­lies on staining and morphological characteristics, but the nature of the fibrillar materials in the dental pulp re­mains contentious.
 Of the collagens occurring in the connective tissue, types 1, III, and V belong to the class of fibril-forming collagens. Both types 1 and 111 account for the bulk of the tissue collagen (Shuttleworth et al. 1978, 1980). Type 111 collagen is often found together with type 1. However, type III consists of fibrils of much smaller di­ameter (Lapiere et al.
@@ -19,7 +25,8 @@ Type VI collagen was originally discovered in pepsin extracts of the aorta (Chun
 Calcified structures, such as pulp stones and diffuse calcifications, are common in human dental pulp. They may occur in one or all of the teeth of one person, even in unerupted or impacted teeth. Whether they should be considered physiological or pathological remains contro­versial (Moss-Salentijn and Hendricks-Klyvert 1988).
 In the present study, we have investigated the distri­butional changes of collagen types I, III, IV, V, and VI, and of calcifications in the pulp tissue of noncarious hu­man teeth with respect to the age of the donors.
 The his- tomorphology of these structures is described by means of various light-microscopical techniques.
-**Materials and methods** *Teeth and age relationship*
+## **Materials and Methods**
+ *Teeth and age relationship*
 This report is based on a histological survey of the evidence of calcifications in 332 human teeth. Permanent, erupted, non-erupt- ed, single-rooted, and multirooted teeth were included. Most of the teeth were molars. They were collected over a period of 3.5 years. The teeth were either noncarious and without fillings or had only minute carious defects or minimal restorations. Informed consent was given prior to surgery.
 The ages of the patients ranged from 11 to 72 years. Three age groups were constituted: group I (10-30 years), group II (31-51 years), and group III (52-72 years).
 *Histological examinations*
@@ -42,14 +49,15 @@ München, Germany).
 *Qualitative and quantitative histological investigation*
 Two hundred teeth were examined. The location, whether coronal or apical, was recorded, and the calcifications were sorted with re­spect to whether they were discrete pulp stones, or whether they were free, attached to or embedded in dentin. Of the 200 teeth, 141 were used to prepare undecalcified ground sections, whereas 59 teeth were decalcified and paraffin sections were prepared. In total, 282 ground sections and 354 paraffin sections were investi­gated (632 histological specimens).
 Undecalcified ground sections were stained with toluidine blue, and paraffin sections were stained with hematoxylin-eosin. For the statistical analysis (Man- tel-Haenszel-test, P\<0.05), a tooth was rated positively for calcifi­cation if one section revealed pulp stones or diffuse calcifications. In addition, 132 teeth were used for qualitative histological inves­tigations.
-**Results** *Light and polarization microscopy*
+## **Results**
+ *Light and polarization microscopy*
 When stained by Picrosirius Red, matrix molecules of the dental pulp, especially the collagens, were revealed in red. These molecules appeared in the form of thick fi­ber bundles and thin fibers, showing a reticular network throughout the pulp. The cell-free zone (of Weil) be­neath the odontoblast layer and the cell-rich zone with numerous blood vessels and fiber bundles were clearly visible. The staining reaction was strong around the blood vessels. Thin filaments or small bundles of fila­ments inserted into the intensely stained zone surround­ing the blood vessels (Fig. 1).
 Under polarized light, the thick fiber bundles ap­peared strongly birefringent and presented a red, orange, or yellow color. Therefore, these macromolecules seemed to be collagen type I (Fig. 2).
 The thin fibers forming a reticular network and sur­rounding the blood vessels seemed to be weakly bire­fringent in polarized light and demonstrated a greenish color. Because of this appearance, these macromelcules were considered to consist mainly of collagen type III.
 These fine fibrils were sometimes associated with thick fibre bundles.
 *Immunofluorescence microscopy* *Collagen type I* With the type 1 collagen antibodies, staining reactivity was sometimes very strong in preden­tin. However, the staining reactivity did not clearly ex­ceed background staining in most of the specimens. The connective tissue of the dental pulp stained relatively weakly. Thick fiber bundles, which appeared red in po­larized light, were often intensely fluorescent.
 *Collagen type III.* The staining reactivity of this type of collagen was very strong. Thin fibers of collagen type Ill \ **Fig.** 7. Longitudinally arranged fibers of collagen type V can be seen *(large arrowheads)* adjacent to the layer of odontoblasts *(ar­rows).* Some thin fibers extend between the odontoblasts *(small arrowheads).* Paraffin section, immunofluorescence microscopy. *Bar:* 20 pm. x375 **Fig. 8.** Antibodies of type VI collagen demonstrate a microfibril­lar, almost amorphous pattern. Blood vessels throughout the pulp tissue are often intensely stained for collagen type VI. Paraffin section, immunofluorescence microscopy. *Bar:* 20 pm. \*375 **Fig. 9.** Two layers of collagen type VI can be seen adjacent to the odontoblasts. A thin line of very intense fluorecent labelling is lo­calized directly adjacent to the odontoblast layer *(large arrow­heads).* A second layer consisting of fine fibrils lies *(small arrow­heads)* adjacent to this line. Pulp horn, paraffin section, immuno­fluorescence microscopy. *Bar:* 100 pm. xlOO **Fig. 10.** In the odontoblast layer of the coronal pulp, immunolo­calization of collagen type VI reveals corkscrew fibers passing from the pulp between the odontoblasts *(arrowheads).* Paraffin section, immunofluorescence microscopy. *Bar:* 20 pm. x500 **Fig. 11.** Confocal laser scanning microscopy. Fibers of collagen type VI with a corkscrew pattern pass from the pulp into predentin parallel to the long axis of the odontoblasts *(arrowheads)* of the coronal and radicular pulp.
-Paraffin section. *Bar:* 20 pm. ^x^500 **Fig. 12.** With advancing age, thick fiber bundles of collagen can be observed throughout the pulp.
+Paraffin section. *Bar:* 20 pm. 500 **Fig. 12.** With advancing age, thick fiber bundles of collagen can be observed throughout the pulp.
 Paraffin section, anti-collagen type III, immunofluorescence microscopy.
 *Bar:* 100 pm. xfOO 149 **Fig. 13. a** Pulp stones with various arrangements of collagen fi­bers.
 Fibers are often distributed irregularly or parallel to each other.
@@ -85,7 +93,10 @@ Diffuse calcifications could be observed in the root canal. Needle-like and cyli
 The quantitative evaluation of the frequency of calci­fications (pulp stones), diffuse calcifications, or both in the same tooth yielded different results for the various kinds of calcifying processes. The number of teeth with diffuse calcifications and the number of teeth with pulp stones and diffuse calcifications increased with advanc­ing age.
 However, the number of teeth with pulp stones in age groups 11 and III was comparable (Fig. 15).
 A statistically significant increase (P\<0.05) in the quantity of coronal and radicular calcifications could be determined. In group I (11-30 years), 14.9% of teeth had calcifications, in group 11 (31-51 years) 44.4%, and in group III (52-72 years) 65.1%.
-**Discussion**
+**
+## **Discussion**
+
+**
 Considerable difficulties are encountered in characteriz­ing fibrillar elements in connective tissues by histologi­cal staining methods. In this study, formalin-fixed and decalcified human teeth have been used to show the dis­tribution of collagen types I, III, IV, V, and VI in the ex­tracellular matrix of the connective tissue of the dental pulp. The "Antigen Retrieval System" has been used in order to enhance the antigenicity of the macromolecules. By employing this method, antibodies prepared for im­munohistology on frozen sections give good staining re­sults on paraffin sections of formalin-fixed tissues. Al­though the technical methods described in this report are relatively simple, a few precautions should be noted. Our results show that background staining may be increased by the use of the "Antigen Retrieval System", because hard tissues are prone to high backgrounds. Therefore, it is important, when evaluating this method, carefully to compare positive staining with an appropiate negative control. On the other hand, the Picrosirius Red staining method has revealed the presence of various collagen types in the soft tissue of the dental pulp and in the vari­ous kinds of calcifications. These results must be con­firmed by immunohistological methods.
 The immunohistological staining intensity of collagen type 1 is very weak in our specimens. Polarization mi­croscopy of paraffin sections stained with Picrosirius Red (Junqueira et al. 1978) have demonstrated that col­lagen type I is the main component of the connective tis­sue matrix of dental pulp. Indirect immunofluorescence has established that collagen type Ill is one of the main fibrillar elements present in the dental pulp matrix. Sev­eral studies have reported that types 1 and 111 collagen are present in separate fibrils. Type 1 collagen is found mainly in thick fibrils, whereas type 111 collagen occurs in thin fibrils in the liver, skin, and tendon (Nowack et al. 1976; Fleischmajer et al. 1981) and is scattered throughout the tissue of human dental pulp but not as fi­brils passing between the odontoblasts (Magloire et al 1982). However, investigations of the developing mouse molar have revealed collagen type III as a major compo­nent of interodontoblastic fibers (Shroff and Thomas 1992; Ohsaki and Nagata 1994). Our study has demon­strated the presence of collagen type III in the predentin layer but not as a component of the interodontoblastic fi­bers of the teeth examined. In agreement with other au­thors, we have shown that types 1 and III collagen can co-exist in the same fibrils in the pulpal tissue of human teeth (Xu et al. 1993).
 Collagen type IV is intensely stained in the basement membrane of the blood vessels in all ages examined. Collagens type V and VI do not seem to be components of the basement membrane but form a dense meshwork of microfibrils throughout the stroma of the connective tissue of the dental pulp. These fibers appear to be en­riched in the subodontoblastic layer; indeed, the fibers of collagen type VI may be a component of von
@@ -112,7 +123,9 @@ The significance of the various macromolecules in the development of pulp stones
 *Acknowledgements.* We thank Prof. H.-J. Kretschmann, Depart­ment of
 Neuroanatomy and Stomatological Anatomy, Medical University of Hannover, for kindly providing the collection of hu­man teeth of the department, and Mrs. H. Fahlbusch and Mrs. B. Hillmann for excellent technical assistance. We also thank Dr. M. Toeroek, Department of Biometry, and
 Mr. W. Ko th, Department of Conservative Dentistry and Periodontology, for kindly under­taking the statistical analysis.
-**References**
+**
+## **References**
+**
 Amerongen JP van, Lemmens IG, Tonino GJM (1983) The con­centration, extractability and characterization of collagen in human dental pulp.
 Arch Oral Biol 28:339-345
 Appleton J, Williams MJR (1973) Ultrastructural observations on the calcification of human dental pulp. Cell Tissue Res 11:222-237
@@ -129,7 +142,7 @@ Chung E, Rhodes RK, Miller EJ (1976) Isolation of three collage­nous components
 Biochem Biophys Res Commun 71: 1167-1174
 Colombatti A, Bonaldo P, Ainger G, Bressan GM, Volpin D (1987)
 Biosynthesis of chick type VI collagen. I. Intracellular assembly and molecular structure. J Biol Chem 262:14454- 14460
-Dartsch PC (1990) Einbettungsmedien fur die Auflicht-Fluore- szenzmikroskopie. GIT Labor Mikrosk 9:450^A^156
+Dartsch PC (1990) Einbettungsmedien fur die Auflicht-Fluore- szenzmikroskopie. GIT Labor Mikrosk 9:450156
 Donath K, Breuner G (1982) A method for the study of undecalci­fied bones and teeth with attached soft tissue. J Oral Pathol 11:318-326
 Engvall E, Hessle El, Klier G (1986) Molecular assembly, secre­tion and matrix deposition of type VI collagen. J Cell Biol 102:703-710
 Fleischmajer R, Timpl R, Tuderman L, Raisher L, Wiestner M, Perlish JS, et al (1981) Ultrastructural identification of exten­sion aminopropeptides of type I and III collagen in human skin. Proc Natl
@@ -140,7 +153,7 @@ Immunohistochemistry of the intercellular matrix com­ponents and the epithelio-
 Higashi T, Okamoto H (1996) Electron microscopic study on interodontoblastic collagen fibrils in amputated canine dental pulp. J
 Endodontol 22:116-119
 Hillmann G, Hillmann B, Donath K (1991) Enzyme, lectin and immunohistochemistry of plastic embedded undecalcified bone and other hard tissues for light microscopic investiga­tions. Biotech Histochem 66:185-193
-Hillmann G, Koth W, Geurtsen W (1996) Dentikel und diffuse Verkalkungen in unterschiedlich alten Zahnpulpen. Dtsch ZahnârztlZ 51:456---461
+Hillmann G, Koth W, Geurtsen W (1996) Dentikel und diffuse Verkalkungen in unterschiedlich alten Zahnpulpen. Dtsch ZahnarztlZ 51:456---461
 Junqueira LCU, Cossermelli W, Brentani R (1978) Differential staining of collagens type I, II and III by Sirius Red and polar­ization microscopy.
 Arch Histol Jpn 41:267-274
 Junqueira LCU, Bignolas G, Brentani RR (1979) Picrosirius stain­ing plus polarization microscopy, a specific method for colla­gen detection in tissue sections. Histochem J 11:447---445
@@ -186,6 +199,6 @@ Immunochemistry, genuine size and tissue localization of collagen VI.
 Eur J Biochem 142:493-502
 Whittaker DK, Adams D (1972) Electron microscopic studies on von Korff fibers in the human developing tooth. Anat Rec 174:175-190
 Xu LX, Ohsaki Y, Nagata K, Kurisu K (1993) Immunohistochem­ical studies on the distributions and age-related changes of types I and III collagen in the oral mucosa of mice. J Dent Res 72:1336-1343
-Yoshiba N, Yoshiba K, Iwaku M, Nakamura H, Ozawa H (1994) A confocal laser scanning microscopic study of the immuno- fluorescent localization of fibronectin in the odontoblast layer of human teeth. Arch Oral Biol 39:395^A^100
+Yoshiba N, Yoshiba K, Iwaku M, Nakamura H, Ozawa H (1994) A confocal laser scanning microscopic study of the immuno- fluorescent localization of fibronectin in the odontoblast layer of human teeth. Arch Oral Biol 39:395100
 Yurchenko PD, Ruben GC (1987) Basement membrane structure in situ: evidence for lateral association in the type VI collagen network. J Cell
 Biol 105:2559-2568

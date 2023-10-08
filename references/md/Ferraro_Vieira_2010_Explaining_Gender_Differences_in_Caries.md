@@ -11,10 +11,11 @@ Copyright &copy; 2010 M. Ferraro and A. R. Vieira. This is an open access articl
 
 Many studies have demonstrated that caries rates are higher in women than in men. This review attempts to provide an explanation for this trend by examining each factor which contributes to caries and how the factor differs in men and women. Evidence has been provided to demonstrate that caries risk factors for women include a different salivary composition and flow rate, hormonal fluctuations, dietary habits, genetic variations, and particular social roles among their family. Systemic diseases that have been found to be associated with caries have also been found to have an association with the female gender. An extended exposure to the oral cavity or a more cariogenic oral microflora has not been proven to contribute to higher caries in women. Further research in these areas could be done in the future to explain their contribution, or lack thereof, to a higher caries rate in women.
 
+1.
+
+## **Introduction**
 
 
-
-1. Introduction
 Th significant impact of caries on the world's population makes the disease an important topic of understanding. The development of caries is multifactorial, depending on many interacting variables to promote its development. In particular, the presence of bacteria, a substrate for the bacteria (food/sugars), the host's oral environment, as well as the passing of time are the main contributing factors in the formation of caries. Epidemiological and clinical studies, through the use of tools such as DMFT and DMFS scores, have revealed a consistent trend in caries development, with females having higher prevalence than males \[1\]. The mechanisms underlying the reasoning for this trend can possibly be explained by an investigation of the suggested factors involved in caries development.
 2. Genetic Contributions: *AMELX*
 The underlying mechanisms of any genetic contributions to the increased prevalence of caries in females versus males can be speculated to reside in the sex chromosomes, exhibiting sex-linked modes of inheritance.
@@ -33,14 +34,14 @@ The composition and flow rate of saliva in the host oral environment seem to be 
 Additionally, the hormonal fluctuations in women tend to play a role in the less protective composition and flow rate of saliva.{=html} <!-- --
 Whe{=html} <!-- -- of resting whole saliva and stimu­lated parotid saliva in participants aged 20 and older were measured using timed expectoration and a Lashley cup respectively, differences were found between genders. In all age groups, females were found to have a lower mean flow rate of whole saliva than males, with significant differences in the 80+ age group (P\<.02). In addition, the overall mean parotid salivary flow rate in females (0.45mL/min) was significantly lower than the mean parotid salivary flow rate in males (0.59 mL/min *P \<* .05) \[4\]. These findings have been supported in a more recent s{=html} <!-- --livary gland secretion rates. By measuring the salivary rate from 142 individuals using The Periotron 6000 model 2, investigators found that the salivary flow rates from the buccal and labial glands in women were lower than those in men, especially in the elderly participants \[5\]. A lower salivary flow rate in females puts them at a higher risk for caries because they lack more of saliva's mechanical washing, buffering, and remineralization benefits.
 In {=html} <!-- --port by Ellaison et al. (2006) investi­gated the salivary IgA concentrations of the men and women participants. Salivary{=html} <!-- --
-IgA{=html} <!-- --bulin found in the oral cavity which is protective against caries. Results of this study show a difference in IgA concentration between men and women, with women having a lower concentration of the protective IgA from minor glands, (buccal, palatal, and labial) \[5\]. Information was obtained using enzyme- linked immunosorbent assay (ELISA) technique. Samples from the buccal glands showed mean IgA concentrations of 2. ± 76.9 ^A^/mL in women as compared to 155 ± 160 ^A^/mL in men, in the palatal glands, 121.3 ± 139.5 A/mL in women and 210.4 ± 249.7A/mL in men, and in the labial glands, ```{=html} <!-- --``` 2. ± 31.0 A/mL in women and 58.8 ± 40.2 A/mL in men \[5\]. It appears that males have inherently higher concentrations of IgA immunoglobulin to defend their oral surfaces against carious activity.
+IgA{=html} <!-- --bulin found in the oral cavity which is protective against caries. Results of this study show a difference in IgA concentration between men and women, with women having a lower concentration of the protective IgA from minor glands, (buccal, palatal, and labial) \[5\]. Information was obtained using enzyme- linked immunosorbent assay (ELISA) technique. Samples from the buccal glands showed mean IgA concentrations of 2. ± 76.9 /mL in women as compared to 155 ± 160 /mL in men, in the palatal glands, 121.3 ± 139.5 A/mL in women and 210.4 ± 249.7A/mL in men, and in the labial glands, ```{=html} <!-- --``` 2. ± 31.0 A/mL in women and 58.8 ± 40.2 A/mL in men \[5\]. It appears that males have inherently higher concentrations of IgA immunoglobulin to defend their oral surfaces against carious activity.
 ```{=html} <!-- --``` 4. Pregnancy
 A compelling reasoning why women have greater caries activity than men argues that pregnancies have several negative effects on the oral cavity environment. In general, the experience of pregnancy includes immune suppression, cravings, hormonal fluctuations, salivary alterations, and other physiological changes that would be expected to adversely affect the host resistance to caries.
 Ho monal fluctuations of estrogen occur in females during pregnancy, menstruation, and puberty. These ele­vated estrogen levels can lead to significant changes in the environment of the oral cavity. Clinical studies have investi­gated perhaps the most severe of these hormonal fluctuation events, pregnancy. Lukacs and Largaespada (2006) discussed rat studies in which a causal link was found between caries rate and estrogen levels, but similar androgen level fluctuations experienced by males did not show this same kind of link or even a correlation \[1\].
 Pr gnancy can also have negative effects on salivary flow, impairing the protective washing and buffering mechanisms of saliva against caries development. The study discussed earlier by Eliasson et al. (2006) compared resting whole saliva rates of pregnant women to control (nonpregnant) women and found that the pregnant women had a mean secretion rate less than their control counterparts (0.21 ±0.13 versus 0.30 ± 0.16 mL/min).
 An anthropologic argument by Lukacs (2008) suggests that the development of agriculture may be indirectly responsible for an increased caries rate in females. Lukacs argues that the transition to agriculture is associated with an increase in fertility due to a more sedentary lifestyle and need for division of labor (as opposed to foraging and hunting). According to Lukacs, this would account for a decline in women's oral health related to the adverse effects of pregnancy on the oral environment \[6\].
 5. Substrate/Diet
-Th presence of sucrose for *Streptococcus mutans\'* metab­olism is an additional factor in the establishment of a cariogenic environment.
+Th presence of sucrose for *Streptococcus mutans* metab­olism is an additional factor in the establishment of a cariogenic environment.
 Di tary habits can have a major impact based on the form and frequency of the food. In many cultures historically, women have been the family member with the responsibility of food preparation. This would allow easier access to foods and snacks outside of mealtime, which provide bacteria in their oral flora with more substrate for caries development \[7\]. Particular dietary routines have been shown to increase the incidence of caries. In particular, vegetarian diets have been investigated in this aspect. Indian subjects are of particular interest in dietary habits because many have been vegetarian their whole life, offering a specific population. In a study of caries prevalence among 104 Indian participants ages of 5-72, patients with a vegetarian diet were found to have the highest numbers of caries when compared to those with a "vegetarian + tobacco" diet and a "nonvegetarian" diet. The investigators attribute this to a lack of putrefaction, a result of protein consumption, which contributes to the formation of a less acidic oral environment \[8\].
 Wi h the discovery that a vegetarian diet among Indian participants contributes to caries formation, it might be expected that more women are vegetarian than men, and this can be one way to explain their higher prevalence of caries. An epidemiological study by Shah (2003) included 1240 participants in the Southern Delhi area of India. Using survey techniques, investigators reported that more of the women participants were vegetarian than men (71% versus 56%) \[9\]. With the earlier described findings that vegetarian diets contribute to caries formation, this information can be added to the list of factors causing the gender disparity in caries prevalence.
 6. Psychosocial and Economic Factors
@@ -65,33 +66,35 @@ This expectation was found to be true in a recent study aiming to link systemic 
 Reg stry and DNA Repository at the University of Pittsburgh School of
 Den al Medicine, the medical history and DMFT/DMFS scores of 318 subjects were examined. An association was found between asthma and those individuals with DMFT above 15 and DMFS above 50. A similar association was found between high DMFT/DMFS scores and epilepsy \[17\].
 Acc rding to our expectations, we would therefore anticipate that more women than men would report having asthma or epilepsy. Upon further inspection of those with these systemic diseases, another association was found in the prevalence of asthma, with females experiencing a higher occurrence (P = .04) \[17\].
-10. Conclusions
+10.
+**
+
+## **Conclusions**
+
+
+s**
+
 In explaining the consistent trend of caries rates being higher in females than males, all contributing factors must be con­sidered. There is no one reason for this disparity. Women's roles in their community (caretaker, meal preparation, etc.), along with other social factors, such as differing salivary flow rates and compositions, dietary habits, hormonal changes during pregnancy, and particular variants of the *AMELX* gene must all be included in the assessment of an individual woman's caries risk assessment. Substantial evidence has not been found concerning the contributions of the longer time female teeth are exposed to the oral cavity or concerning a differing microbial oral flora which might enhance the caries developing process. More research is needed to define the role of these two possible contributors more clearly in order for us to more completely understand the development of caries in women and to anticipate the disease process before it begins.
 Acknowledgments
 This work is based on a manuscript submitted by Maria Ferraro as part of the requirements of the University of Pittsburgh School of Dental
 Me icine course ORBIOL 5174 Craniofacial Genetics. Alexandre R. Vieira is supported by NIH Grant R01-DE18914.
-Re erences \[ 1 \] J. R. Lukacs and L. L. Largaespada, "Explaining sex differences in dental caries prevalence: saliva, hormones, and "life history" etiologies," *American Journal of Human Biology,* vol. 18, no. 4, pp.
-54 -555, 2006.
+
+## **References**
+
+1. J. R. Lukacs and L. L. Largaespada, "Explaining sex differences in dental caries prevalence: saliva, hormones, and "life history" etiologies," *American Journal of Human Biology,* vol. 18, no. 4, pp. 54 -555, 2006.
 2. A. Patir, E Seymen, M. Yildirim, et al., "Enamel formation genes are associated with high caries experience in Turkish children," *Caries Research,* vol. 42, no. 5, pp. 394-400, 2008.
 3. K. Deeley, A. Letra, E. K. Rose, et al., "Possible association of amelogenin to high caries experience in a Guatemalan-Mayan population," *Caries Research,* vol. 42, no. 1, pp. 8-13, 2008.
-4. R. S. Percival, S. J. Challacombe, and P. D. Marsh, "Flow rates of resting whole and stimulated parotid saliva in relation to age and gender," *Journal of Dental Research,* vol. 73, no. 8, pp.
- 416-1420, 1994.
+4. R. S. Percival, S. J. Challacombe, and P. D. Marsh, "Flow rates of resting whole and stimulated parotid saliva in relation to age and gender," *Journal of Dental Research,* vol. 73, no. 8, pp. 416-1420, 1994.
 5. L. Eliasson, D. Birkhed, T. Osterberg, and A. Carlen, "Minor salivary gland secretion rates and immunoglobulin A in adults and the elderly," *European Journal of Oral Sciences,* vol. 114, no. 6, pp. 494-499, 2006.
-6. J. R. Lukacs, "Fertility and agriculture accentuate sex differ­ences in dental caries rates," *Current Anthropology,* vol. 49, no. 5, pp.
- 01-914, 2008.
+6. J. R. Lukacs, "Fertility and agriculture accentuate sex differ­ences in dental caries rates," *Current Anthropology,* vol. 49, no. 5, pp. 01-914, 2008.
 7. A. R. Vieira, M. L. Marazita, and T. Goldstein-McHenry, "Genome-wide scan finds suggestive caries loci," *Journal of Dental Research,* vol. 87, no. 5, pp. 435-439, 2008.
-8. A. A. Khan, S. K. Jain, and A. Shrivastav, "Prevalence of dental caries among the population of Gwalior (India) in relation of different associated factors," *European Journal of Dentistry,* vol.
- , pp. 81-85, 2008.
+8. A. A. Khan, S. K. Jain, and A. Shrivastav, "Prevalence of dental caries among the population of Gwalior (India) in relation of different associated factors," *European Journal of Dentistry,* vol. , pp. 81-85, 2008.
 9. N. Shah, "Gender issues and oral health in elderly Indians," *Jnternational Dental Journal,* vol. 53, no. 6, pp. 475-484, 2003.
 10. G. H. Ramezani, A. Norozi, and N. Valael, "The prevalence of nursing caries in 18 to 60 months old children in Qazvin," *Journal of the Indian Society of Pedodontics and Preventive Dentistry,* vol. 21, no. 1, pp. 19-26, 2003.
 11. G. Menghini, M. Steiner, E. Thomet, M. Roos, and T. Imfeld, "Caries prevalence in 2-year-old children in the city of Zurich," *Community Dental Health,* vol. 25, no. 3, pp. 154-160, 2008.
 12. A. Jose and M. R. Joseph, "Prevalence of dental health problems among school going children in rural Kerala," *Journal of the Indian Society of Pedodontics and Preventive Dentistry,* vol. 21, no. 4, pp. 147-151, 2003.
 13. D. Migale, E. Barbato, M. Bossu, R. Ferro, and L. Ottolenghi, "Oral health and malocclusion in 10-to-ll years-old children in southern Italy," *European Journal of Paediatric Dentistry,* vol. 10, no. 1, pp. 13-18, 2009.
 14. S. Saravanan, K. P. Anuradha, and D. J. Bhaskar, "Prevalence of dental caries and treatment needs among school going children of Pondicherry, India," *Journal of the Indian Society of Pedodontics and Preventive Dentistry,* vol. 21, no. 1, pp. 1-12, 2003.
-15. P. M. A. Corby, W. A. Bretz, T. C. Hart, M. Melo Filho, B. Oliveira, and M. Vanyukov, "Mutans streptococci in preschool twins," *Archives of Oral Biology
-,* vol. 50, no. 3, pp. 347-351, 2005.
-16. J. P. Loyola-Ro dr iguez, R. E. Martinez-Martinez, B. I. Flores- Ferreyra, N. Patino-Marin, A. G. Alpuche-Solis, and J. F.
-
- R yes-Macias, "Distribution of Streptococcus mutans and Streptococcus sobrinus in saliva of Mexican preschool caries- free and caries-active children by micr
-obial and molecular (PCR) assays," *Journal of Clinical Pediatric Dentistry,* vol. 32, no. 2, pp. 121-126, 2008.
+15. P. M. A. Corby, W. A. Bretz, T. C. Hart, M. Melo Filho, B. Oliveira, and M. Vanyukov, "Mutans streptococci in preschool twins," *Archives of Oral Biology,* vol. 50, no. 3, pp. 347-351, 2005.
+16. J. P. Loyola-Ro dr iguez, R. E. Martinez-Martinez, B. I. Flores- Ferreyra, N. Patino-Marin, A. G. Alpuche-Solis, and J. F. R yes-Macias, "Distribution of Streptococcus mutans and Streptococcus sobrinus in saliva of Mexican preschool caries- free and caries-active children by microbial and molecular (PCR) assays," *Journal of Clinical Pediatric Dentistry,* vol. 32, no. 2, pp. 121-126, 2008.
 17. I. Anjomshoaa, M. E. Cooper, and A. R. Vieira, "Caries is associated with asthma and epilepsy," *European Journal of Dentistry,* vol. 3, pp. 297-303, 2009.

@@ -37,9 +37,12 @@ Of the teeth exhibiting pulp stones, the maxillary left second molar showed the 
 Pulp Stones and Tooth Status
 The status of teeth with pulp stones was assessed for caries, resto­rations, and other abnormalities. Among the 280 teeth with pulp stones, 106 teeth (37.9%) were not intact as shown in Table 5.
 Statistical anal­ysis showed a significant association between pulp stone occurrence and nonintact teeth *(P \<* .05). Among the 106 teeth that were not intact, 84 (79-2%) teeth had restorations, 9 (8.5%) teeth had secondary caries, and 13 teeth (12.3%) had caries. Periodontal disease and peri­apical pathology were present as additional findings in 3 and 2 nonin­tact teeth with pulp stones, respectively; however, the association was not statistically significant. In addition, pulp stones were not associated with any other tooth abnormalities (both developmental and acquired).
-Discussion
+
+## **Discussion**
+
+
 The detection of pulp stones using dental radiographs is possible when they are larger than 200 /xm in diameter (12). Although the true prevalence is likely to be higher in microscopic examinations of teeth than figures from radiographic studies (5, 12), the latter is the only noninvasive technique available for evaluating pulp stones in clinical investigations (2). Furthermore, in histologic observations, the limited number of sections through each tooth may result in underreporting **TABLE 4.** The Distribution of Pulp Stones in Tooth Types and Dental
-Arches \*The chi-square test is statistically significant for higher occurrence of pulp stones in first and second molar teeth *(P \<* .05). \'The chi-square test is statistically significant for an association between pulp stone occurrence and dental arches (P \< .05).
+Arches \*The chi-square test is statistically significant for higher occurrence of pulp stones in first and second molar teeth *(P \<* .05). The chi-square test is statistically significant for an association between pulp stone occurrence and dental arches (P \< .05).
 (17). In our study, intraoral periapical radiographs retrieved from dental records were evaluated for the presence of pulp stones. Bitewing radiographs do not show the complete radicular pulp, so we examined only periapical radiographs to avoid underreporting of pulp stones. However,
 Tamse et al (14) stated that bitewing and periapical radio­graphs showed no significant difference in the identification of pulp stones.
 Hamasha and Darwazeh (13) reported the prevalence in 814 Jordanian adults, and pulp stones were present on radiographs in 51% of the patients and 22% of the teeth studied. Ranjitkar et al (2) examined the prevalence of pulp stones in 217 Australian dental students, and pulp stones were found in 46% of the subjects and 10% of the teeth. In the present study in 361 patients, pulp stones were found in 44.9% of the subjects and 15.7% of the teeth examined. This finding is close to the values obtained in the previously mentioned studies.
@@ -54,11 +57,16 @@ Few teeth with periodontal disease exhibited pulp stones. Howev­er, this was an
 Hamasha and Darwazeh (13) noted a high incidence of pulp stones associated with dilacerations, impactions, taurodontism, and enamel pearls. In contrast to this, our study did not show any associa­tion between pulp stone occurrence and tooth abnormalities.
 The size, shape, location, and number of pulp stones may vary among individuals, and the radiographic matching of pulp stone patterns may help identify deceased persons. In the present study, few patients ex­hibited pulp stones in more than 1 tooth (Figs. 1 and 2). with a maximum of 5 teeth with pulp stones identified in a single subject.
 Observed calcifications ranged from minute opacities to large radiopaque masses occluding most of the pulp chamber. On few occasions, teeth showed discrete masses more than once (Fig. 1). Thus, pulp stones hav­ing varied patterns of presentation on radiographs can be used as a valu­able feature for forensic identification of a person from their previous dental records.
-Conclusion
+
+## **Conclusions**
+
+
 The prevalence of pulp stones in the Malaysian population studied was 44.9%. Pulp stones were found significantly more often in molars and in teeth that were not intact (either restored or carious). Pulp stones occurred predominantly in restored teeth. The occurrence of pulp stones had no significant association with sex, age, or the different Malaysian ethnic races. However, these findings require further inves­tigation. The size, shape, location, and number of pulp stones on radio­graphs can be used as an adjunctive feature for forensic identification.
 Acknowledgments *The authors would like to thank Dr Deivanai Subramanian,* *Associate Professor, Department of Biotechnology, Faculty of Applied
 Sciences, AIMST University, for her advice on statistics.* *The authors deny any conflicts of interest related to this study.*
-References 1. Nanci Antonio. *Ten Cate\'s Oral Histology: Development, Structure, and Function,* 8th cd. St Louis: Mosby; 2013:201-2.
+
+## **References**
+ 1. Nanci Antonio. *Ten Cates Oral Histology: Development, Structure, and Function,* 8th cd. St Louis: Mosby; 2013:201-2.
 2. Ranjitkar S, Taylor JA, Townsend GC. A radiographic assessment of the prevalence of pulp stones in Australians. Aust Dent J 2002;47:36-40.
 3. Langeland K, Rodrigues H, Dowden W. Periodontal disease bacteria, and pulpal his­topathology. Oral Surg Oral Med Oral Pathol 1974;37:257-70.
 4. Johnson PL, Bevelander G. Histogenesis and histochemistry of pulpal calcification. J Dent Res 1956;35:714-22.

@@ -4,17 +4,23 @@ Volume 2014, Article ID 617590, 5 pages
 Research Article
 Prevalence of Coronal Pulp Stones and Its
 Relation with Systemic Disorders in Northern Indian
-Central Punjabi Population Sandeep Kumar Bains,^1^ Archana Bhatia,^2^ Harkanwal Preet Singh,^3^
-Swati Swagatika Biswal,^4^ Shashi Kanth,^5^ and Srinivas Nalla^6^
-*\' Department of Oral Medicine and Radiology, Dasmesh Institute of Research and Dental Sciences, Faridkot, Punjab, India* 2. *Department of Periodontics, Dasmesh Institute of Research and Dental Sciences, Faridkot, Punjab, India* 3. *Department of Oral Pathology and Microbiology, Dasmesh Institute of Research and Dental Sciences, Faridkot, Punjab, India* 4. *KLES Institute of Dental Sciences, Bangalore, Karnataka, India* 5. *Department of Maxillofacial Surgery, Azamgarh Dental College, Azamgarh, Uttar Pradesh, India* 6. *Department of Orthodontics and Dentofacial Orthopedics, Al Badar Rural Dental College and Hospital, Naganhalli Road, Daryapur, Gulbarga, India* Correspondence should be addressed to Harkanwal Preet Singh; <hkps0320@gmail.com>m>m>m>m>
+Central Punjabi Population Sandeep Kumar Bains, Archana Bhatia, Harkanwal Preet Singh,
+Swati Swagatika Biswal, Shashi Kanth, and Srinivas Nalla
+* Department of Oral Medicine and Radiology, Dasmesh Institute of Research and Dental Sciences, Faridkot, Punjab, India* 2. *Department of Periodontics, Dasmesh Institute of Research and Dental Sciences, Faridkot, Punjab, India* 3. *Department of Oral Pathology and Microbiology, Dasmesh Institute of Research and Dental Sciences, Faridkot, Punjab, India* 4. *KLES Institute of Dental Sciences, Bangalore, Karnataka, India* 5. *Department of Maxillofacial Surgery, Azamgarh Dental College, Azamgarh, Uttar Pradesh, India* 6. *Department of Orthodontics and Dentofacial Orthopedics, Al Badar Rural Dental College and Hospital, Naganhalli Road, Daryapur, Gulbarga, India* Correspondence should be addressed to Harkanwal Preet Singh; <hkps0320@gmail.com>m>m>m>m>
 Received 9 January 2014; Accepted 20 March 2014; Published 22 April 2014
 Academic Editors: E D. Nunes and D. Wray
 Copyright &copy; 2014 Sandeep Kumar Bains et al. This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
 
 *Aim.* To estimate the prevalence of coronal pulp stones in the molar teeth of dental outpatients of Sunam, Sangrur district, Punjab, India, to report any association between occurrence of pulp stones with age, gender, dental arch, side, and dental status and to find out correlation between pulp stones with dental and systemic diseases.
- *Materials and Methods.* 500 routine dental outpatients within age group of 18-67 years were involved in the study. Molar bitewing of left and right side of each patient was taken with XCP bitewing instrument and size 2 film. The presence or absence of pulp stones was recorded. Chi-square analysis was used to record the prevalence of pulp stones and to compare it with demographic and systemic factors.
+ *
+## **Materials and Methods**
+
+.* 500 routine dental outpatients within age group of 18-67 years were involved in the study. Molar bitewing of left and right side of each patient was taken with XCP bitewing instrument and size 2 film. The presence or absence of pulp stones was recorded. Chi-square analysis was used to record the prevalence of pulp stones and to compare it with demographic and systemic factors.
  *Results.* Overall prevalence of pulp stones was 41.8%. Pulp stones were significantly higher in maxilla (11.59%) than mandible (6.54%), left side than right side, and first molar than other molars. Higher numbers of pulp stones were recorded in patients with cardiovascular disease (38.89%) than with cholelithiasis and renal lithiasis.
- *Conclusion.* Pulp stones were higher in maxillary arch than mandibular arch and in females than males. Cardiovascular patients had higher number of pulp stones than other groups.
+ *
+## **Conclusions**
+
+.* Pulp stones were higher in maxillary arch than mandibular arch and in females than males. Cardiovascular patients had higher number of pulp stones than other groups.
  -------------------- ----------------- ------------------- ------------- Maxilla Mandible P value Total teeth 2690 2643 Pulp stones 312 173 0.001 Percentage (%) 11.59 6.54 -------------------- ----------------- ------------------- ------------- [Table]{.smallcaps} 2: Prevalence of pulp stones and tooth type.
  [Table]{.smallcaps} *4:* Prevalence of pulp stones and dental status in males (max. and mand. arch).
 
@@ -25,7 +31,10 @@ FIGURE 3: Pulp stones in attrited, restored, and periodontically involved teeth.
  (Table 3). The prevalence of pulp stones in attrited teeth was (male = 12.19%, female = 26.22%) 18.18% (Tables 4 and 5).
 The prevalence of pulp stones in periodontal pathol­ogy teeth (male = 15.78%, female = 17.20%) was 16.41%. The prevalence of pulp stones in carious teeth (male = 5.22% female = 7.32%) was 6.23%. The prevalence of pulp stones in restored teeth (male = 13.55%, female = 10.96%) was 12.34% (Tables 4 and 5).
 The prevalence of pulp stones in orthodontically treated patients (male = 6.25%, female = 7.14%) was 6.66% (Table 6). The prevalence of pulp stones in arteriosclerotic (male = 50%, female = 25%) patients was 38.88%. The prevalence of pulp stones in renal stone (male = 20% and female = 14.2%) patients was 16.66%. The prevalence of pulp stones in cholelithiasis (male = 0% and female = 25%) patients was 10% (Table 7).
-4. Discussion
+4.
+## **Discussion**
+
+
 The present study comprised of 500 patients, 243 females and 257 males within age group of 18-67 years. Molar bitewing radiographs of right and left side of each patient were taken and evaluated by maxillofacial radiologist for presence of pulp stones.
 The prevalence of pulp stone calculated in this study was 41.8% and females exhibited higher pulp stones than male and maxillary teeth had higher pulp stones than mandibular teeth which are in accordance with other studies conducted by Ranjitkar et al. \[1\], Tamse et al. \[10\], and Goga et al. \[11\]. The prevalence of pulp stones in this study was found to be higher in the first molar than in the second molar which is in agreement with other investigators \[1, 10, 12\]. A plausible explanation is that the early eruption of the first molar will expose them for long period of time, to more degenerative changes, thus confirming that the calcification of the pulp increases with the time \[13\]. Al-Nazhan and Al-Shamrani \[13\] concluded that most attributable reason could be that as age advances the structure of the normal pulp varies. This usually leads to a progressive decrease in the number of pulp cells as well as gradual increase in mucopolysaccharides and fibrous elements leading to calcification. In the present study, 58-67 years group showed higher pulp stones which was in harmony with
 Sayegh and Reed study \[14\].
@@ -41,11 +50,16 @@ Out of 12 renal stone patients, 2 (16.67%) had pulp stones and out of 10 choleli
 proposed that nanobacteria may induce pulp calcification and kidney stone and gall stone formation \[4\].
 So, we suggest that patients with pulp stones have high propensity to develop cardiovascular or cholelithiasis. So, such patients should be screened to asses such complications at early stages. Orthodontic force application may produce periodontal inflammatory reaction. Forces can cause odon­toblastic layer degeneration due to circulatory disturbances in human pulp tissue causing calcification. The present study showed that two patients (6.66%) had pulp stones out of 30 orthodontically treated patients. Delivanis found 2 patients (4.34%) having pulp calcification out of 46 orthodontic treated patients. Sübay et al.
 \[16\] found 17.5% pulp stones in patients undergoing orthodontic treatment. They concluded in their study that extrusive forces applied to teeth do not cause significant pathological changes in human pulp tissue.
-5. Conclusion
+5.
+## **Conclusions**
+
+
 Considering the fact that this is the first study in Punjabi population that may provide a preliminary data regarding the usefulness of bite wing radiography for coronal pulp stone estimation and their implication in endodontic treatment and its relationship with pain, this study may be used as a rapid screening method for early identification of potential cardiovascular diseases. It may serve as an adjunct in forensic odontology. However, large scale longitudinal studies are required to substantiate the findings obtained in this study.
 Conflict of Interests
 The authors declare that there is no conflict of interests regarding the publication of this paper.
-References 1. S. Ranjitkar, J. A. Taylor, and G. C. Townsend, "A radiographic assessment of the prevalence of pulp stones in Australians," *Australian Dental Journal,* vol. 47, no. 1, pp. 36-40, 2002.
+
+## **References**
+ 1. S. Ranjitkar, J. A. Taylor, and G. C. Townsend, "A radiographic assessment of the prevalence of pulp stones in Australians," *Australian Dental Journal,* vol. 47, no. 1, pp. 36-40, 2002.
 2. S. C. White and M. J. Pharoah, *Oral Radiology Principles and Interpretation, Dental Anomalies,* Mosby, St Louis, Mo, USA, 5th edition, 2004.
 3. A. A.-H. Hamasha and A. Darwazeh, "Prevalence of pulp stones in lordanian adults," *Oral Surgery, Oral Medicine, Oral Pathology, Oral Radiology, and Endodontics,* vol. 86, no. 6, pp. 730-732,1998.
 4. N. Çiftçioglu, V. Çiftçioglu, H. Vali, E. Turcott, and E. O.

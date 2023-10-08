@@ -1,19 +1,19 @@
- **Pesquisa Brasileira em Odontopediatria e Clinica Integrada 2018, 18(l):e3973 \|PcM!^N^i**
+ **Pesquisa Brasileira em Odontopediatria e Clinica Integrada 2018, 18(l):e3973 \|PcM!i**
 **DOI: <http://dx.doi.org/l0.4034/PBOCI.2018.181.45>**
 **ISSN 1519-0501** **ORIGINAL ARTICLE**
 A Cone Beam Computed Tomography Study of the Prevalence of Pulp\
 Stones in a Saudi Arabian Adolescent Population
-Santosh R. Patil^1^, Kazuyuki Araki^2^, Huwaina Abd Ghani^3^, Ibrahim A.
-Al-Zoubi^4^, Mohammed G.\
-Sghaireen^5^, Ravi Kumar Gudipaneni^6^, Mohammad Khursheed Alam^7^ ^1^ Department of Oral Medicine and Radiology, College of Dentistry,
+Santosh R. Patil, Kazuyuki Araki, Huwaina Abd Ghani, Ibrahim A.
+Al-Zoubi, Mohammed G.\
+Sghaireen, Ravi Kumar Gudipaneni, Mohammad Khursheed Alam Department of Oral Medicine and Radiology, College of Dentistry,
 Jouf University, Sakaka, Aljouf, Kingdom of Saudi Arabia.
-^A^Division of Radiology, Department of Oral Diagnostic Sciences, Showa
+Division of Radiology, Department of Oral Diagnostic Sciences, Showa
 University School of Dentistry, Japan.
-^A^Lecturer, School of Dental Science, USM Health Campus, Kelantan,
+Lecturer, School of Dental Science, USM Health Campus, Kelantan,
 Malaysia \"•Department of Preventive Dentistry, College of Dentistry, Jouf
 University, Kingdom of Saudi Arabia.
-•\'\'Department of Prosthodontics, College of Dentistry, Jouf
-University, Kingdom of Saudi Arabia. \'Department of Pedodontics,
+•Department of Prosthodontics, College of Dentistry, Jouf
+University, Kingdom of Saudi Arabia. Department of Pedodontics,
 College of Dentistry, Jouf University, Kingdom of Saudi Arabia.
 Department of Orthodontics, College of Dentistry, Jouf University,
 Kingdom of Saudi Arabia.
@@ -22,14 +22,26 @@ Department of Oral Medicine and Radiology, College of Dentistry, AlJouf
 University, Sakaka, Saudi Arabia. E-mail: drpsantosh@gmail.com.
 Academic Editors: Alessandro Leite Cavalcanti and Wilton Wilney
 Nascimento Padilha
-Received: 12 January 2018 / Accepted: 01 April 2018/ Published: 05 April 2018 Abstract
+Received: 12 January 2018 / Accepted: 01 April 2018/ Published: 05 April 2018
+## **Abstract**
+
+
 **Objective:** To assess the prevalence of pulp stones using Cone Beam Computed Tomography (CBCT) in a Saudi Arabian adolescent population.
- **Material and Methods: CBCT** scans of 237 individuals compromising of 1018 teeth were examined. All teeth were analyzed in three dimensions and the presence of pulp stones were identified as a round or oval shaped dense structures in the pulp space. The location of involved tooth in terms of arch, side involved and the status of the tooth were documented. Statistical analysis was carried out by applying Chi-square test. The level of significance was set at 5%.
+ **
+## **Materials and Methods**
+
+s: CBCT** scans of 237 individuals compromising of 1018 teeth were examined. All teeth were analyzed in three dimensions and the presence of pulp stones were identified as a round or oval shaped dense structures in the pulp space. The location of involved tooth in terms of arch, side involved and the status of the tooth were documented. Statistical analysis was carried out by applying Chi-square test. The level of significance was set at 5%.
  **Results:** Pulp stones were observed in 119 out of the 237 participants, and in 118 teeth out of 1018 teeth examined, with the patient prevalence of 50.2% and tooth prevalence 10.6%. Pulp stones were observed in 76 (51.3%) of males and 43 (48.3%) of females, with no significant difference (p\>0.05). A nonsignificant difference was also noted when maxillary and mandibular arches and the left and right sides were compared. Pulp stones were observed more frequently observed in molars and in carious (8.8%) and restored teeth (17.1%).
- **Conclusion:** The prevalence of pulp stones was high in molars and in carious and restored teeth. No significant difference was noticed between gender, arch and side of tooth involved with pulp stones.
+ **
+## **Conclusions**
+
+:** The prevalence of pulp stones was high in molars and in carious and restored teeth. No significant difference was noticed between gender, arch and side of tooth involved with pulp stones.
 
 **Keywords:** Cone-Beam Computed Tomography; Dental Pulp Calcification; Prevalence.
-Introduction
+
+## **Introduction**
+
+
 Pulp stones are discrete calcified masses located in the dental pulp.
 They can be noticed in both healthy teeth, diseased, and even unerupted teeth. Pulp stones can be found in both in the primary and permanent teeth £l\]. Pulp stones may be observed in the coronal part of the pulp or may be even in the radicular pulp, as free, attached, or embedded calcified bodies in the dentine £2\]. The size of the pulp stones may vary from a macroscopic to microscopic dimension. Histologically pulp stones are classified true, which contains irregular dentine and the false, comprising of degenerative pulpal calcifications £3\].
 The aetiology behind the formation of pulp stones is still not established till date. Numerous predisposing factors, including ageing, long standing caries, restorations abrasions, periodontal disease, trauma and orthodontic treatment have been proposed £4\]. Pulp stones may be round or oval in shape and may vary in number; generalized occurrence of pulp stones has also been reported in some systemic or genetic diseases. The frequency of occurrence of pulp stones has been reported to increase with age £5\].
@@ -37,7 +49,10 @@ Pulp stones may be observed on the radiographs as a definite round or ovoid radi
 They may appear as discrete entities or as multiple dense bodies £6\].
 The histologically observed incidence of pulp stones was found to be more than that of the radiographically observed incidence £7\].
 Numerous studies have been carried out to know the prevalence of pulp stone in adult population but limited data is available in literature about the prevalence of pulp stones in adolescent population. Moreover these studies have been carried out using the conventional radiographic methods £8,9\], with this background, the present study is carried out to know the prevalence of pulp stones in adolescent Saudi Arabian population and to know any correlation between the occurrences of pulp stones with gender, tooth involved and status of the tooth.
-Material and Methods
+
+## **Materials and Methods**
+
+s
 The present study is carried out in the College of Dentistry, Jouf
 University, Kingdom of Saudi Arabia after obtaining ethical clearance.
 CBCT scans of 237 adolescents aging 12-19 years were analyzed. All the
@@ -63,7 +78,10 @@ Out of 118 involved teeth, pulp stones were observed more frequently in carious 
 Table 3. Distribution of pulp stones by tooth status.
  were most frequently observed in the first and second molars of maxillary and mandibular teeth with significant difference when compared to premolars (Table 4).
  \*Statistically significant.
-Discussion
+
+## **Discussion**
+
+
 The prevalence of pulp stones reported to vary depending on the type of examination, ether histological or radiological, sample size and the population studied. In the present study pulp stones were observed in 10.6% of adolescents, this observation was slightly less than the prevalence found in the patients of age group between 13-14 years, where a prevalence rate of 19.2% is noticed £9\].
 A comparatively higher percentage of pulp stones prevalence was observed previously in Turkish population (27.8%) £10\], Jordanian (22%) £l l\],
 Israeli (20.7%) £12\], Malaysian (15.7%) £7\] and in Iraqi population (11.2%) £13\]. Whereas, a lower prevalence of pulp stones was observed in a Malaysia (6.7%) £14\], New Zealand (4%) £l5\] and in German population (3%) £16\].
@@ -74,10 +92,15 @@ The first molars were found with the highest incidence of pulp stones, which was
 The variations in the findings of the present study in comparison with other studies may be due difference in age group of the sample, ethnic variations and geographical differences.
 One of the main limitations would be the limited sample size, which included only adolescents, and the sample obtained from only one centre.
 Detailed configurations of pulp stones were also not analyzed in this study.
-Conclusion
+
+## **Conclusions**
+
+
 In the present study pulp stones were observed in 10.6% of the teeth of
 Saudi Arabian adolescent population. No significant difference was noticed between gender, arch and side of tooth involved with pulp stones. Pulp stones were found more frequently in molars and in carious and restored teeth.
-References 1. Patil SR. Prevalence of and relationship between pulp and renal stones: A radiographic study. J Oral Biol Craniofac Res 2015; 5(3): 189-92. doi: 10.1016/j.jobcr.20l5.06.010.
+
+## **References**
+ 1. Patil SR. Prevalence of and relationship between pulp and renal stones: A radiographic study. J Oral Biol Craniofac Res 2015; 5(3): 189-92. doi: 10.1016/j.jobcr.20l5.06.010.
 2. Kaswan S, Patil S, Maheshwari S, Rahman F, Khandelwal S. The relationship between pulp calcifications and salivary gland calcifications. J Clin Exp Dent 2014; 6(5):e474-e478. doi: 10.4317/jced.51518.
 3. Patil S, Sinha N. Pulp stone, haemodialysis, end-stage renal disease, carotid atherosclerosis. J Clin Diagn Res 2013; 7(6): 1228-31. doi: 10.7860/JCDR/2013/5087.3042.
 4. Beres F, Isaac J, Mouton L, Rouziere S, Berdal A, Simon S, et al.

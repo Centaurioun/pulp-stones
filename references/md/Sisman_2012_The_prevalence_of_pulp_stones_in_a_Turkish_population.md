@@ -1,24 +1,36 @@
 *Journal section: Oral Medicine and Pathology Publication Types:
 Research doi: 10.4317/medoral. 17400* *<http://dx>. doi. org/doi:10.4317/medoral. 17400*
 The prevalence of pulp stones in a Turkish population.\
-A radiographic survey **Yildiray Sisman \\ Ali-Murat Aktan ^2^, Elif Tarım-Ertas \\
-Mehmet-Ertuğrul Çiftçi^3^, Ahmet-Ercan Şekerci^4^** 1. PHD, DDS. Department of Oral Diagnosis and Radiology, School of Dentistry, Erciyes University, Kayseri, Turkey PHD, DDS Deparment of Oral Diagnosis and Radiology, School of Dentistry, Katip Çelebi University, İzmir 2. PHD, DDS. Department of Oral Diagnosis and Radiology, School of Dentistry, Gaziantep University, Gaziantep, Turkey 3. PHD. Department of Oral Diagnosis and Radiology, School of Dentistry, Gaziantep University, Gaziantep, Turkey 4. PHD. Department of Oral Diagnosis and Radiology, School of Dentistry, Erciyes University, Kayseri, Turkey *Correspondence:*
+A radiographic survey **Yildiray Sisman  Ali-Murat Aktan , Elif Tarım-Ertas
+Mehmet-Ertuğrul Çiftçi, Ahmet-Ercan Şekerci** 1. PHD, DDS. Department of Oral Diagnosis and Radiology, School of Dentistry, Erciyes University, Kayseri, Turkey PHD, DDS Deparment of Oral Diagnosis and Radiology, School of Dentistry, Katip Çelebi University, İzmir 2. PHD, DDS. Department of Oral Diagnosis and Radiology, School of Dentistry, Gaziantep University, Gaziantep, Turkey 3. PHD. Department of Oral Diagnosis and Radiology, School of Dentistry, Gaziantep University, Gaziantep, Turkey 4. PHD. Department of Oral Diagnosis and Radiology, School of Dentistry, Erciyes University, Kayseri, Turkey *Correspondence:*
 *Gaziantep Üniversitesi, Dişhekimliği Fakültesi*
 
-Abstract
+
+## **Abstract**
+
+
 Objectives: The goal of this retrospective study was to determine the prevalence of pulp stones in a Turkish popula­tion. Any possible associations between pulp stones and gender, tooth type and dental arch were also evaluated. Study Design: Four hundred and sixty nine patients' bitewing radiographs which were reached through the patient database of
 Erciyes University Dentistry School, Department of Oral Diagnosis and
 Radiology were examined. Of these 469 subjects whose mean age was 24( ± 10.7), 302 were females and 167 were males. A total of 6,926 teeth were examined during this study. Pulp stones were recorded as present or absent and any relations with gender, tooth type and dental arch were noted.
 Results: Pulp stones were identified in 270 (57.6 %) of the subjects and in 1,038 (15 %) of the teeth examined. Their presence were seldom found in the premolars (9.07%) but was much higher in the molars (90.92 %).
 Pulp stone occurrence was significantly more common in the first molars than in the second molars, and in the first premolars than in the second premolars in each dental arch. Their occurrence was higher in the maxilla than in the mandible for each tooth type. No difference between the two genders could be identified.
-Conclusion: Pulp stones are not only incidental radiographic findings of the pulp tissue but may also be an indica­tor of some serious underlying disease. On the other hand, they may provide useful information to predict about the susceptibility of patients for other dystrophic soft tissue calcifications such as urinary calculi and calcified atheromas.
+
+## **Conclusions**
+
+: Pulp stones are not only incidental radiographic findings of the pulp tissue but may also be an indica­tor of some serious underlying disease. On the other hand, they may provide useful information to predict about the susceptibility of patients for other dystrophic soft tissue calcifications such as urinary calculi and calcified atheromas.
 However, further study on this issue is needed.
 ***Key words:** Prevalence, pulp stone, Turkish population.*
-Introduction
+
+## **Introduction**
+
+
 Pulp stones are calcified bodies in the dental pulps of the teeth in the primary and permanent dentition. They can be seen in the pulps of healthy, diseased, and even unerupted teeth (1). Their locations are more common in the coronal than in the radicular portions of the pulp and they can be observed as free, attached, and embed­ded in the dentinal surface of the pulp chamber. Pulp stones are classified done according to their structure as true, false, and diffuse. They range in size from small microscopic particles to large masses that almost oblit­erate the pulp chamber (2).
 Although the exact cause of pulp calcification is un­known some factors have been implicated in stone for­mation such as genetic predisposition (3), orthodontic tooth movement, circulatory disturbance in pulp, age (4), interactions between the epithelium and pulp tis­sue, idiopathic factors (5), and long-standing irritants like caries, deep restorations, and chronic inflamma­tion (6). Studies related to the prevalence of pulp stones, based on radiographic examinations, have been report­ed with various percentages (ranging from 8% to 95%) (7-16). Females are more frequently affected than males (11,16,17). However, to our knowledge, there has been only one report on the prevalence of pulp stone involv­ing a Turkish population (16).
 The aim of this radiographic-based study was to deter­mine the prevalence of pulp stones in a group of Turk­ish population, and to evaluate possible associations be­tween pulp stones and gender, tooth type, dental arch, and side, and to compare the results with published data presenting a new perspective in forensic medicine.
-Materials and Methods
+
+## **Materials and Methods**
+
+
 The comprised bitewing radiographic-based materials which were examined in the present study were col­lected from the 8000 files of patients who were referred to Department of Oral Diagnosis and Radiology at Erci- yes
 University's Faculty of Dentistry, for routine dental examination.
 Patients whose bitewing radiographs were taken bilaterally during routine radiographic examina­tion were included in the present study.
@@ -35,7 +47,10 @@ A total of 469 patients (302 females and 167 males) par­ticipated in the presen
 In total 6,926 teeth were examined during the study. In this randomly selected study, 1,038 teeth with pulp stones in the pulp chamber or coronal portion of the roots were detected, 731 in those of females and 307 were in those of males.
 The incidence of pulp stone was found to be 15 %. Pulp stones were detected in 731 of the 4,479 teeth (10.56 %) examined in females and in 307 of the 2447 teeth (4.44 %) examined in males with significant difference be­tween the genders (p\<0.05) (Table 1). The occurrence of pulp stones was higher in the maxilla than in the man­dible in each tooth type and when data for both arches were combined (p\<0.001) (Table 2).
 There were no sta­tistically significant differences between the right and the left side in each tooth type and arch (p=0.101) (Table 3). Pulp stones were found in only 96 (9.07 %) of the 3538 premolars and in 962 (90.92 %) of the 3424 molars examined, with differences in occurrence being sta­tistically significant (p\<0.001). The frequency of pulp stones was higher in the first molars than in the second molars and in first premolars than in second premolars in each dental arch and when data for both arches were combined (p\<0.001) (Table 4).
-Discussion
+
+## **Discussion**
+
+
 Calcification in the dental pulp can lead to denticles, commonly known as pulp stones. Therefore, the term "pulp stone" was used to indicate pulpal calcification in the present study. They are often incidental findings on dental radiographs and in the literature the incidence of pulp stones has been investigated in many radiological studies (7,8,11,15,16,18). In such studies bitewing and periapical radiographs were used and it was stated that these two radiographic techniques did not show signifi­cant differences in the diagnosis of pulpal calcification (15,19,20). However, since the bitewing radiographic technique is a better radiographic method rather than other conventional techniques (7), it was used in this study to illustrate the pulpal anatomical structure ac­curately.
 When the literature related to pulp stones was reviewed, there were a limited number of studies regarding the in­cidence of pulp stones.
 Moreover, the reported rates of prevalence also differed in the studies.
@@ -57,7 +72,9 @@ The etiological factors for the formation of pulpal cal­cifications are not wel
 Although the currently held clinical view is that pulp stones have no clinical significance, they lead to complications when endodontic therapy is needed; this may lead to hinder­ing canal location and negotiation. Authors also report­ed a correlation between pulpal calcification and car­diovascular disease and those subjects with a history of cardiovascular disease were found to have an increased incidence of pulp stones in asymptomatic vital pulps, compared to subjects with no history of cardiovascu­lar disease (9,18,22). This shows that pulp stones found incidentally in the pulp tissue play an important role in the diagnosis of a serious underlying disease or condi­tion. In addition, in forensic dentistry, the radiographic matching of pulp stone configurations, along with other features recorded in dental records, may provide valu­able information in the identification of deceased per­sons (3). In addition, based on the patient's dental data including radiographs it is probable that the presence of pulp stones in pulp tissue may be associated with heart attack related death. Therefore, further research related to pulp stones may contribute additional information to the field of forensic medicine.
 The incidence of pulp stones was found to be 15% in a Turkish population, which is in agreement with previous studies on the subject.
 Pulp stones are not only inciden­tal radiographic findings of the pulp tissue but may also be an indicator of some serious underlying disease.
-References 1. Langeland K, Rodrigues H, Dowden W. Periodontal disease, bac­teria, and pulpal histopathology. Oral Surg Oral Med Oral Pathol.
+
+## **References**
+ 1. Langeland K, Rodrigues H, Dowden W. Periodontal disease, bac­teria, and pulpal histopathology. Oral Surg Oral Med Oral Pathol.
  1974;37:257-70.
 2. Bevelander G Johnson PL. Histogenesis and histochemistry of pulpal calcification. J Dent Res. 1956;35:714-22.
 3. Van DenBerghe JM, Panther B, Gound TG. Pulp stones through­out the dentition of monozygotic twins: a case report. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 1999;87:749-51.

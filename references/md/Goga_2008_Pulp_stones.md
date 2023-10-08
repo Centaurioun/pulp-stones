@@ -1,10 +1,13 @@
 doi:10.1111/j.l365-2591.2008.01374.x
 REVIEW
 Pulp stones: a review
-R. Goga^1^, N. P. Chandler^2^ & A. 0. Oginni^3^ \'Private endodontic practice, Johnsonville, Wellington, New Zealand; department of Oral Rehabilitation, School of Dentistry, University of
+R. Goga, N. P. Chandler & A. 0. Oginni Private endodontic practice, Johnsonville, Wellington, New Zealand; department of Oral Rehabilitation, School of Dentistry, University of
 Otago, Dunedin, New Zealand; and department of Restorative Dentistry,
 Obafemi Awolowo University, lie Ife,Nigeria
-Abstract **Goga R, Chandler NP, Oginni AO.** Pulp stones: a review.
+
+## **Abstract**
+
+ **Goga R, Chandler NP, Oginni AO.** Pulp stones: a review.
 *International Endodontic Journal,* **41,** 457-468, 2008.
 Pulp stones are a frequent finding on bitewing and periapical radiographs but receive relatively little attention in textbooks. A review of the literature was therefore performed, initially using the
 PubMed data­base and beginning the search with 'pulp calcifications' and 'pulp stones'. Each term provided more than 400 references, many of which related to pulp calcification in general rather than pulp stones, and focussed largely on the problems these changes presented to clinicians.
@@ -13,7 +16,10 @@ Contemporary textbooks in endodontology were also consulted, and an historic per
 The factors involved in the development of the pulp stones are largely unknown. Further research may determine the reasons for their formation, but with current endodontic instruments and techniques this is unlikely to alter their relevance to clinicians.
 **Keywords:** dental radiography, endodontics, pulp stones.
 *Received 22 August 2006; accepted 8 November 2007*
-Introduction
+
+## **Introduction**
+
+
 Pulp stones are discrete calcifications and are amongst changes that include more diffuse pulp calcifications such as dystrophic calcification. Stones may exist freely within the pulp tissue or be attached to or embedded in dentine (Johnson & Bevelander 1956). Two types of calcified bodies in the dental pulp have been described (Moss-Salentijn & Klyvert 1983): denticles possessing a central cavity filled with epithelial remnants sur­rounded peripherally by odontoblasts, and pulp stones being compact degenerative masses of calcified tissues.
 A single tooth may have from 1 to 12 or even more stones, with sizes varying from minute particles to large masses which occlude the pulp space (Johnson & Bevelander 1956). They are reported to occur more often in the coronal region but are also found in the
 Correspondence: Nicholas Chandler, Associate Professor, Department of
@@ -40,7 +46,7 @@ Various mechanisms for inducing fibroblasts in the pulp to produce dentine or de
 When human dental pulp stem cells were transplanted into immunocompromised mice, they generated a dentine­like structure lined with human odontoblast-like cells that surrounded a pulp-like interstitial tissue (Gronthos *et al.* 2000). Other research using a rat model has shown mineralization by dental pulp-derived cells (Hayashi *et al.* 1993), as well as the potential for dental pulp-derived cells to differentiate into osteoblast­like cells (Ueno *et al.* 2001).
 Unidentified mesenchymal stem cells and pericytes are possible cell lines which might differentiate into odontoblast-like cells under suitable inductive signals.
 Electron microscopy has shown that in the pulp tissue there can be many foci of calcification 1 pm or less in diameter, either as smooth-surfaced spherical clusters or closely packed layers around collagen fibres or as intracellular deposits (Appleton & Williams 1973).
-The smooth-surfaced spherical clusters often appeared to push the collagen fibres to one side, with the actual crystallites being closely packed and varying in size. Surrounding these spherical pulp stones was an electron dense narrow band, which suggested gradual deposition of mineral at the surface (i.e. no fibrous matrix). Some early foci, however, contained fine needle-like crystallites which were closely associated with the matrix collagen. These measured in the region of 50Â in width and l,000Â in length. Following demineralization using EDTA it was apparent that these crystallites were embedded in an electron dense granular material coating small groups of collagen fibres. This is a similar appearance to that seen in early bone formation.
+The smooth-surfaced spherical clusters often appeared to push the collagen fibres to one side, with the actual crystallites being closely packed and varying in size. Surrounding these spherical pulp stones was an electron dense narrow band, which suggested gradual deposition of mineral at the surface (i.e. no fibrous matrix). Some early foci, however, contained fine needle-like crystallites which were closely associated with the matrix collagen. These measured in the region of 50a in width and l,000a in length. Following demineralization using EDTA it was apparent that these crystallites were embedded in an electron dense granular material coating small groups of collagen fibres. This is a similar appearance to that seen in early bone formation.
 In the case of intracellular (fibroblast) deposition of crystallites, these appeared to be enclosed within the mitochondrial membrane. The crystallites were again needle-like, but measured approximately 25A in width and 500A in length. Both the crystallites surrounding the collagen fibres and the intracellular crystallites gave a similar diffraction pattern, typical of a hydroxy­apatite-like material. Calcification that takes place within the mitochondria of some cells can be a reflection of a local metabolic change within the cells and may be related to minor circulatory disturbances in the pulp vessels (Saunders 1966). The initial action is likely to be the formation of amorphous calcium phosphate, which can be accumulated in the mito­chondrial matrix (Wuthier *et al.* 1985). Variation in size and morphology of the crystallites composing the pulp stones may represent different forms of calcium phosphate (Schroeder 1965).
 Large, free pulp stones, which appeared spherical in outline and had concentric laminations following demineralization, had an electron dense central zone surrounded by a less dense peripheral zone about 2-3 pm in width. The central zone consisted of closely packed crystallites approximately 50A x 300A associ­ated with closely packed collagen fibres visible in the background. The collagen fibres in the matrix were coated with an electron-opaque material. Therefore, the large laminated pulp stones seemed to develop by the deposition of concentric layers of collagen fibres which then become mineralized (Appleton & Williams 1973).
 Le May & Kaqueler (1993) used electron probe micro-analysis to investigate the mineral composition of human pulp stones. The stones were composed of two major elements: calcium and phosphorus. The average concentrations were 32.1% and 14.7%, respectively, resulting in a calcium/phosphorus weight ratio of 2.19, very close to the 2.15 of pure hydroxy­apatite. Other elements included fluorine (0.88%), sodium (0.75%) and magnesium (0.51%). Potassium, chlorine, manganese, zinc and iron were present at trace concentrations.
@@ -83,11 +89,18 @@ Wahab & Kennedy 1986, Ataman *et al.* 1987). Along similar lines, pulp stones ha
 Klyvert 1988). The presence of pulp stones or diffuse calcifications does not affect the threshold of electric pulp testing (Moody *et al.* 1989). In the absence of any additional signs or symptoms, pulp stones should not be interpreted as a disorder requiring endodontic therapy.
 Textbooks discuss the clinical relevance of pulp stones in terms of their effect upon root canal treatment. Their large size in the pulp chamber may block access to canal orifices and alter the internal anatomy. Attached stones may deflect or engage the tip of exploring instruments, preventing their easy passage down the canal (Pashley *et al.* 2002). Sometimes a large pulp stone can be dissected out of an access cavity using burs, but ultrasonic instrumentation with the use of special tips makes their removal far easier (Stamos *et al.* 1985, Pitt
 Ford *et al.* 2002). Within narrow canals ultrasonics should ideally be coupled with the dissolving action of sodium hypochlorite to produce a synergistic effect (Cunningham & Balekjian 1980). Should a stone be attached to the canal wall and a file can be passed alongside the stone, it may be removed by careful instrumentation (Pitt Ford & Mitchell 2004). Generally speaking however, pulp stones present little clinical difficulty during root canal treatment when magnification, good access and appropriate instru­ments are employed.
-Conclusions
+
+**
+## **Conclusions**
+
+s**
+
 It would appear that pulp stones are primarily a physiological manifestation (as are most other pulpal calcifications) and may increase in number and/or size due to local or systemic pathology. The aetiological factors involved in their formation are still not fully apparent. Their primary clinical relevance remains in the area of endodontic treatment, much in the way that secondary and tertiary dentine formations also influ­ence root canal treatment. While further investigation may shed more light on their formation, it seems unlikely to alter their significance to the endodontist and the general dentist.
 Acknowledgment
 Professor Tom Kardos is thanked for providing Fig. 1(b).
-References
+
+## **References**
+
 Abdel Wahab MH, Kennedy JG (1986) Pulp stones as a cause of dental pain: a case report. *Journal of the Irish Dental Association 32,* 19-21.
 Appleton J, Williams MJ (1973) Ultrastructural observations on the calcification of human dental pulp. *Calcified Tissue Research* **11,**222-37.
 Arys A, Philippart C, Dourov N (1993) Microradiography and light microscopy of mineralization in the pulp of undemin­eralized human primary molars. *Journal of Oral Pathology and Medicine* **22,** 49-53.
@@ -171,7 +184,7 @@ Pashley DH, Walton RE, Slavkin HC (2002) Histology and physiology of the dental 
 Hamilton, ON, Canada: BC Decker Inc, pp. 43-5.
 Philippas GG (1961) Influence of occlusal wear and age on formation of dentin and size of pulp chamber. *Journal of Dental Research* **40,** 1186-98.
 Pitt Ford TR, Mitchell PJC (2004) Problems in endodontic treatment. In:
-Pitt Ford TR, ed. *Harty\'s Endodontics In Clinical Practice,* 5th edn.
+Pitt Ford TR, ed. *Hartys Endodontics In Clinical Practice,* 5th edn.
 Edinburgh: Wright, P. 241.
 Pitt Ford TR, Rhodes JS, Pitt Ford HE (2002) *Endodontics
 Problem-Solving in Clinical Practice.* London, UK: Martin Dunitz Ltd, P.

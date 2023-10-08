@@ -1,21 +1,33 @@
 International Endodontic Journal \| doi:10.1111/j.1365-2591.2009.01580.x
 A radiographic assessment of the prevalence of pulp stones in a group of
 Turkish dental patients
-A. Gulsahi^1^, A. I. Cebeci^2^ & S. Özden^2^ department of Oral Diagnosis and Radiology, Faculty of Dentistry,
+A. Gulsahi, A. I. Cebeci & S. Özden department of Oral Diagnosis and Radiology, Faculty of Dentistry,
 Başkent University; and department of Oral Diagnosis and Radiology,
 Faculty of Dentistry, Ankara University, Ankara, Turkey
-Abstract **Gulsahi A, Cebeci Al, Özden S.** A radiographic assessment of the prevalence of pulp stones in a group of Turkish dental patients.
+
+## **Abstract**
+
+ **Gulsahi A, Cebeci Al, Özden S.** A radiographic assessment of the prevalence of pulp stones in a group of Turkish dental patients.
 *International Endodontic Journal,* **42,** 735-739, 2009.
 **Aim** To determine the prevalence of pulp stones in a group of patients using radiographs, and to assess any associations with age, gender, systemic diseases, tooth type, jaw, caries, restorations, impacted third molars and dental anomalies including dens invaginatus, taurodontism, dens evaginatus and microdontia.
 **Methodology** A total of 519 patients were selected randomly amongst patients referred to Oral Diagnosis and Radiology Department, Faculty of
 Dentistry, Ankara University. After clinical inspection, full-mouth peri­apical radiographs were obtained. An oral radiologist examined the radiographs to identify pulp stones. Frequency distribution of teeth with pulp stones was calculated and statistical analysis was performed with chi-square test.
-**Results** Of the patients, 313 (60%) were female and 206 (40%) were male. Sixty (12%) had one or more teeth that contained pulp stones.
+## **Results**
+ Of the patients, 313 (60%) were female and 206 (40%) were male. Sixty (12%) had one or more teeth that contained pulp stones.
 Amongst the 13 474 teeth examined radiographically, 627 (5%) had pulp stones. There was no significant association between pulp stone occurrence and gender or systemic diseases. As age increased, the prevalence of pulp stones increased (P \< 0.01). Molars had statistically more pulp stones than premolars and incisors (P \< 0.001).
 Frequencies in both maxillary and mandibular jaw were similar. There was no association between pulp stones and impacted third molars, caries, restorations or dental anomalies.
-**Conclusions** The prevalence of pulp stones increased with age and was significantly higher in molar teeth than premolars and incisors. There was no significant asso­ciation between pulp stones and gender, systemic diseases, impacted third molars, condition of the crown and dental anomalies.
+**
+**
+## **Conclusions**
+
+s**
+** The prevalence of pulp stones increased with age and was significantly higher in molar teeth than premolars and incisors. There was no significant asso­ciation between pulp stones and gender, systemic diseases, impacted third molars, condition of the crown and dental anomalies.
 **Keywords:** aetiology, calcification, prevalence, pulp, radiography.
 *Received 18 November 2008; accepted 26 February 2009*
-Introduction
+
+## **Introduction**
+
+
 Pulp stones are calcified masses in the dental pulp of healthy, diseased, or unerupted teeth (Baghdady *et al.* 1988, al-Hadi Hamasha &
 Darwazeh 1998). Stones may exist freely within the pulp or be attached to or embedded in dentine (Bevelander & Johnson 1956,
 Correspondence: Ayse Gulsahi, Department of Oral Diagnosis and
@@ -40,7 +52,10 @@ The teeth with pulp stones were also been examined for caries and restorations. 
 Twelve patients (20%) with pulp stones had impacted third molars, 96 patients (21%) not having pulp stones had impacted third molars. The difference was not statisti­cally significant.
 The distribution of dental anomalies in teeth with pulp stones is shown in Table 3. Of the 627 teeth with pulp stones, 46 teeth (7%) had dens invaginatus, four teeth (1%) had taurodontism, four teeth (1%) had dens evaginatus, and two teeth (0.3%) had microdontia. No significant association was found between pulp stones and any of these conditions.
 
-Discussion
+
+## **Discussion**
+
+
 Detection of pulp stones using dental radiographs is only possible when the diameter is larger than 200 pm (Osborne & Ten Cate 1976, Baghdady *et al. 1988,* Moss- Salentijn & Hendricks-Klyvert 1988). The paralleling technique was used rather than the bisecting angle technique, as distortion could occur in the latter whilst in the paralleling technique a more standard image can be obtained by having the central beam perpendicular to the long axis of the tooth (Baghdady *et al.* 1988). Bitewing radiographs could also be used, but would limit the examination to the crown only. Whilst Baghdady *et al.* (1988) used bite wing radiographs to investigate the prevalence of pulp stones, al-Hadi Hamasha & Darwazeh (1998) assessed both periapical and bite wing radiographs. Tamse *et al.* (1982) examined both peri­apical and bitewing radiographs to identify pulp stones and to compare the two radiographic techniques and concluded that no significant difference was found between the projections.
 al-Hadi Hamasha & Darwazeh (1998) examined patient records of 814
 Jordanian adults and pulp stones were present on radiographs in 51% of the patients and 22% of the teeth studied. Baghdady *et al.* (1988) assessed 515 Iraqi teenage subjects and recorded that 19% of the teeth contained pulp stones. Furthermore,
@@ -53,13 +68,20 @@ Prevalence of pulp stones *Gulsahi et al.* stones and presence of arterioscleros
 Similar frequencies in both maxillary and mandibu­lar arches were found in the present study. This finding was in agreement with al-Hadi Hamasha & Darwazeh (1998). In most previous studies the trend for a higher occurrence of pulp stones in molar teeth compared with premolars and incisors were noted (Tamse *et al.* 1982, Baghdady *et al.* 1988, al-Hadi Hamasha & Darwazeh 1998, Ranjitkar *et al. 2002).* This study confirmed this finding.
 Any irritation to the pulp caused by operative procedures, chronic irritants such as caries, abrasion, erosion, periodontal diseases and traumatic response to orthodontic treatment may have a deleterious influence on the pulp (James *et al.* 1959, Baghdady *et al.* 1988). The effect of irritation by the microor­ganisms of dental caries on the pulpal tissue could produce a vascular wall injury, resulting in deposition of calcium salts within the tissue. Ranjitkar *et al.* (2002) suggested that chronic pulp irritation might lead to pulp stone formation, but these results need to be interpreted with caution given that they were derived from radiographic evidence only and that data for carious and restorated teeth were pooled for analysis. A higher occurrence of pulp calcification has been noted in carious, unrestored teeth than in restored teeth, presumably because the pulps have some degree of chronic inflammation because of the previous insults This study, however, did not reveal a significant association between the existence of pulp stones and the condition of the crown of the tooth (intact, caries or restored). Furthermore, no relation­ship between impacted third molars and prevalence of pulp stones was found. Other studies also failed to find any significant association between pulp stone occur­rence and the presence of caries or restorations (Tamse *et al.* 1982, Baghdady *et al.* 1988).
 In the study performed by al-Hadi Hamasha & Darwazeh (1998), high incidence of pulp stones was associated with conditions such as dilacerations, impactions, taurodontism and enamel pearls. The same authors, investigating the prevalence of taur- odontism in Jordanian adults, reported that 27% of taurodont teeth had pulp stones or calcifications (Darwazeh *et al.* 1998). However, in this study, no significant association was found between pulp stones and dens invaginatus, taurodontism, dens evaginatus and microdontia.
-Conclusions
+
+**
+## **Conclusions**
+
+s**
+
 The prevalence of pulp stones increased with age. However, there was no significant association between pulp stone occurrence and gender and systemic diseases. In addition, pulp stones in molar teeth were significantly more common than premolars and inci­sors. There was no relationship between pulp stones and impacted third molars, caries, restorations and dental conditions including dens invaginatus, taur- odontism, dens evaginatus and microdontia.
 Acknowledgement
 This study was presented at 11th European Congress of Dentomaxillofacial
 Radiology, 25-28 June 2008,
 Budapest, Hungary.
-References
+
+## **References**
+
 Arys A, Philippart C, Dourov N (1993) Microradiography and light microscopy of mineralization in the pulp of undemin­eralized human primary molars. *Journal of Oral Pathology & Medicine **22,*** 49-53.
 Baghdady VS, Ghose LJ, Nahoom HY (1988) Prevalence of pulp stones in a teenage Iraqi group. *Journal of Endodontics* **14,** 309-11.
 Bevelander G, Johnson PL (1956) Histogenesis and histo­chemistry of pulpal calcification. *Journal of Dental Research* **35,** 714-22.

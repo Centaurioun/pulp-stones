@@ -12,12 +12,16 @@ After immersion in tnethanol for de­hydration, iti chlorofonn for defatting, an
 Safag, Bienne, Switzerland). Each section was reduced to a uniform thickness of 80 (im by man­ual grinding on a ground glass plate under methanol. A micrograph of the sections was taken on a fine grain Ko­dak .spectroscopic plate 649.0, exposed to long wavelength x-radiations pro­duced by a Machlett tube with a tung­sten anode and I mm thick beryllium window (Baltograph BF 5020, Liege, Belgium). The exposure at 13 kV and 18 mA lasted 15 min for a film focus distance of 61 mm. In order to complete the microradiographic observations, the undemineralized sections were stained with methylene blue (0.5% pH 4,3),
 The samples were mounted and studied under natural or polarized light.
 Histo­logic observations were made on an average of 10 non-demineralized slices per tooth.
-**Results**
+## **Results**
+
 Histologically, four different types of mineralization were observed in the dental pulps. They were identified as free and attached pulp stones (1), dif­fuse calcifications (2), ebumoVd tissue (3) and spherulitic calcifications (4).
 Ninety-five percent of the molars ex­amined contained pulp calcifications. The prevalences of the four different types of mineralized material in primary molars are summarised in Fig. 1, and their relative frequency of occurrence is shown in Fig. 2. The percentages of teeth with pulpal calcifications were correlated with different parameters such as age, sex, treatments and prefer­ential localization in the pulp (Table 1 4, Fig. 3). The microradiographic prevalence of pulpal calcifications was closely similar for males and females, as well as for maxillary and mandibular molars, and for first and second molars. In the treated group, the percentage of teeth showing pulp calcifications was lower than in the non-treated molars (Fig- 4).
-*Pulp stones* were contained in 33 *(lH\'7i\<)* of the molars (Fig. 1).
+*Pulp stones* were contained in 33 *(lH7i\<)* of the molars (Fig. 1).
 They were masses of calcified bodies showing ho­mogeneous radiopacity, or hetero­geneous globular structures of highly mineralized material generally more *Mineratiz(ttion inpritnarv toothpulp* 51 erally, the spherulites were fomied by the association of rhombic crystals con­verging towards a radiolucent center. In some cases the crystals were tightly packed, disclosing a fine radial pattern (Fig.
- 9A, B). The polarized light exami­nation *of* the corresponding undem­ineralized ground sections showed bire­fringence and a striped pattern in the spherulites. The micrographs showed that the spherulites contained nutnerous pyknotic nuclei (Fig. *9C).* **Discussion**
+ 9A, B). The polarized light exami­nation *of* the corresponding undem­ineralized ground sections showed bire­fringence and a striped pattern in the spherulites. The micrographs showed that the spherulites contained nutnerous pyknotic nuclei (Fig. *9C).* **
+## **Discussion**
+
+**
 In the microradiographic study, thick .serial sections were made (120 (.itn), then reduced to 9D \|,iin. Thus a large fraction of the pulp area was not examined. This method does not lend itself to an accu­rate statistical survey of the prevalence of pulp calcifications.
 Nevertheless, we attempted to assess the occurrence in the pulp of one or the other types of inincr;ili/cd tissue by histologic observa­tion of an average of 10 non-demtneral- i/ed slices per tooth. We noted the inimber of teeth containing each type of pulp mineralization. In this way, the total number of positive observations provided an evaluation of the represen­tation of the dilTerent types of microeal- cifications in the pulp and of their rela­tive occurrence in the dilTerent molar groups.
 However, as interpretation of the results is limited by the histologic nature of the inquiry, they have not been submitted to statistical tests.

@@ -1,16 +1,20 @@
 DE GRUYTER OPEN
 *ARSMedica Tomitana - 2017; 3(23): 137-141*
 *10.1515/arsm-2017-0024*
-Gheorghiu Irina-Maria^1^, Perlea Paula^2^, Mitran Loredana^3^, Iliescu
-A.A.^4^, Scarlatescu Sanziana^2^, Suciu Ioana^2^, Mitran M.^5^
+Gheorghiu Irina-Maria, Perlea Paula, Mitran Loredana, Iliescu
+A.A., Scarlatescu Sanziana, Suciu Ioana, Mitran M.
 Dental lesions and restorative treatment in molars 1. Department of Restorative Odontotherapy, Faculty of Dental Medicine, UMF "Carol Davila" Bucharest 2. Department of Endodontics, Faculty of Dental Medicine, UMF "Carol Davila" Bucharest.
 3. Department of Otorhinolaryngology, Elias Hospital 4. Department of Oral Rehabilitation, Faculty of Dental Medicine, UMF Craiova 5. Department of Obstetrics and Gynecology, Faculty of Medicine, UMF "Carol Davila" Bucharest.
-**Introduction**
 
-ABSTRACT
+## **Introduction**
+
+
+## **Abstract**
+
+
 This article review specific clinical issues of the molar teeth, as well as the therapeutic approach of their pathology. The dental pathology we face in the group of molars is related to: dental caries, dental trauma (crown and crown-root fractures), dental wear phenomena. The therapeutic approach of the molar teeth is represented by: restoration of the loss of hard dental tissues; endodontic treatments of pulpal and periapical complications; surgical treatment. The restorative treatments in molars are: direct restorations, with or without supplementary anchorage for obturations; inlay, onlay; prosthetic crown.
 Keywords: molar; dental caries; crown trauma; dental wear phenomena; coronal restoration **Paula Perlea**
-Faculty of Dental Medicine, UMF "Carol Davila" Bucharest Calea Plevnei 17-23, Bucharest email: paula.perlea@gmail.com
+Faculty of Dental Medicine, UMF "Carol Davila" Bucharest Calea Plevnei 17-23, Bucharest email: <paula.perlea@gmail.com>
 On each human dental arch there are six permanent molars. The molar teeth have the largest volume in the oral cavity and the best implantation because they are pluriradicular. Their morphological particularities (large crown, extended occlusal surface, the presence of a high number of cusps: 4-5 cusps) make them particularly involved in the masticatory function by the trituration of the food.
 The first permanent molars erupt at the age of 6-7 years old, distal to the second deciduous molars. This moment marks the transition from the small child to the pupil and it is an important moment marking the transition to a new stage of life. Practically, with the eruption of the permanent first molar, the dentition begins to be replaced by that which will be permanent dentition.
 The pathology of permanent molars
@@ -31,22 +35,25 @@ Prosthetic restoration of molar crown integrity takes its place when massive des
 Acknowledgements
 For this article all the authors have equal contributions.
 *Figure 4 - Crown preparation for ceramic inlay*
-References 1. Popa, M.P., Bodnar, D. & Varlan, M.C. (2006). *Manual de Odontoterapie Restauratoare,* Ed. Univ. Carol Davila, Bucuresti.
-2. Fox, C. (2010). Evidence summary: what do dentists mean by prevention' when applied to what they do in their practices? *Br Dent J. 208(8),* 359-363. doi: 10.1038/sj.bdj.2010.371.
-3. Shanbhog, R., Godhi, B.S., Nandlal, B., Kumar, S.S., Raju, V. & Rashmi, S. (2013). Clinical consequences of untreated dental caries evaluated using PUFA index in orphanage children from India. *JInt Oral Health.* 5(5), 1-9..
-4. Filstrup, S.L., Briskie, D., da Fonseca, M., Lawrence, L., Wandera, A. & Inglehart, M.R. (2003). Early childhood caries and quality of life: child and parent perspectives. *Pediatr Dent.
+
+## **References**
+
+ 1.  Popa, M.P., Bodnar, D. & Varlan, M.C. (2006). *Manual de Odontoterapie Restauratoare,* Ed. Univ. Carol Davila, Bucuresti.
+ 2.  Fox, C. (2010). Evidence summary: what do dentists mean by prevention' when applied to what they do in their practices? *Br Dent J. 208(8),* 359-363. doi: 10.1038/sj.bdj.2010.371.
+ 3.  Shanbhog, R., Godhi, B.S., Nandlal, B., Kumar, S.S., Raju, V. & Rashmi, S. (2013). Clinical consequences of untreated dental caries evaluated using PUFA index in orphanage children from India. *JInt Oral Health.* 5(5), 1-9..
+ 4.  Filstrup, S.L., Briskie, D., da Fonseca, M., Lawrence, L., Wandera, A. & Inglehart, M.R. (2003). Early childhood caries and quality of life: child and parent perspectives. *Pediatr Dent.
  25(5),* 431-440..
-5. Iliescu, A. & Gafar, M. (2011). Cariologie si odontoterapie restauratoare. Ed. Medicala. Bucuresti.
-6. Banerjee, A. & Domejean, S. (2013). The contemporary approach to tooth preservation: minimum intervention (MI) caries management in general practice. *Prim Dent J.* 2(3), 30-37.
-7. Dugmore, C.R. & Rock, W.P. (2003). The progression of tooth erosion in a cohort of adolescents of mixed ethnicity. *Int J Paediatr Dent.
+ 5.  Iliescu, A. & Gafar, M. (2011). Cariologie si odontoterapie restauratoare. Ed. Medicala. Bucuresti.
+ 6.  Banerjee, A. & Domejean, S. (2013). The contemporary approach to tooth preservation: minimum intervention (MI) caries management in general practice. *Prim Dent J.* 2(3), 30-37.
+ 7.  Dugmore, C.R. & Rock, W.P. (2003). The progression of tooth erosion in a cohort of adolescents of mixed ethnicity. *Int J Paediatr Dent.
  13(5),* 295-303.
-8. Featherstone, J.D.B. & Lussi, A. (2006). Understanding the chemistry of dental erosion.
+ 8.  Featherstone, J.D.B. & Lussi, A. (2006). Understanding the chemistry of dental erosion.
  In: Whitford GM (ed) *Monographs in Oral Science. Dental erosion: from diagnosis to therapy.* Karger, Basel, (pp. 66-76).
-9. Monse, B., Heinrich-Weltzien, R., Benzian, H., Holmgren, C. & van Palenstein Helderman, W. (2010). PUFA---an index of clinical consequences of untreated dental caries. *Community Dent Oral Epidemiol.* 3S(1), 77-82. doi: 10.1111/j. 1600- 0528.2009.00514.x.
-10. Baratieri, L.N. & Ritter, A.V. (2001). Four- year clinical evaluation of posterior resin-based composite restorations placed using the total­etch technique. *J Esthet Restor Dent. 13(\\),* 50­57.
-11. Mjor, I.A. & Toffenetti, F. (2000). Secondary caries: a literature review with case reports. *Quintessence Int. 31(3),* 165-179.
-12. Mickenautsch, S., Yengopal, V. & Banerjee, A. (2010). Atraumatic restorative treatment versus amalgam restoration longevity: a systematic review. *Clin Oral Investig. 14(3),* 233-240. doi: 10.1007/s00784-009-0335-8.
-13. Popa, M.B. (2006). Estetica in Odontoterapia Restauratoare. Ed Univ.
+ 9.  Monse, B., Heinrich-Weltzien, R., Benzian, H., Holmgren, C. & van Palenstein Helderman, W. (2010). PUFA---an index of clinical consequences of untreated dental caries. *Community Dent Oral Epidemiol.* 3S(1), 77-82. doi: 10.1111/j. 1600- 0528.2009.00514.x.
+10.  Baratieri, L.N. & Ritter, A.V. (2001). Four- year clinical evaluation of posterior resin-based composite restorations placed using the total­etch technique. *J Esthet Restor Dent. 13,* 50­57.
+11.  Mjor, I.A. & Toffenetti, F. (2000). Secondary caries: a literature review with case reports. *Quintessence Int. 31(3),* 165-179.
+12.  Mickenautsch, S., Yengopal, V. & Banerjee, A. (2010). Atraumatic restorative treatment versus amalgam restoration longevity: a systematic review. *Clin Oral Investig. 14(3),* 233-240. doi: 10.1007/s00784-009-0335-8.
+13.  Popa, M.B. (2006). Estetica in Odontoterapia Restauratoare. Ed Univ.
  Carol Davila. Bucuresti.
-14. Varlan, C. (2016). *Note de curs - Facultatea de Medicinâ Dentarâ,* UMF Carol Davila, Bucuresti.
-15. Gheorghiu, I. (2013). *Complicatiile distructiilor dentare coronare.* Ed. Universitarâ Carol Davila, Bucureşti.
+14.  Varlan, C. (2016). *Note de curs - Facultatea de Medicina Dentara,* UMF Carol Davila, Bucuresti.
+15.  Gheorghiu, I. (2013). *Complicatiile distructiilor dentare coronare.* Ed. Universitara Carol Davila, Bucureşti.

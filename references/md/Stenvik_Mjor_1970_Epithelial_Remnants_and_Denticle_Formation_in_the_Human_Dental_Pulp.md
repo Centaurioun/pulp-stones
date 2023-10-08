@@ -9,7 +9,10 @@ EPITHELIAL REMNANTS AND DENTICLE FORMATION
 IN THE HUMAN DENTAL PULP by
 A. STENVIK
 I. A. MJOE
-INTRODUCTION
+
+## **Introduction**
+
+
 Various types of mineralized deposits in the dental pulp have been reported, and they are usually referred to as pulp stones or denticles.
 They have been classified according to their location (free, attached and embedded) or according to their structure (true, false and diffuse or amorphous *(Orban,* 1957)). The variation in location and structure may indicate differences in the histogenesis of pulp stones. True denticles, which exhibit typical dentine structure, are usually found in the radicular pulp *(Orban, 1951 ;Sundell et al.,* 1968).
 A number of conditions have been claimed to initiate or predispose to denticle formation, such as ageing *(Hill,* 1934; *Suyegh & Reed,* 1968), circulatory disturbances *(Reichborn-Kjennerud,* 1967; *Sundell et al.,* 1968), caries and pulp pathosis *(Suyegh & Reed,* 1968;//«//, 1968), arteriosclerosis *(Stafne & Szabo,* 1933), and epithelial rests in the pulp tissue *(Orban,* 1928; *Jarmer, 1951; Hoffer,* 1966).
@@ -17,7 +20,10 @@ Epithelial remnants or rests, believed to originate from Hertwig's sheath, are f
 Received for publication, December 1, 1969.
 722 A. STENVIK AND I. A. MJOR
 A high frequency of pulp stones and epithelial remnants was observed in the apical region of young premolars which had been subjected to experi­mental intrusion *(Stenvik & Mjor,* 1970; *Stenvdk,* 1970). The material from these investigations was, therefore, re-examined in order to study the histo­genesis of pulp stones under these experimental conditions.
-MATERIALS AND METHODS
+
+## **Materials and Methods**
+
+
 All the teeth were premolars which were scheduled for extraction in connec­tion with orthodontic treatment. Thirty-five of the teeth were extracted without previous treatment (control material), and another group of 35 teeth (experimental material I) was subjected to intrusive forces (35-250 g) from 4-35 days using fixed orthodontic, appliances *(Stenvik & Mjor,* 1970). The teeth in this experimental group were extracted immediately after the intrusive force had been removed. In a third group (experimental material 11), comprising 25 teeth, the intrusive force (50-200 g) acting from 5-28 days, was removed 4-104 days prior to the extraction of the teeth *(Stenvik,* 1970).
 Hematoxylin and eosin stained, decalcified sections were prepared from all the teeth using a conventional histologic technique. The teeth were examined in order to study the frequency, development and structure of pulp stones and the presence of epithelial remnants in the pulp tissue.
 The terms pulp stones and denticles will be used synonymously in the present report. Amorphous deposits were identified as acellular, strongly hema- toxyphilic areas in the pulp tissues.
@@ -53,7 +59,10 @@ PLATE II *126 A.* STENVIK AND I. A. MJOR were similar in appearance to those in 
 The normal root devel­opment (Fig. 5) was markedly affected by the experimental intrusion (Figs. 6, 7). This was associated with alterations in the normal location of Hertwig's sheath (Fig. 6).
 Radially arranged cells were found in the cell islands (Figs. **3,** 4,8). Matrix formation sometimes occurred adjacent to these islands (Figs. 9, 10, 12, 13), and some cell remnants were surrounded by matrix typical of pulp stones (Figs. 11-13). In certain sections, the stones did not show such a central core of cells (Fig. 12), but by studying serial sections, it became apparent that all of the pulp stones iii this material had cells entrapped centrally (Fig. 13).
 The structure of the pulp stones was usually of an irregular and globular type of dentine with tubules (Figs. 4, 11). Their stainability indicated a peripheral zone of unmineralized (eosinophilic) matrix. A distinct layer of cells, considered to be the formative elements, often bordered the eosinophilic, peripheral zone (Fig. 9).
-DISCUSSION
+
+## **Discussion**
+
+
 The increased frequency of pulp stones in the present experimental material as compared to the normal material, indicates that pulp stone formation may be initiated by orthodontic treatment. However, the increased frequency was only manifested in experimentalmaterial II where the observation periods were longer than in experimental material I. It appears likely that other types of continuously acting mild ))traumas))nay affect the pulp similarly. More intermittently acting forces, as found in connection with hyperfunc­tion, have also been reported to result in p \~ d jstone formation *(Reichborn- Kjennerud,* 1967).
 The experimental treatment is considered to result in an altered location and an interruption of the epithelial sheath in thoseteeth where root formation was incomplete. Because of interruptions, epithelial islands may appear in the pulp tissue. The cells in these islands, believed to originate from Hertwig's sheath, in some cases apparently maintain their normal properties as far as induction of odontoblast differentiation from the cells in the dental papilla is concerned. However, cell remnants with no adjacent matrix formation were also observed in some teeth, including the tooth with 104 days observa­tion period after the intrusive force was removed. The explanation for this phenomenon can only be conjunctional. It may be that the cells in these particular islands had nbt reached full differentiation before they became detached from the epithelial sheath or that they had lost their inductive properties.
 EPITHELIAL REMNANTS AND DENTICLE FORMATION 727
